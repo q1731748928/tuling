@@ -1,0 +1,38 @@
+
+
+
+特征
+    _abck
+
+
+https://www.dhl.com/b9bz4aPm2qiMiYK2Rh-qEaXg/9Y1JczQDJ7pw/GjsCUlM/PigsJnw/QIAQB  GET  返回JS
+
+https://www.dhl.com/b9bz4aPm2qiMiYK2Rh-qEaXg/9Y1JczQDJ7pw/GjsCUlM/PigsJnw/QIAQB   POST
+    请求参数
+        sensor_data  关键点
+    返回  _abck  头部返回的
+
+
+
+(dd.EH(Qt, rI(rI(sC)), Or))[dd.P8(bw(FO), rI(rI({})), g5)](Y9, dd.PH(YM, PY));
+Y9 = se_data
+
+XRd = ("{"sensor_data":"")["concat"](Y9, ""}");
+
+分析Y9 怎么来的
+
+
+2个流程
+    1、58位数组生成
+    2、58位数组加密 得到 sensor_data
+    3、携带sensor_data 请求获取 _abck
+
+
+dd.Jz(KK, z0, QI)
+dd.Jz.apply(null, [KK, Z5, QI])
+dd.XJ.call(null, dl, MK, vc)
+
+
+
+课件 https://www.yuque.com/buziran/nktf0k/egynsplpybr7dyvt?singleDoc# 《3. cookie对抗》
+

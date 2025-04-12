@@ -1,0 +1,31 @@
+
+ java.lang.String com.google.gson.internal.bind.TypeAdapters$16@834ad83
+java.lang.Throwable
+        at java.util.HashMap.put(Native Method)
+        at org.json.JSONObject.put(JSONObject.java:272)
+        at com.dodonew.online.http.JsonRequest.addRequestMap(JsonRequest.java:116)
+        at com.dodonew.online.ui.LoginActivity.requestNetwork(LoginActivity.java:161)
+        at com.dodonew.online.ui.LoginActivity.login(LoginActivity.java:134)
+        at com.dodonew.online.ui.LoginActivity.onClick(LoginActivity.java:103)
+        at android.view.View.performClick(View.java:7259)
+        at android.view.View.performClickInternal(View.java:7236)
+        at android.view.View.access$3600(View.java:801)
+        at android.view.View$PerformClick.run(View.java:27892)
+        at android.os.Handler.handleCallback(Handler.java:883)
+        at android.os.Handler.dispatchMessage(Handler.java:100)
+        at android.os.Looper.loop(Looper.java:214)
+        at android.app.ActivityThread.main(ActivityThread.java:7356)
+        at java.lang.reflect.Method.invoke(Native Method)
+        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+
+text = equtype=ANDROID&loginImei=Androidnull&timeStamp=1713879798979&userPwd=123123123123&username=13535353535&key=sdlkjsdljf0j2fsjk
+sign = md5(text)
+
+{"equtype":"ANDROID","loginImei":"Androidnull","sign":"1F4655917469A32A7BC08DBB540DC067","timeStamp":"1713877840372","userPwd":"123123123123","username":"13535353535"}
+
+
+输出--》 Encrypt NIszaqFPos1vd0pFqKlB42Np5itPxaNH//FDsRnlBfgL4lcVxjXii/UNcdXYMk0Er+dH33DGoDYU
+lwoZwA0Jqy49YlyM16GgtxBdNkZxNNH6hHCBRt3dFapW+e+1mkfKL9GqCvRCcsLZ4dOjJ+tkWSf6
+Mgl9Y69BB/gU7v73FH/KieXe9hMxtnQLK3dWLfQGs8mSrFUlE3lkgOS/LlBv1l1HelKl8JMb

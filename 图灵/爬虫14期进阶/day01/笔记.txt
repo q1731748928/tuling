@@ -1,0 +1,49 @@
+js逆向
+    js加密
+        对敏感数据进行保护     密码
+        客户端数据的保护     vip访问   加密   用户凭证
+        密码保护    12345678      比方:asjkhfjksdhfjkhjksdf
+
+
+
+
+    js逆向是干嘛的?
+        不是破解
+        通过js代码进行反向获取数据的过程
+        模拟加密(解密)的过程    转换成自己的python代码(js代码)
+
+
+爬虫4个步骤
+    获取接口
+        通过接口获取数据    api
+        https://www.jizhy.com/open/sch/rank-list?page=2&page_len=20&diploma_id=7&wenli=0&app_id=98357f659cf8fb6001cff80f7c6b85f2&ts=1711369714968&platform=desktop&v=210&sign=8D124EEBCF5B379797C3771D440657B7
+
+
+    发送请求
+        请求头
+            cookie
+               cookie加密   安全产品
+            ua
+            refere
+            host
+            自定义请求头
+
+    解析数据
+        数据加密
+
+
+    保存数据
+
+
+
+py底层自己去封装了 数据类型
+
+
+
+
+
+
+
+
+
+

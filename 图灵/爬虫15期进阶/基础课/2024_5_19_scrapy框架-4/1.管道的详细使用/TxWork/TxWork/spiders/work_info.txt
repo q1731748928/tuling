@@ -1,0 +1,400 @@
+{
+    "title": "Game Client Development intern 900093",
+    "department": "IEG",
+    "address": "堪培拉\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Responsibilities\nImplement and improve a variety of fast and efficient core software using Unreal Engine 5;\nMaintain and build code using C++ for all assigned work streams;\nHelp provide architectural oversight across the entire application;\nCollaborate to devise optimal engineering solutions to technical challenges.\r\nWork Location: Australia-Canberra"
+}
+{
+    "title": "Game Client Development intern 900090",
+    "department": "IEG",
+    "address": "奥克兰\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Responsibilities\nImplement and improve a variety of fast and efficient core software using Unreal Engine 5;\nMaintain and build code using C++ for all assigned work streams;\nHelp provide architectural oversight across the entire application;\nCollaborate to devise optimal engineering solutions to technical challenges.\r\nWork Location: New Zealand-Auckland"
+}
+{
+    "title": "Game Client Development intern 900109",
+    "department": "IEG",
+    "address": "东京\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Responsibilities\nImplement and improve a variety of fast and efficient core software using Unreal Engine 5;\nMaintain and build code using C++ for all assigned work streams;\nHelp provide architectural oversight across the entire application;\nCollaborate to devise optimal engineering solutions to technical challenges.\r\nWork Location: Japan-Tokyo-Mori Tower"
+}
+{
+    "title": "Backend Development intern 900092",
+    "department": "IEG",
+    "address": "堪培拉\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月15日",
+    "recruit_data": "Responsibilities\n●Responsible for the design and coding of support services in the process of game development and operation\n●Responsible for global deployment and maintenance of services\n●Collaborate with data and AI engineers to build large-scale data processing systems\r\nWork Location: Australia-Sydney | Australia-Canberra"
+}
+{
+    "title": "Backend Development intern 900089",
+    "department": "IEG",
+    "address": "奥克兰\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月16日",
+    "recruit_data": "Responsibilities\n●Responsible for the design and coding of support services in the process of game development and operation\n●Responsible for global deployment and maintenance of services\n●Collaborate with data and AI engineers to build large-scale data processing systems\r\nWork Location: New Zealand-Auckland"
+}
+{
+    "title": "Backend Development intern 900108",
+    "department": "IEG",
+    "address": "东京\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Responsibilities\n●Responsible for the design and coding of support services in the process of game development and operation\n●Responsible for global deployment and maintenance of services\n●Collaborate with data and AI engineers to build large-scale data processing systems\r\nWork Location: Japan-Tokyo-Mori Tower"
+}
+{
+    "title": "Backend Development intern 900099",
+    "department": "IEG",
+    "address": "新加坡\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月30日",
+    "recruit_data": "●Responsible for the design and coding of support services in the process of game development and operation.\n●Responsible for global deployment and maintenance of services.\n●Collaborate with data and AI engineers to build large-scale data processing systems.\r\nWork Location: Singapore-CapitalSpring"
+}
+{
+    "title": "Game Tester Intern 900051",
+    "department": "IEG",
+    "address": "新加坡\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月30日",
+    "recruit_data": "Tencent Games was established in 2003. We are a leading global platform for game development, operations and publishing, and the largest online game community in China.\nTencent Games has developed and operated over 140 games. We provide cross-platform interactive entertainment experience for more than 800 million users in over 200 countries and regions around the world. Honor of Kings, PUBG MOBILE, and League of Legends, are some of our most popular titles around the world.\nMeanwhile, we actively promote the development of esports industry, work with global partners to build an open, collaborative and symbiotic industrial ecology, and create high-quality digital life experiences for players.\n\nResponsibilities:\n- Develop testing tools for games. Design and execute test cases.\n- Responsible for quality control of the games. Propose, follow-up and implement test plans. Monitor projects' production quality and implement improvements.\n- Gather and analyse product testing requirements. Explore more testing methodology and dimensions. Improve quality, efficiency and depth of testing process.\r\nWork Location: Singapore-CapitalSpring"
+}
+{
+    "title": "DevOps Engineer 101733",
+    "department": "TEG",
+    "address": "帕罗奥多\n                  ",
+    "post": "技术",
+    "date": "更新于2023年08月17日",
+    "recruit_data": "- Building and supporting infrastructure tools to improve processes & efficiency.\n- Building advanced automated build, test, and release infrastructure tools.\n- Identifying and solving critical problems and preventing them from reoccurring via root cause analysis and automation.\r\nWork Location: US-Palo Alto"
+}
+{
+    "title": "S2游戏风险管理(数据方向)",
+    "department": "S2",
+    "address": "深圳\n                  ",
+    "post": "财务",
+    "date": "更新于2024年05月09日",
+    "recruit_data": "1.  使用大数据分析技术对IEG业务运营中的风险进行监控，接入监控模型，识别与评估业务风险，确认业务管控情况，协调监控发现问题的弥补与改善；\n2.  支持业务其他常规审计，包括流程审计，专项审计，并提供相关IT支持和数据分析。"
+}
+{
+    "title": "Lead Tools Engineer",
+    "department": "IEG",
+    "address": "尔湾\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Help maintain a culture of fast iteration and practical problem solving.\nWork with IT teams to ensure a quality setup for all developers and pipelines.\nHelp maintain a culture of fast iteration and practical problem solving.\nManage a team of engineers and own quality of team deliverables.\nAct as Product Owner for shared service and tools vision and maintain product roadmap.\nCreate, monitor, and control metrics impacting product and team quality.\nEvolve iteratively existing systems into state-of-the-art solutions.\nWork closely with teammates to design and build performant, reliable and fast iteration tools using proven practices. \nEvolve iteratively existing systems into state-of-the-art solutions.\nWork closely with teammates to design and build performant, reliable and fast iteration tools using proven practices.\r\nWork Location: US-Irvine"
+}
+{
+    "title": "腾讯广告平台与内容广告算法工程师",
+    "department": "CDG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月06日",
+    "recruit_data": "1.负责流量收入，基于场景优化广告排序，提升流量变现效率；\r\n2.结合预算机会，建设流量匹配方案，提高预算渗透。"
+}
+{
+    "title": "Game Research & Development Intern, Engine Research 102161",
+    "department": "IEG",
+    "address": "洛杉矶\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Working with scientists to research and develop advanced techniques in the following topics:\n3D geometric learning, \nRe-meshing and UV optimization,\nPhysically-based animation and simulation\nMachine learning for computer graphics\nMotion planning in virtual city\nCharacter locomotion and control\nrealistic image synthesis and real-time rendering techniques\nResearching and developing tools and pipelines to facilitate the use of technologies in the game development environment\r\nWork Location: US-Irvine | US-Los Angeles | US-Palo Alto"
+}
+{
+    "title": "Game Research & Development Intern, Engine Research 100383",
+    "department": "IEG",
+    "address": "洛杉矶\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Working with scientists to research and develop advanced techniques in the following topics:\n3D geometric learning, \nRe-meshing and UV optimization,\nPhysically-based animation and simulation\nMachine learning for computer graphics\nMotion planning in virtual city\nCharacter locomotion and control\nrealistic image synthesis and real-time rendering techniques\nResearching and developing tools and pipelines to facilitate the use of technologies in the game development environment\r\nWork Location: US-Irvine | US-Los Angeles | US-Palo Alto"
+}
+{
+    "title": "Game Research & Development Intern, Engine Research 102577",
+    "department": "IEG",
+    "address": "贝尔维尤\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Job DescriptionWorking with scientists to research and develop advanced techniques in the following topics:\n3D geometric learning, \nRe-meshing and UV optimization,\nPhysically-based animation and simulation\nMachine learning for computer graphics\nMotion planning in virtual city\nCharacter locomotion and control\nrealistic image synthesis and real-time rendering techniques\nResearching and developing tools and pipelines to facilitate the use of technologies in the game development environment\r\nWork Location: US-Los Angeles | US-Bellevue-108th Ave | US-Palo Alto"
+}
+{
+    "title": "Game Research & Development Intern, Engine Research 102581",
+    "department": "IEG",
+    "address": "洛杉矶\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Job DescriptionWorking with scientists to research and develop advanced techniques in the following topics:\n3D geometric learning, \nRe-meshing and UV optimization,\nPhysically-based animation and simulation\nMachine learning for computer graphics\nMotion planning in virtual city\nCharacter locomotion and control\nrealistic image synthesis and real-time rendering techniques\nResearching and developing tools and pipelines to facilitate the use of technologies in the game development environment\r\nWork Location: US-Los Angeles | US-Bellevue-108th Ave | US-Palo Alto"
+}
+{
+    "title": "#大模型应用算法工程师#",
+    "department": "PCG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月09日",
+    "recruit_data": "1.参与大规模语言模型的算法相关研发；\r\n2.参与对齐效果研发，适配业务需求，优化大模型的建模和对齐效果，提升真实性，缓解幻觉问题；\r\n3.负责跟踪和探索大语言模型的前沿问题，结合实际场景，提供全面的技术解决方案，参与前沿算法与应用的研究。"
+}
+{
+    "title": "Speech Algorithm Intern 900097",
+    "department": "IEG",
+    "address": "伦敦\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Tencent's Lightspeed Studios published over 50 popular products such as PUBG Mobile and League of Legends Mobile etc, with research and development centers in more than 10 countries and regions worldwide. The goal of our team is to develop AI-powered speech and audio processing algorithms for game production. The twist of our algorithms is that the generated or processed audio must be of studio-level high quality and fidelity for an immersive gaming experience. We encourage discussions and collaborations between researchers and interns. Interns are also encouraged to publish the results from the internship. \nJob Responsibility:● Develop novel and advanced speech and audio processing algorithms and systems.\n● Optimize current speech and audio processing models with high quality and fidelity gaming audio data.\n● Analyze and improve efficiency, scalability of current systems.\n● Collaborate with team members from prototyping to production.\r\nWork Location: UK-London"
+}
+{
+    "title": "Senior TA /高级游戏技术美术（pipeline）",
+    "department": "IEG",
+    "address": "深圳\n                  ",
+    "post": "设计",
+    "date": "更新于2024年05月19日",
+    "recruit_data": "1.作为PipelineTD, 负责确保工作室群各个美术团队中游戏项目中使用的工具，软件和流程的顺利运行；\r\n2.为艺术家们提供面对面的技术支持和帮助，并开发新的工具和脚本（主要使用Python或者C++）以满足项目组的要求；\r\n3.为艺术家们提供技术建议与支持，与程序或者其他部们合作开发特定的新工具和工作流程，并与国内团队协作开发，为光子工作室群的pipeline的开发和不断改进做出贡献。"
+}
+{
+    "title": "腾讯专有云系统测试工程师",
+    "department": "腾讯云智研发子公司",
+    "address": "西安\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月14日",
+    "recruit_data": "1.负责腾讯专有云产品的需求和架构分析，测试设计和测试开发工作,包括IaaS，PaaS，SaaS,存储，网络等，包括但不限于功能，性能，可靠性，鲁棒性，升级部署验证，用户体验等系统测试；\r\n2.对测试方案进行有效的落地和执行，以确保项目进度和软件质量，形成自动化测试用例并进一步形成服务化提升效率；\r\n3.架构并实现IaaS，PaaS等产品自动化测试能力，提升产品测试和交付效率；\r\n4.不断提升测试过程，方法和技术，构建质量评估标准，优化改进措施，提升产品质量和效率；\r\n5.备注：此岗位为腾讯集团旗下子公司编制岗位。"
+}
+{
+    "title": "大数据系统测试工程师",
+    "department": "腾讯云智研发子公司",
+    "address": "西安\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月06日",
+    "recruit_data": "1.负责大数据hadoop，spark，ES, hive，flink，clickhouse以及数据湖等相关产品的测试工作；\r\n2.分析产品相关需求、设计、架构等，设计测试方法和测试用例；\r\n3.挖掘并跟进实施性能测试、竞品对比测试、稳定性等专项测试，保障和提升产品质量；\r\n4.负责建设产品相关的自动化测试、Devops等工作；\r\n5.不断改进测试过程、方法和技术，提升产品质量；\r\n6.注：此岗位为腾讯集团旗下子公司编制岗位。"
+}
+{
+    "title": "Data Science Intern 900003",
+    "department": "IEG",
+    "address": "新加坡\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月09日",
+    "recruit_data": "Level Infinite is a global game publisher offering a comprehensive network of bespoke services for games, development teams and studios around the world.\n\nWe are dedicated to delivering engaging and original gaming experiences to a worldwide audience, whenever and wherever they choose to play, while building a community that fosters inclusivity, connection, and accessibility. The brand also provides a wide range of services and resources to our network of developers and partner studios around the world to help them unlock the true potential of their games. Level Infinite is both publisher of breakout hit games like PUBG MOBILE and Goddess of Victory: NIKKE, and a collaborative partner in games such as Fatshark’s Warhammer 40,001: Darktide, Dune: Awakening from Funcom, Nightingale from Inflexion Studios and many more. To learn more about Level Infinite, visit levelinfinite.com, and follow on Twitter, Facebook, Instagram and YouTube.\n\n1. We are hiring internships for the applied machine learning and growth DS team. 2. Join our team to build AI bots in games using reinforcement learning. 3. Support the production of scalable and optimised AIService for AI bots. 4. Run experiments to test the performance of deployed models, and identifies and resolves bugs that arise in the process. 5. Research new approaches to improve the performance.\r\nWork Location: Singapore-CapitalSpring"
+}
+{
+    "title": "Algorithm Research Intern 900015",
+    "department": "IEG",
+    "address": "新加坡\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Level Infinite is a global game publisher offering a comprehensive network of bespoke services for games, development teams and studios around the world.\n\nWe are dedicated to delivering engaging and original gaming experiences to a worldwide audience, whenever and wherever they choose to play, while building a community that fosters inclusivity, connection, and accessibility. The brand also provides a wide range of services and resources to our network of developers and partner studios around the world to help them unlock the true potential of their games. Level Infinite is both publisher of breakout hit games like PUBG MOBILE and Goddess of Victory: NIKKE, and a collaborative partner in games such as Fatshark’s Warhammer 40,008: Darktide, Dune: Awakening from Funcom, Nightingale from Inflexion Studios and many more. To learn more about Level Infinite, visit levelinfinite.com, and follow on Twitter, Facebook, Instagram and YouTube.\n\n- Develop machine learning models for user churn prediction and LTV forecasting, employing advanced statistical techniques and algorithms.\n- Perform user segmentation to identify distinct groups within our user base, aiding in targeted marketing strategies and personalized user experiences.\n- Engage in feature engineering to enhance model performance, including selecting, modifying, and creating new features that improve predictive models.\n- Utilize sequence modeling techniques to analyze time-series data, identifying trends and patterns that inform strategic business decisions.\r\nWork Location: Singapore-CapitalSpring"
+}
+{
+    "title": "Research and Development Intern 900004",
+    "department": "IEG",
+    "address": "洛杉矶\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Working with scientists to research and develop advanced techniques in the following topics:\n3D geometric learning, \nRe-meshing and UV optimization,\nPhysically-based animation and simulation\nMachine learning for computer graphics\nMotion planning in virtual city\nCharacter locomotion and control\nRealistic image synthesis and real-time rendering techniques\nResearching and developing tools and pipelines to facilitate the use of technologies in the game development environment\r\nWork Location: US-Los Angeles"
+}
+{
+    "title": "芯片软件栈研发工程师",
+    "department": "TEG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月09日",
+    "recruit_data": "1.负责芯片软件栈，包括计算运行时、计算框架、周边生态工具等软件的研发；\r\n2.负责芯片在业务中落地及全链路端到端优化。"
+}
+{
+    "title": "大数据系统测试工程师（武汉）",
+    "department": "腾讯云智研发子公司",
+    "address": "西安\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "1.负责大数据hadoop，spark，ES, hive，flink，clickhouse以及数据湖等相关产品的测试工作；\r\n2.分析产品相关需求、设计、架构等，设计测试方法和测试用例；\r\n3.挖掘并跟进实施性能测试、竞品对比测试、稳定性等专项测试，保障和提升产品质量；\r\n4.负责建设产品相关的自动化测试、Devops等工作；\r\n5.不断改进测试过程、方法和技术，提升产品质量；\r\n6.注：此岗位为腾讯集团旗下子公司编制岗位。"
+}
+{
+    "title": "加速后台开发工程师",
+    "department": "TEG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月19日",
+    "recruit_data": "1.负责腾讯云EdgeOne、CDN业务底层转发平台的研发和日常运营；\r\n2.产品服务于全球客户，为企业提供一站式网络加速和安全防护能力；\r\n3.技术上涉及：全球网络加速、安全攻防对抗、DNS、调度、Anycast等方向。"
+}
+{
+    "title": "Game Engine Intern 900006",
+    "department": "IEG",
+    "address": "洛杉矶\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Job Description\nWorking with scientists to research and develop advanced techniques in the following topics:\n\n3D geometric learning, \nRe-meshing and UV optimization,\nPhysically-based animation and simulation\nMachine learning for computer graphics\nMotion planning in virtual city\nCharacter locomotion and control\nrealistic image synthesis and real-time rendering techniques\nResearching and developing tools and pipelines to facilitate the use of technologies in the game development environment\r\nWork Location: US-Los Angeles"
+}
+{
+    "title": "Uncapped Games – Technical Artist (All Levels)",
+    "department": "IEG",
+    "address": "加利福尼亚州\n                  ",
+    "post": "设计",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Uncapped Games of Tencent’s Lightspeed Studios is focused on creating an original, action-packed PC Real-Time Strategy game that has a low barrier to entry and is impossible to master.  Our ambitious group of passionate developers is looking for a knowledgeable and versatile Technical Artist to help us unlock the full potential of this project and push boundaries in the genre.\n\n Perks:\nFreedom to collaborate beyond the boundaries of your role\nHighly creative and collaborative start-up culture \nCompetitive pay and benefits\n\n What you’ll get to do:\nCollaborate with the Art and Engineering Teams to help build and support content tools and architecture\nSupport Art and UI needs in Unity (Data Implementation, Prefab Setup and Maintenance)\nHelp establish and build the Cosmetic Asset Database and validate the content therein\nHelp optimize and improve the Art Pipelines with DCC programs like Maya, Houdini and Substance\nLive Service pipeline work and maintenance\r\nWork Location: US-California-Remote"
+}
+{
+    "title": "Senior Technical Artist",
+    "department": "IEG",
+    "address": "东京\n                  ",
+    "post": "设计",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Responsibilities:\nWorkflow construction and maintenance\n\nTool production and maintenance for business efficiency\n\nMaking proposals and doing technical research for improving graphic quality for our partners\n\nRaise the level of art by accumulating knowledge of the latest TechArt trends from GDC, SIGGRAPH, and other publications, and sharing this knowledge with partners.\n\nIf necessary, work with partners onsite to resolve issues together.\r\nWork Location: Japan-Tokyo-Mori Tower"
+}
+{
+    "title": "WeChat - Data Scientist",
+    "department": "WXG",
+    "address": "新加坡\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Roles & Responsibilities\nTo look into both qualitative and quantitative data sets, perform analysis to derive problems and to build solutions through the use of machine learning and deep learning approaches\nCollect large sets of structured and unstructured data from independent sources, cleaning and validating the data to ensure accuracy, completeness, and uniformity\nAnalyzing the data to identify patterns or trends via Machine Learning, Deep Learning models to look for actionable insights, potential opportunities and/or threats to WeChat ecosystem\nInterpreting the data to discover solutions or opportunities and building a story-board to communicate such insights to the business for actions\r\nWork Location: Singapore-WeWork"
+}
+{
+    "title": "腾讯游戏高级海外运营经理",
+    "department": "IEG",
+    "address": "深圳\n                  ",
+    "post": "产品",
+    "date": "更新于2024年05月13日",
+    "recruit_data": "1.负责公司出海游戏的投放及数据分析，并能制定投放策略，预算规划等；\r\n2.监控广告数据，定期进行数据分析和总结，不断优化推广效果，对投放结果负责；\r\n3.能够及时了解广告平台最新动态，并有效探索和优化，向团队输出成果。"
+}
+{
+    "title": "高级数据平台工程师",
+    "department": "IEG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月05日",
+    "recruit_data": "1.数据平台的架构设计、开发和维护，为海量数据处理和分析提供高效解决方案；\r\n2.负责大数据组件Hadoop/Flink/Hive/Pulsar等开源组件二次开发和优化；\r\n3.游戏数据处理、统计、分析等开发工作，通过数据辅助产品日常运营决策；\r\n4.游戏的数据运营指标体系建设, 参与制定游戏数据治理标准。"
+}
+{
+    "title": "Database Engineering Intern 103018",
+    "department": "IEG",
+    "address": "新加坡\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月14日",
+    "recruit_data": "The Interactive Entertainment Group (IEG) at Tencent is responsible for the R&D, operation, and development of the company's interactive entertainment business including games and eSports. Through online gaming, live broadcasts, and offline eSports, IEG assists the company in leading the global interactive entertainment market to create better interactive entertainment content experiences for users.\n\nAs Database Engineering Intern, you will support the DBA team on following areas:\nPlanning, developing and delivering production database platforms on cloud.\n\nProvides production databases on cloud 24X7 running technical support and services.\n\nTroubleshoot and resolve databases issues.\n\nDatabases on cloud optimization and performance tuning.\n\nDatabases on cloud fully high availability implementation. \n\nWorking with Company R&D to keep the database in latest patching and version.\r\nWork Location: Singapore-CapitalSpring"
+}
+{
+    "title": "腾讯云音视频测试工程师（西安）",
+    "department": "腾讯云智研发子公司",
+    "address": "武汉\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月02日",
+    "recruit_data": "1.负责腾讯云音视频产品的全流程质量管控工作，包括参与需求分析，帮助完善需求与开发设计实现，合理设计测试计划，实施测试活动，跟进缺陷，协助研发分析定位问题等；\r\n2.保证被测系统的质量，并通过测试流程和方法创新，提升研发的质量和效率；\r\n3.参与团队效率提升相关工作，包括但不限于自动化建设，环境维护，测试工具开发等；\r\n4.注：此岗位为腾讯集团旗下子公司编制岗位。"
+}
+{
+    "title": "虚拟人算法工程师",
+    "department": "TEG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月01日",
+    "recruit_data": "1.负责三维数字人、三维生成等相关领域的前沿研究与开发，针对应用场景研发最新的CV、CG算法，快速复现学界业界最新的算法并提出改进方案，并和工程师一起将前沿算法优化至可商用的程度；\r\n2.研究和开发用来高保真的3D人脸和人体建模、驱动、渲染、动画相关的算法 在顶级会议或期刊上发表计算机视觉和图形学高质量学术论文。"
+}
+{
+    "title": "金融科技风险模型分析师",
+    "department": "CDG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月18日",
+    "recruit_data": "1.通过机器学习建模与数据挖掘有效识别支付领域各类违法犯罪风险（如涉赌、欺诈、洗钱）并进行实时打击，控制风险大盘；\r\n2.同时基于上下游信息，对风险手法及链路进行识别，挖掘并打击可疑团伙。"
+}
+{
+    "title": "Algorithm Software Engineer Intern 900021",
+    "department": "IEG",
+    "address": "新加坡\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Level Infinite is a global game publisher offering a comprehensive network of bespoke services for games, development teams and studios around the world.\n\nWe are dedicated to delivering engaging and original gaming experiences to a worldwide audience, whenever and wherever they choose to play, while building a community that fosters inclusivity, connection, and accessibility. The brand also provides a wide range of services and resources to our network of developers and partner studios around the world to help them unlock the true potential of their games. Level Infinite is both publisher of breakout hit games like PUBG MOBILE and Goddess of Victory: NIKKE, and a collaborative partner in games such as Fatshark’s Warhammer 40,014: Darktide, Dune: Awakening from Funcom, Nightingale from Inflexion Studios and many more. To learn more about Level Infinite, visit levelinfinite.com, and follow on Twitter, Facebook, Instagram and YouTube.\n\n1. Develop inference service for algorithm models.\n2. Develop AIGC applications that have high performance and low latency.\n3. Deploy algorithm service and large models on different Clouds, such as Tencent Cloud, AWS, and GCP.\r\nWork Location: Singapore-CapitalSpring"
+}
+{
+    "title": "微信支付支付平台后台开发工程师",
+    "department": "WXG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月15日",
+    "recruit_data": "1.持续打造高安全，高稳定，高业务扩展性的国民工具微信支付；\r\n2.建设5个9可用性的金融级海量支付平台，面对极端异常仍然保障用户正常支付；\r\n3.面对海量业务规则组合的复杂支付业务，保障系统功能实现的高质量全覆盖。"
+}
+{
+    "title": "微信视频号高级/专家推荐算法工程师(直播/直播带货)",
+    "department": "WXG",
+    "address": "广州\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月14日",
+    "recruit_data": "1.负责视频号直播及直播带货推荐，对召回、粗排、精排、策略等链路进行优化；\r\n2.结合业务的实际特点将工业界、学术界的前沿技术落地提升业务效果；\r\n3.对用户和作者行为做深入的分析和理解，制定算法策略促进生态良性发展。"
+}
+{
+    "title": "微信视频号高级/专家推荐算法工程师(直播/直播带货)",
+    "department": "WXG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月14日",
+    "recruit_data": "1.负责视频号直播及直播带货推荐，对召回、粗排、精排、策略等链路进行优化；\r\n2.结合业务的实际特点将工业界、学术界的前沿技术落地提升业务效果；\r\n3.对用户和作者行为做深入的分析和理解，制定算法策略促进生态良性发展。"
+}
+{
+    "title": "技术美术(渲染/表现/效果)",
+    "department": "IEG",
+    "address": "上海\n                  ",
+    "post": "设计",
+    "date": "更新于2024年03月25日",
+    "recruit_data": "1.提升游戏画面效果表现；\r\n2.对shader进行优化, 精简；\r\n3.准确理解工作需求, 配合策划/程序完成需求；\r\n4.解决美术渲染相关的bug等。"
+}
+{
+    "title": "腾讯云数据科学家",
+    "department": "CSIG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月21日",
+    "recruit_data": "1.负责CSIG 各业务线经营管理工作数据科学及分析工作；\r\n2.探索统计及机器学习方法论，并与业务相结合，实现相关落地成果，产生业务影响力；\r\n3.与经营分析团队协作，基于数据挖掘提升业务经营效率；\r\n4.建设完整的企业画像相关数据体系，基于数据挖掘建立起企业画像标签体系以及企业消费预估能力。"
+}
+{
+    "title": "腾讯广告视频与新闻广告算法工程师",
+    "department": "CDG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月16日",
+    "recruit_data": "1.腾讯社交与效果广告算法策略研究、设计与实现，参加以下一到多项工作；\r\n2.广告排序算法的研究，流量效率的挖掘和提升；\r\n3.信息流广告用户行为分析，特征提取与建模，优化线上效果；\r\n4.广告推荐模型的效果优化，提升推荐准确性。"
+}
+{
+    "title": "游戏AIAIGC运营开发工程师",
+    "department": "TEG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月15日",
+    "recruit_data": "1.负责AIGC/LLM运营数据标注系统研发；\r\n2.参与核心业务数据管理、数据加工、数据运营体系的建设 ；\r\n3.参与内部研发平台和运营体系建设。"
+}
+{
+    "title": "微信视频号推荐后台开发工程师",
+    "department": "WXG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年05月14日",
+    "recruit_data": "1.主要负责微信视频号推荐后台开发(含模型和策略接入、推荐链路架构优化)，样本和特征开发；\r\n2.参与视频流直播业务的推荐后台工程支持；\r\n3.参与样本处理和特征拼接相关的需求开发，通用化框架抽象及优化。"
+}
+{
+    "title": "Senior Motion Capture Tech Artist",
+    "department": "IEG",
+    "address": "洛杉矶\n                  ",
+    "post": "设计",
+    "date": "更新于2024年04月08日",
+    "recruit_data": "Welcome to Lightspeed LA, the first U.S.-based, AAA game development studio for Tencent Games. Lightspeed LA is focused on building open-world games that emphasize an ambitious living world, sophisticated player-driven gameplay, and mature, thoughtful storytelling. We are developing the first in a series of genre-defining titles.\n \nWhy join Lightspeed LA?\n \nFor us, it’s not only about the exciting, new AAA open world game we’re developing but also about team values and studio culture. We foster an open and transparent environment where everyone feels comfortable providing constructive feedback about all aspects of our games.\nWe encourage the showing of work that’s still in progress.\nWe don’t attack or question unfinished work, we celebrate its promise.\nWe have a No Blame Culture where we blame the problem, not the person.\n \nThis is a safe place to fail, and we don't view failure as a negative, but as the natural result of pushing boundaries and trying new things. We create together. We face challenges together. We succeed together.\n \nAbout this position at Lightspeed LA\n \nThis is an exciting opportunity for an experienced and passionate Senior Motion Capture Tech Artist to join our in-house team and help create world-class performance capture on a new and exciting open-world AAA game. We are seeking someone who will bring passion to the role, collaborating closely with the motion capture and other disciplinary teams, to help create outstanding performances. Below is an outline of responsibilities and some of the qualities we look for in the ideal teammate.\n\nResponsibilities:\nAct as the backbone for the technology of the motion capture department, working to bridge the gap between art and technology through tool and pipeline support, tool creation and maintenance.\nLook for and improve processes, assisting with department goals to achieve automation and quality deliveries.\nIdentify and manage technical dependencies and risks for the studio.\nSupport the technical direction of the motion capture pipeline, offering ideas and collaborating with stakeholders, ensuring that the pipeline is efficient and reliable.\nCollaborate with other department’s technical leadership to align tasks.\nTake responsibility for the creation, maintenance, operation and troubleshooting of proprietary Capture Tools.\nAssist where needed in the production process, including preparation, setup, operation, and maintenance of motion capture systems and associated hardware.\nMaintenance and documentation of stage computers/upgrades, working with IT to align any replacements or upgrades.\nBasic IT knowledge and ability to help team troubleshoot any issues.\nUnderstanding of signal connections between Shotgrid, Shogun, Unreal, facial capture helmet-mounted camera systems (such as Technoprops, Faceware, or Standard Deviation), Hyperdeck, A/V and timecode.\nAssist with development of proprietary tools, pipelines, new technologies, and processes.\nAccurately document workflows and pipelines to maintain a comprehensive knowledge base.\nContribute to post-mortems, provide constructive feedback, and actively participate in improving the motion capture process and data output.\nRun a monthly tech meeting to assess potential issues, upgrades, development work, etc. and keep track of development progress.\r\nWork Location: US-Los Angeles"
+}
+{
+    "title": "支付风险管理",
+    "department": "CDG",
+    "address": "深圳\n                  ",
+    "post": "战略与投资",
+    "date": "更新于2024年05月01日",
+    "recruit_data": "1.负责支付风险的分析、识别、评估与管控；\r\n2.结合监管要求与业务实际情况，数据与科技驱动设计相关能力、系统、机制，最大限度降低风险敞口。"
+}
+{
+    "title": "大模型数据工程算法工程师",
+    "department": "TEG",
+    "address": "深圳\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月29日",
+    "recruit_data": "1.负责大模型相关的知识图谱及数据工程工作，包括但不限于知识图谱的构建及应用、数据收集、生成及深入挖掘和全面特征工程分析；\n2.研究数据质量与模型效果的关系，构建高效且全面的知识图谱体系，助力大模型的优化和提升；\n3.持续关注行业动态和最新技术，保持对相关领域的专业知识和技能的更新。"
+}
+{
+    "title": "腾讯地图模型策略工程师",
+    "department": "CSIG",
+    "address": "北京\n                  ",
+    "post": "技术",
+    "date": "更新于2024年04月29日",
+    "recruit_data": "1.负责研发三维地图相关算法；\r\n2.负责实现高精道路策略模型并落地；\r\n3.通过数学建模及算法策略还原更逼真的现实世界。"
+}

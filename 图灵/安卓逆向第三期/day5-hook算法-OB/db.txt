@@ -1,0 +1,1685 @@
+start hook V1.0
+=======hook DES==============
+[*]算法是--》MD5《----
+======[B=====
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+=========================================
+=========================================
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+=========================================
+update算法传参--》0�R0��Kr��0	*�H��<----
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/recommend?tags=&refresh=0&selected_categories=%7B%7D&start=0&count=8&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=I8MYNWbSQSaNWAasXLMXe05iYaw%3D&_ts=1714312421
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/movie/recommend?tags=&refresh=0&selected_categories=%7B%7D&start=0&count=8&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=I8MYNWbSQSaNWAasXLMXe05iYaw%3D&_ts=1714312421<----
+=========================================
+digest结果（hex）-->843f4a51f59d684f6173f7406866a5f3
+digest结果（b64）-->hD9KUfWdaE9hc/dAaGal8w==
+digest结果（hex）-->843f4a51f59d684f6173f7406866a5f3
+digest结果（b64）-->hD9KUfWdaE9hc/dAaGal8w==
+digest 入参（str）-->https://frodo.douban.com/api/v2/mine/interests?type=movie&detail=1&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=e%2FOT%2FT%2BtvxUdUpzHgfiHDQtgdSY%3D&_ts=1714312421
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/mine/interests?type=movie&detail=1&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=e%2FOT%2FT%2BtvxUdUpzHgfiHDQtgdSY%3D&_ts=1714312421<----
+[*]算法是--》MD5《----
+=========================================
+=========================================
+digest结果（hex）-->1e2c69d60d487a9fea286d8a993ca0f1
+digest结果（b64）-->Hixp1g1Iep/qKG2KmTyg8Q==
+digest结果（hex）-->1e2c69d60d487a9fea286d8a993ca0f1
+digest结果（b64）-->Hixp1g1Iep/qKG2KmTyg8Q==
+digest结果（hex）-->251b9378f53534484e257695a441b901
+digest结果（b64）-->JRuTePU1NEhOJXaVpEG5AQ==
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_operated_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=g9dTbyloKPIL3Mi0nSNUtm%2FedLo%3D&_ts=1714312421
+======[B=====
+=========================================
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->1fb007c4dabf74df
+======[B=====
+update算法传参--》1fb007c4dabf74df<----
+digest 入参（str）-->1fb007c4dabf74df
+======[B=====
+update算法传参--》1fb007c4dabf74df<----
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_ad_second_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=g9dTbyloKPIL3Mi0nSNUtm%2FedLo%3D&_ts=1714312421
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_ad_second_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=g9dTbyloKPIL3Mi0nSNUtm%2FedLo%3D&_ts=1714312421<----
+=========================================
+digest结果（hex）-->cea1c42fc5cac86274a85ab12a1792ca
+=========================================
+digest结果（b64）-->zqHEL8XKyGJ0qFqxKheSyg==
+digest结果（hex）-->cea1c42fc5cac86274a85ab12a1792ca
+digest结果（b64）-->zqHEL8XKyGJ0qFqxKheSyg==
+[*]算法是--》MD5《----
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+update算法传参--》https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_operated_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=g9dTbyloKPIL3Mi0nSNUtm%2FedLo%3D&_ts=1714312421<----
+=========================================
+digest结果（hex）-->868d99a2188a1b5abda54f98efbc8317
+digest结果（b64）-->ho2ZohiKG1q9pU+Y77yDFw==
+digest结果（hex）-->868d99a2188a1b5abda54f98efbc8317
+digest结果（b64）-->ho2ZohiKG1q9pU+Y77yDFw==
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_ad_first_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=g9dTbyloKPIL3Mi0nSNUtm%2FedLo%3D&_ts=1714312421
+======[B=====
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_ad_second_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=g9dTbyloKPIL3Mi0nSNUtm%2FedLo%3D&_ts=1714312421
+======[B=====
+算法key（str）-->BTevVZSOTN/Mx0KAut8Tgg==
+算法是（str）-->AES
+update算法传参--》https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_ad_second_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=g9dTbyloKPIL3Mi0nSNUtm%2FedLo%3D&_ts=1714312421<----
+=========================================
+digest结果（hex）-->cea1c42fc5cac86274a85ab12a1792ca
+digest结果（b64）-->zqHEL8XKyGJ0qFqxKheSyg==
+digest结果（hex）-->cea1c42fc5cac86274a85ab12a1792ca
+update算法传参--》https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_ad_first_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=g9dTbyloKPIL3Mi0nSNUtm%2FedLo%3D&_ts=1714312421<----
+digest结果（b64）-->zqHEL8XKyGJ0qFqxKheSyg==
+=========================================
+=========================================
+填充模式--》AES/CBC/PKCS5Padding
+=========================================
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+IvParameterSpec IV（str）-->0000000000000000
+IvParameterSpec IV（hex）-->30303030303030303030303030303030
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+=========================================
+digest 入参（str）-->1fb007c4dabf74df
+======[B=====
+update算法传参--》1fb007c4dabf74df<----
+=========================================
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+=========================================
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest结果（hex）-->c4e7298747562a284b761fef0453e4ea
+digest结果（b64）-->xOcph0dWKihLdh/vBFPk6g==
+digest结果（hex）-->c4e7298747562a284b761fef0453e4ea
+digest结果（b64）-->xOcph0dWKihLdh/vBFPk6g==
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714312421
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Fmovie%2Frecommend&1714312421
+算法key（str）-->jNaMLh}d
+算法是（str）-->DES
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Fmine%2Finterests&1714312421
+=========================================
+填充模式--》DES/ECB/PKCS5Padding
+doFinal结果（hex）-->23c3183566d241268d5806ac5cb3177b4e6261ac
+doFinal结果（b64）-->I8MYNWbSQSaNWAasXLMXe05iYaw=
+=========================================
+doFinal结果（hex）-->83d7536f296828f20bdcc8b49d2354b66fde74ba
+doFinal结果（b64）-->g9dTbyloKPIL3Mi0nSNUtm/edLo=
+doFinal结果（hex）-->7bf393fd3fadbf151d529cc781f8870d0b607526
+digest 入参（str）-->frodo.douban.com
+doFinal结果（b64）-->e/OT/T+tvxUdUpzHgfiHDQtgdSY=
+digest结果（hex）-->9b359c181424350298033f7795a4d65609cc14f8b5f46178
+digest结果（b64）-->mzWcGBQkNQKYAz93laTWVgnMFPi19GF4
+digest 入参（str）-->{"accessCode":"","appVersion":"7.18.0","csrf":"","deviceBrand":"google:Pixel 4","deviceName":"Pixel 4","iccid":"","imei":"","imsi":"","innerIP":"192.168.137.231","networkType":"wifi","operatorCode":"unknown","osType":"Android","osVersion":"10","packageName":"com.douban.frodo","sceneCode":"FC100000085172156","sdkVersion":"2.7.1","sign":"251b9378f53534484e257695a441b901","vendorKey":""}
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->http://119.29.29.98/d?dn=9b359c181424350298033f7795a4d65609cc14f8b5f46178&id=105&ttl=1
+digest结果（hex）-->b1876e75da13d3cc1b654ea033bcb3cffa420a5f99c8d8cefa75d38b4cdba3a352d991a80d9cf5f77f8f323e53dc1dc1a7b60d0ab53487bb2fe67fc07dc4cd9158521b7fc6384f04174999ad4a3b350c8dca44312d8602811a93824074bdcbf12801d1c6d6e1a703b8345dd902f25a393f5fe594cca1c3bc9d9fa19f7f0fc9ed3814b225ff8d563e332e99db8f4f67ec0fa96234874083553eb8d7ef5aa371da02d987db6000f2c7a2df7a9c96b8d5718b9ec95e8c81edaf9a3725ae5098300181c3d1da1e06d0de804e2f3fd23a24d7ab20f522cd7d9908ca055c8e1512d63bc76f49fbc988a6d988eb7c8008603da06fe3b706d932eaafface7216059b02a5dc32c352b43e55f6887d1c007c2f2ddb54442ab67a0150267746a0aeded5182b01519b0e070070d86ff8515db756bb32b0e7e9102c6b47f8680e3a1143f580a2eb9a071404ec26ae6a61190c7a9049fd3f8d27d96250853763f58d5785892c04004d81ab16ca0d0616aef14ef4ac4908072102b61e35055af573b10ce09195b047bcf2260f6672732014343e1d23541f
+======[B=====
+update算法传参--》http://119.29.29.98/d?dn=9b359c181424350298033f7795a4d65609cc14f8b5f46178&id=105&ttl=1<----
+digest结果（b64）-->sYduddoT08wbZU6gM7yzz/pCCl+ZyNjO+nXTi0zbo6NS2ZGoDZz193+PMj5T3B3Bp7YNCrU0h7sv5n/AfcTNkVhSG3/GOE8EF0mZrUo7NQyNykQxLYYCgRqTgkB0vcvxKAHRxtbhpwO4NF3ZAvJaOT9f5ZTMocO8nZ+hn38Pye04FLIl/41WPjMumduPT2fsD6liNIdAg1U+uNfvWqNx2gLZh9tgAPLHot96nJa41XGLnslejIHtr5o3Ja5QmDABgcPR2h4G0N6ATi8/0jok16sg9SLNfZkIygVcjhUS1jvHb0n7yYim2YjrfIAIYD2gb+O3Btky6q/6znIWBZsCpdwyw1K0PlX2iH0cAHwvLdtURCq2egFQJndGoK7e1RgrAVGbDgcAcNhv+FFdt1a7MrDn6RAsa0f4aA46EUP1gKLrmgcUBOwmrmphGQx6kEn9P40n2WJQhTdj9Y1XhYksBABNgasWyg0GFq7xTvSsSQgHIQK2HjUFWvVzsQzgkZWwR7zyJg9mcnMgFDQ+HSNUHw==
+=========================================
+digest结果（hex）-->51e3e1348ae9561be6adf8e597810b5c
+digest结果（b64）-->UePhNIrpVhvmrfjll4ELXA==
+digest结果（hex）-->51e3e1348ae9561be6adf8e597810b5c
+digest结果（b64）-->UePhNIrpVhvmrfjll4ELXA==
+=========================================
+算法key（str）-->BTevVZSOTN/Mx0KAut8Tgg==
+算法是（str）-->AES
+=========================================
+填充模式--》AES/CBC/PKCS5Padding
+IvParameterSpec IV（str）-->0000000000000000
+IvParameterSpec IV（hex）-->30303030303030303030303030303030
+=========================================
+digest 入参（str）-->{"action":"sdk.init","endTime":"2024￥ﾹﾴ04￦ﾜﾈ28￦ﾗﾥ 21:53:41","failRet":"null|can4gAuth:can not 4g","startTime":"2024￥ﾹﾴ04￦ﾜﾈ28￦ﾗﾥ 21:53:41","success":true,"wholeMS":"510"}
+digest结果（hex）-->9fafb2fa3349cbfe95467d8ef60bf8fc6088a0409ef68ae51d38dce4656df4c3c2668d44625c76c961d873b1a0fb0e04abfb23e084607e0a4f49aa21afd2df01f3aeb8c6374ae2169487818b747acc36c74ccd957859961fc56414ec858f31d2d98049e523d90b9ba8adf29c7d063c9d3faf0b5fdb90aad90e676e8f29c4f26835bbcb4c67c4292e4932e7755bd8cc53b7b16928ef116dbf6ef93db13c2c658c54db9b119fdd3907661cb6c9eaecc3f9
+digest结果（b64）-->n6+y+jNJy/6VRn2O9gv4/GCIoECe9orlHTjc5GVt9MPCZo1EYlx2yWHYc7Gg+w4Eq/sj4IRgfgpPSaohr9LfAfOuuMY3SuIWlIeBi3R6zDbHTM2VeFmWH8VkFOyFjzHS2YBJ5SPZC5uorfKcfQY8nT+vC1/bkKrZDmdujynE8mg1u8tMZ8QpLkky53Vb2MxTt7FpKO8Rbb9u+T2xPCxljFTbmxGf3TkHZhy2yersw/k=
+[*]算法是--》MD5《----
+RSA-KEY密钥-->MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApNuVemkk/wu31vVS0EO21sUIb+16SDKTthNSp9OrNVWCQ2aRT56RB/hfF4IOJqAD/fAoCjITrE4Mubel9JuRwRQCrXkHdUVELYhkVap8om9yzblMF0YqYapY3+AshwRxyQ/JqWGb13I+V+mwl25/5N+jUUL3pIxFDpIdEOQewFjhZf9RiPtjK9wjVgDq+3A3T2r4pp1iW8kpZEJyEU1aXPrIo6vuSJVDULT/1UU+dKJp8cpd+K19AR13UUms+8tUbPuSpAXHdmCMmJTFQJqi9+s/cr5w0kYeUPC9RmUu1WdDU4Ul4ZtBe8JhLElfkKXpRQKa9XYf6So8f06yeG2mMQIDAQAB
+=========================================
+=========================================
+填充模式--》RSA/ECB/PKCS1Padding
+[*]算法是--》MD5《----
+digest 入参（str）-->https://frodo.douban.com/api/v2/mine/interests?type=movie&detail=1&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=e%2FOT%2FT%2BtvxUdUpzHgfiHDQtgdSY%3D&_ts=1714312421
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/mine/interests?type=movie&detail=1&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=e%2FOT%2FT%2BtvxUdUpzHgfiHDQtgdSY%3D&_ts=1714312421<----
+=========================================
+digest 入参（str）-->BTevVZSOTN/Mx0KAut8Tgg==
+=========================================
+digest结果（hex）-->f2297097773d155ccf437508fe05e0f5
+digest结果（b64）-->8ilwl3c9FVzPQ3UI/gXg9Q==
+digest结果（hex）-->f2297097773d155ccf437508fe05e0f5
+digest结果（b64）-->8ilwl3c9FVzPQ3UI/gXg9Q==
+=========================================
+digest结果（hex）-->45775e7b490ed3e75a7e1a80b77299c481da8e14b6163d98a6d473dda73e164e6128bb43e0fe8b225dbfab6ad9b2d705c21781218442746534ab9ad4d88b91614e55ad240886e5dda7a8b5b69c67ce7540effccb2c8502abbe084209325c3c04d64e877fd80c9df982b3e1cd1a3ed6e72604946672a5eb57496b539e4c09960565f91743bcec57c593c8443ec0e1238438f11e06ac0fd1c6fbf0bb12501daf01deb3f56e91f835e256c890ea81036ffae2a406cfe317287a5de643d558987ef404b46c1b7951d5463d66fbd309522e92ebbf177c8c64c5fc0859c91784989772eeb361b5ce635f62e03aab24b6a426b470e036bc7e53358d79ca3f917b4314af
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->http://119.29.29.98/d?dn=9b359c181424350298033f7795a4d65609cc14f8b5f46178&id=105&ttl=1
+======[B=====
+update算法传参--》http://119.29.29.98/d?dn=9b359c181424350298033f7795a4d65609cc14f8b5f46178&id=105&ttl=1<----
+digest结果（b64）-->RXdee0kO0+dafhqAt3KZxIHajhS2Fj2YptRz3ac+Fk5hKLtD4P6LIl2/q2rZstcFwheBIYRCdGU0q5rU2IuRYU5VrSQIhuXdp6i1tpxnznVA7/zLLIUCq74IQgkyXDwE1k6Hf9gMnfmCs+HNGj7W5yYElGZypetXSWtTnkwJlgVl+RdDvOxXxZPIRD7A4SOEOPEeBqwP0cb78LsSUB2vAd6z9W6R+DXiVsiQ6oEDb/ripAbP4xcoel3mQ9VYmH70BLRsG3lR1UY9ZvvTCVIukuu/F3yMZMX8CFnJF4SYl3Lus2G1zmNfYuA6qyS2pCa0cOA2vH5TNY15yj+Re0MUrw==
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_ad_second_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=g9dTbyloKPIL3Mi0nSNUtm%2FedLo%3D&_ts=1714312421
+======[B=====
+=========================================
+digest结果（hex）-->51e3e1348ae9561be6adf8e597810b5c
+digest结果（b64）-->UePhNIrpVhvmrfjll4ELXA==
+digest结果（hex）-->51e3e1348ae9561be6adf8e597810b5c
+update算法传参--》https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_ad_second_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=g9dTbyloKPIL3Mi0nSNUtm%2FedLo%3D&_ts=1714312421<----
+=========================================
+digest结果（hex）-->06244e4cd9e08a2c5fc3f8cd84fcdf5a
+digest结果（b64）-->BiROTNngiixfw/jNhPzfWg==
+digest结果（hex）-->06244e4cd9e08a2c5fc3f8cd84fcdf5a
+digest结果（b64）-->BiROTNngiixfw/jNhPzfWg==
+=========================================
+算法key（str）-->1bdeb11e5def7014a06685f0f9e7aa63
+算法是（str）-->HmacMD5
+digest结果（b64）-->UePhNIrpVhvmrfjll4ELXA==
+=========================================
+=========================================
+算法key（str）-->jNaMLh}d
+算法是（str）-->DES
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->1fb007c4dabf74df
+======[B=====
+update算法传参--》1fb007c4dabf74df<----
+=========================================
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->1fb007c4dabf74df
+======[B=====
+update算法传参--》1fb007c4dabf74df<----
+=========================================
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+填充模式--》DES/ECB/PKCS5Padding
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+=========================================
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714312421
+=========================================
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest 入参（str）-->c￝rHﾌ￰ﾹﾡﾭ￯@ﾆ￷>￪ﾲￚ￴4ﾴ￰ﾮﾴZￏ\￝￸K￢￪g￞XsﾜﾊrW
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->1fb007c4dabf74df
+======[B=====
+update算法传参--》1fb007c4dabf74df<----
+=========================================
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+doFinal结果（hex）-->83d7536f296828f20bdcc8b49d2354b66fde74ba
+doFinal结果（b64）-->g9dTbyloKPIL3Mi0nSNUtm/edLo=
+digest结果（hex）-->3132302e35332e3133302e3135383b3134302e3134332e3137372e3230363b38312e37302e3132342e39392c3138
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest结果（b64）-->MTIwLjUzLjEzMC4xNTg7MTQwLjE0My4xNzcuMjA2OzgxLjcwLjEyNC45OSwxOA==
+=========================================
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714312422
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714312422
+doFinal结果（hex）-->7fa559b2dcb1cc403c147709716a6a694aa5c682
+doFinal结果（b64）-->f6VZstyxzEA8FHcJcWpqaUqlxoI=
+doFinal结果（hex）-->7fa559b2dcb1cc403c147709716a6a694aa5c682
+doFinal结果（b64）-->f6VZstyxzEA8FHcJcWpqaUqlxoI=
+doFinal 入参（str）-->app_key25331768customer_id100000192864055formatjsonmethodalibaba.aliqin.pns.info.uploadsign_methodhmactimestamp2024-04-28 21:53:41upload_infoeyJjIjoic1lkdWRkb1QwOHdiWlU2Z003eXp6L3BDQ2wrWnlOak8rblhUaTB6Ym82TlMyWkdvRFp6MTkzK1BNajVUIDNCM0JwN1lOQ3JVMGg3c3Y1bi9BZmNUTmtWaFNHMy9HT0U4RUYwbVpyVW83TlF5TnlrUXhMWVlDZ1JxVCBna0IwdmN2eEtBSFJ4dGJocHdPNE5GM1pBdkphT1Q5ZjVaVE1vY084bloraG4zOFB5ZTA0RkxJbC80MVcgUGpNdW1kdVBUMmZzRDZsaU5JZEFnMVUrdU5mdldxTngyZ0xaaDl0Z0FQTEhvdDk2bkphNDFYR0xuc2xlIGpJSHRyNW8zSmE1UW1EQUJnY1BSMmg0RzBONkFUaTgvMGpvazE2c2c5U0xOZlprSXlnVmNqaFVTMWp2SCBiMG43eVlpbTJZanJmSUFJWUQyZ2IrTzNCdGt5NnEvNnpuSVdCWnNDcGR3eXcxSzBQbFgyaUgwY0FId3YgTGR0VVJDcTJlZ0ZRSm5kR29LN2UxUmdyQVZHYkRnY0FjTmh2K0ZGZHQxYTdNckRuNlJBc2EwZjRhQTQ2IEVVUDFnS0xybWdjVUJPd21ybXBoR1F4NmtFbjlQNDBuMldKUWhUZGo5WTFYaFlrc0JBQk5nYXNXeWcwRyBGcTd4VHZTc1NRZ0hJUUsySGpVRld2VnpzUXpna1pXd1I3enlKZzltY25NZ0ZEUStIU05VSHc9PSIsImsiOiJSWGRlZTBrTzArZGFmaHFBdDNLWnhJSGFqaFMyRmoyWXB0UnozYWMrRms1aEtMdEQ0UDZMSWwyL3EyclpzdGNGd2hlQklZUkNkR1UwcTVyVTJJdVJZVTVWclNRSWh1WGRwNmkxdHB4bnpuVkE3L3pMTElVQ3E3NElRZ2t5WER3RTFrNkhmOWdNbmZtQ3MrSE5HajdXNXlZRWxHWnlwZXRYU1d0VG5rd0psZ1ZsK1JkRHZPeFh4WlBJUkQ3QTRTT0VPUEVlQnF3UDBjYjc4THNTVUIydkFkNno5VzZSK0RYaVZzaVE2b0VEYi9yaXBBYlA0eGNvZWwzbVE5VlltSDcwQkxSc0czbFIxVVk5WnZ2VENWSXVrdXUvRjN5TVpNWDhDRm5KRjRTWWwzTHVzMkcxem1OZll1QTZxeVMycENhMGNPQTJ2SDVUTlkxNXlqK1JlME1Vcnc9PSIsIm8iOiJBbmRyb2lkIiwidSI6Im42K3krak5KeS82VlJuMk85Z3Y0L0dDSW9FQ2U5b3JsSFRqYzVHVnQ5TVBDWm8xRVlseDJ5V0hZYzdHZyArdzRFcS9zajRJUmdmZ3BQU2FvaHI5TGZBZk91dU1ZM1N1SVdsSWVCaTNSNnpEYkhUTTJWZUZtV0g4VmsgRk95Rmp6SFMyWUJKNVNQWkM1dW9yZktjZlFZOG5UK3ZDMS9ia0tyWkRtZHVqeW5FOG1nMXU4dE1aOFFwIExra3k1M1ZiMk14VHQ3RnBLTzhSYmI5dStUMnhQQ3hsakZUYm14R2YzVGtIWmh5MnllcnN3L2s9In0=v2.0
+doFinal结果（hex）-->a4d416fd5528182f82bbc03e592fa35d
+doFinal结果（b64）-->pNQW/VUoGC+Cu8A+WS+jXQ==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/recommend?tags=&refresh=0&selected_categories=%7B%7D&start=0&count=8&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=I8MYNWbSQSaNWAasXLMXe05iYaw%3D&_ts=1714312421
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/movie/recommend?tags=&refresh=0&selected_categories=%7B%7D&start=0&count=8&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=I8MYNWbSQSaNWAasXLMXe05iYaw%3D&_ts=1714312421<----
+=========================================
+digest结果（hex）-->56591cf042f392669388989364e1fb5d
+digest结果（b64）-->Vlkc8ELzkmaTiJiTZOH7XQ==
+digest结果（hex）-->56591cf042f392669388989364e1fb5d
+digest结果（b64）-->Vlkc8ELzkmaTiJiTZOH7XQ==
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_operated_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=f6VZstyxzEA8FHcJcWpqaUqlxoI%3D&_ts=1714312422
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_ad_first_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=f6VZstyxzEA8FHcJcWpqaUqlxoI%3D&_ts=1714312422
+[*]算法是--》MD5《----
+======[B=====
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_operated_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=f6VZstyxzEA8FHcJcWpqaUqlxoI%3D&_ts=1714312422<----
+update算法传参--》https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_ad_first_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=f6VZstyxzEA8FHcJcWpqaUqlxoI%3D&_ts=1714312422<----
+=========================================
+=========================================
+=========================================
+digest结果（hex）-->d8388b0525bdf29e4e2d8bbe69c3ccb0
+digest结果（b64）-->2DiLBSW98p5OLYu+acPMsA==
+digest结果（hex）-->d8388b0525bdf29e4e2d8bbe69c3ccb0
+digest结果（b64）-->2DiLBSW98p5OLYu+acPMsA==
+digest结果（hex）-->df38cd5138256cb267c6256994c1678d
+digest结果（b64）-->3zjNUTglbLJnxiVplMFnjQ==
+digest结果（hex）-->df38cd5138256cb267c6256994c1678d
+digest结果（b64）-->3zjNUTglbLJnxiVplMFnjQ==
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/view/dale-online/dale_ad/public/b6b92d29350d359.jpg
+======[B=====
+=========================================
+update算法传参--》/view/dale-online/dale_ad/public/b6b92d29350d359.jpg<----
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_ad_second_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=g9dTbyloKPIL3Mi0nSNUtm%2FedLo%3D&_ts=1714312421
+=========================================
+digest结果（hex）-->f7d8545b949d07e76570a5532084a896
+digest结果（b64）-->99hUW5SdB+dlcKVTIISolg==
+======[B=====
+digest结果（hex）-->f7d8545b949d07e76570a5532084a896
+digest结果（b64）-->99hUW5SdB+dlcKVTIISolg==
+[*]算法是--》MD5《----
+=========================================
+update算法传参--》https://frodo.douban.com/api/v2/movie/ad?webview_ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Pixel%204%20Build%2FQQ2A.200405.005%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F74.0.3729.186%20Mobile%20Safari%2F537.36&is_douban_ad_link=1&unit=dale_movie_ad_second_banner&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=g9dTbyloKPIL3Mi0nSNUtm%2FedLo%3D&_ts=1714312421<----
+digest 入参（str）-->0y10	UCN10UZheJiang10UHangZhou1-0+U
+$Alibaba (China) Technology Co., Ltd.10U*.taobao.com
+======[B=====
+=========================================
+update算法传参--》0y10	UCN10UZheJiang10UHangZhou1-0+U
+$Alibaba (China) Technology Co., Ltd.10U*.taobao.com<----
+digest结果（hex）-->06244e4cd9e08a2c5fc3f8cd84fcdf5a
+digest结果（b64）-->BiROTNngiixfw/jNhPzfWg==
+digest结果（hex）-->06244e4cd9e08a2c5fc3f8cd84fcdf5a
+digest结果（b64）-->BiROTNngiixfw/jNhPzfWg==
+=========================================
+digest 入参（str）-->https://erebor.douban.com/count/?aaid=&abt_id=%7B%22159%22%3A%22A%22%2C%22161%22%3A%22B%22%2C%22162%22%3A%22C%22%7D&action=&ad=254197&ad_type=0&al=3&bid=970bc487286535ebe372003e54330d152d45f66a&brand=google&caid=&chicken=cd1166c3d2dd30e5982427e35e3d290a&creative=1P_1080x317&crtr=&device=104&disable_creative=false&disable_third=false&fv=7.18.0%28230%29&hn=nob43&idfa=&imei=&imp_type=2&is_core=false&is_short=false&item_type=COMPLEMENT&lat=0.00000&lon=0.00000&mark=&model=Pixel+4&net=wifi&ns=1714312371813608358&oaid=&os=53&osv=29&p=5&posid=&price=TITDjNM8_pF57taxshxwGg&priority=0&punit=yuan&region=1b582888ec0cae63&rexxar=1&screen_height=0&screen_width=0&slot_index=1&sugar=0&t_mode=&ts=1714312422&type=impression&uc=2&uid=&unit=dale_movie_ad_first_banner&vendor=Google&layout=0&slide_sl=&cid=3971ed6055ff115a9bb088083fc7acd1&cwords=258709408159101205
+======[B=====
+update算法传参--》https://erebor.douban.com/count/?aaid=&abt_id=%7B%22159%22%3A%22A%22%2C%22161%22%3A%22B%22%2C%22162%22%3A%22C%22%7D&action=&ad=254197&ad_type=0&al=3&bid=970bc487286535ebe372003e54330d152d45f66a&brand=google&caid=&chicken=cd1166c3d2dd30e5982427e35e3d290a&creative=1P_1080x317&crtr=&device=104&disable_creative=false&disable_third=false&fv=7.18.0%28230%29&hn=nob43&idfa=&imei=&imp_type=2&is_core=false&is_short=false&item_type=COMPLEMENT&lat=0.00000&lon=0.00000&mark=&model=Pixel+4&net=wifi&ns=1714312371813608358&oaid=&os=53&osv=29&p=5&posid=&price=TITDjNM8_pF57taxshxwGg&priority=0&punit=yuan&region=1b582888ec0cae63&rexxar=1&screen_height=0&screen_width=0&slot_index=1&sugar=0&t_mode=&ts=1714312422&type=impression&uc=2&uid=&unit=dale_movie_ad_first_banner&vendor=Google&layout=0&slide_sl=&cid=3971ed6055ff115a9bb088083fc7acd1&cwords=258709408159101205<----
+=========================================
+digest结果（hex）-->a5ddefdf4a18c978b7ad2e9daf7a2da6
+digest结果（b64）-->pd3v30oYyXi3rS6dr3otpg==
+digest结果（hex）-->13ecb9bbed5d5616f035ae45be1fbc25
+digest结果（b64）-->E+y5u+1dVhbwNa5Fvh+8JQ==
+digest结果（hex）-->a5ddefdf4a18c978b7ad2e9daf7a2da6
+digest结果（b64）-->pd3v30oYyXi3rS6dr3otpg==
+digest结果（hex）-->13ecb9bbed5d5616f035ae45be1fbc25
+digest结果（b64）-->E+y5u+1dVhbwNa5Fvh+8JQ==
+[*]算法是--》SHA1《----
+=========================================
+digest 入参（str）-->0Y0*ﾆHￎ=*ﾆHￎ=B ￃ$"￮ﾟﾼ-ﾱBzﾚHV￁$%%￉ﾫ￼YVﾼﾻz:ﾅHgￔ=,t:Bgﾮﾔ0/ﾰ￶ﾞ￼￱ￕ￣uA￴￦ﾽ
+======[B=====
+update算法传参--》0Y0*�H�=*�H�=B<----
+=========================================
+digest结果（hex）-->28b084564ca7137fbb878677598cd9deb4e551ef
+digest结果（b64）-->KLCEVkynE3+7h4Z3WYzZ3rTlUe8=
+digest结果（hex）-->28b084564ca7137fbb878677598cd9deb4e551ef
+digest结果（b64）-->KLCEVkynE3+7h4Z3WYzZ3rTlUe8=
+[*]算法是--》SHA1《----
+=========================================
+digest 入参（str）-->0ﾂ"0	*ﾆHﾆ￷ ﾂ 0ﾂ
+ﾂ ￊ2ﾬOﾱ5%￢Cￃ(ﾘ`ﾆￕw:￩￩ﾂ￶ﾅￛgￏ>:ﾜaﾝ0tu￻c￲ﾶﾺ￷ z￼=Lￓ￸ﾏ}Y￑￩,ￛﾀo￰￝ﾗiￇﾑ8i￳￦!ﾬﾘ=ﾘﾓﾀ
+0R/ﾲ￼ﾋ￴4[yﾉ%-￾ﾝﾥﾏ@￉ﾠ﾿ﾪH￠L^C]ￎￒ2ﾣ6k￢ￍﾴ￝￧￉;ﾈ7￳J￫QQB￀m7ￂﾺﾀ￘ﾵﾜbﾦﾀ&6�Nqￆ	 5￘￪:ﾄ:ﾨﾣ￁p￷ﾞￛKﾉￕﾮNf>ￒoﾄﾅﾺ￑\Iﾾ￮mﾘﾟnﾦﾪ￼￭dT￁J`n￪Td￤ﾳￅsﾗ*&ﾹￚ^
+-)ﾝﾏ￐k'￶t￢dOﾪ8%￬ﾊ￙ￖ 
+======[B=====
+update算法传参--》0�"0	*�H��<----
+=========================================
+digest结果（hex）-->b89fc18995fe8661c5f0177207b96d84ca0101cb
+digest结果（b64）-->uJ/BiZX+hmHF8BdyB7lthMoBAcs=
+digest结果（hex）-->b89fc18995fe8661c5f0177207b96d84ca0101cb
+digest结果（b64）-->uJ/BiZX+hmHF8BdyB7lthMoBAcs=
+[*]算法是--》SHA1《----
+=========================================
+digest 入参（str）-->0Y0*ﾆHￎ=*ﾆHￎ=B ￃ$"￮ﾟﾼ-ﾱBzﾚHV￁$%%￉ﾫ￼YVﾼﾻz:ﾅHgￔ=,t:Bgﾮﾔ0/ﾰ￶ﾞ￼￱ￕ￣uA￴￦ﾽ
+======[B=====
+update算法传参--》0Y0*�H�=*�H�=B<----
+=========================================
+digest结果（hex）-->28b084564ca7137fbb878677598cd9deb4e551ef
+digest结果（b64）-->KLCEVkynE3+7h4Z3WYzZ3rTlUe8=
+digest结果（hex）-->28b084564ca7137fbb878677598cd9deb4e551ef
+digest结果（b64）-->KLCEVkynE3+7h4Z3WYzZ3rTlUe8=
+[*]算法是--》SHA1《----
+=========================================
+digest 入参（str）-->0ﾂ"0	*ﾆHﾆ￷ ﾂ 0ﾂ
+ﾂ ￊ2ﾬOﾱ5%￢Cￃ(ﾘ`ﾆￕw:￩￩ﾂ￶ﾅￛgￏ>:ﾜaﾝ0tu￻c￲ﾶﾺ￷ z￼=Lￓ￸ﾏ}Y￑￩,ￛﾀo￰￝ﾗiￇﾑ8i￳￦!ﾬﾘ=ﾘﾓﾀ
+0R/ﾲ￼ﾋ￴4[yﾉ%-￾ﾝﾥﾏ@￉ﾠ﾿ﾪH￠L^C]ￎￒ2ﾣ6k￢ￍﾴ￝￧￉;ﾈ7￳J￫QQB￀m7ￂﾺﾀ￘ﾵﾜbﾦﾀ&6�Nqￆ	 5￘￪:ﾄ:ﾨﾣ￁p￷ﾞￛKﾉￕﾮNf>ￒoﾄﾅﾺ￑\Iﾾ￮mﾘﾟnﾦﾪ￼￭dT￁J`n￪Td￤ﾳￅsﾗ*&ﾹￚ^
+-)ﾝﾏ￐k'￶t￢dOﾪ8%￬ﾊ￙ￖ 
+======[B=====
+update算法传参--》0�"0	*�H��<----
+=========================================
+digest结果（hex）-->b89fc18995fe8661c5f0177207b96d84ca0101cb
+digest结果（b64）-->uJ/BiZX+hmHF8BdyB7lthMoBAcs=
+digest结果（hex）-->b89fc18995fe8661c5f0177207b96d84ca0101cb
+digest结果（b64）-->uJ/BiZX+hmHF8BdyB7lthMoBAcs=
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://erebor.douban.com/count/?aaid=&abt_id=%7B%22159%22%3A%22A%22%2C%22161%22%3A%22B%22%2C%22162%22%3A%22C%22%7D&action=&ad=254197&ad_type=0&al=3&bid=970bc487286535ebe372003e54330d152d45f66a&brand=google&caid=&chicken=cd1166c3d2dd30e5982427e35e3d290a&creative=1P_1080x317&crtr=&device=104&disable_creative=false&disable_third=false&fv=7.18.0%28230%29&hn=nob43&idfa=&imei=&imp_type=2&is_core=false&is_short=false&item_type=COMPLEMENT&lat=0.00000&lon=0.00000&mark=&model=Pixel+4&net=wifi&ns=1714312371813608358&oaid=&os=53&osv=29&p=5&posid=&price=TITDjNM8_pF57taxshxwGg&priority=0&punit=yuan&region=1b582888ec0cae63&rexxar=1&screen_height=0&screen_width=0&slot_index=1&sugar=0&t_mode=&ts=1714312422&type=impression&uc=2&uid=&unit=dale_movie_ad_first_banner&vendor=Google&layout=0&slide_sl=&cid=3971ed6055ff115a9bb088083fc7acd1&cwords=258709408159101205&timezone=Asia%2FShanghai
+======[B=====
+update算法传参--》https://erebor.douban.com/count/?aaid=&abt_id=%7B%22159%22%3A%22A%22%2C%22161%22%3A%22B%22%2C%22162%22%3A%22C%22%7D&action=&ad=254197&ad_type=0&al=3&bid=970bc487286535ebe372003e54330d152d45f66a&brand=google&caid=&chicken=cd1166c3d2dd30e5982427e35e3d290a&creative=1P_1080x317&crtr=&device=104&disable_creative=false&disable_third=false&fv=7.18.0%28230%29&hn=nob43&idfa=&imei=&imp_type=2&is_core=false&is_short=false&item_type=COMPLEMENT&lat=0.00000&lon=0.00000&mark=&model=Pixel+4&net=wifi&ns=1714312371813608358&oaid=&os=53&osv=29&p=5&posid=&price=TITDjNM8_pF57taxshxwGg&priority=0&punit=yuan&region=1b582888ec0cae63&rexxar=1&screen_height=0&screen_width=0&slot_index=1&sugar=0&t_mode=&ts=1714312422&type=impression&uc=2&uid=&unit=dale_movie_ad_first_banner&vendor=Google&layout=0&slide_sl=&cid=3971ed6055ff115a9bb088083fc7acd1&cwords=258709408159101205&timezone=Asia%2FShanghai<----
+=========================================
+digest结果（hex）-->d13559907a97d8c2697f2484eedc51ca
+digest结果（b64）-->0TVZkHqX2MJpfySE7txRyg==
+digest结果（hex）-->d13559907a97d8c2697f2484eedc51ca
+digest结果（b64）-->0TVZkHqX2MJpfySE7txRyg==
+=========================================
+填充模式--》AES/CBC/PKCS7Padding
+=========================================
+=========================================
+算法key（str）-->ﾪX/Nￛￚ4ﾮￛ
+1\ﾪﾚ
+算法是（str）-->AES
+算法key（str）-->fb003c6dd6c300bf
+算法是（str）-->AES
+IvParameterSpec IV（str）-->
+	[
+IvParameterSpec IV（hex）-->0a010b05040f070917030106080c0d5b
+=========================================
+[*]算法是--》MD5《----
+======[B=====
+update算法传参--》0�R0��Kr��0	*�H��<----
+=========================================
+digest结果（hex）-->251b9378f53534484e257695a441b901
+digest结果（b64）-->JRuTePU1NEhOJXaVpEG5AQ==
+[*]算法是--》MD5《----
+=========================================
+=========================================
+digest 入参（str）-->￶\iﾍ￫0x8￙K2Gﾳ￥q;ﾰ<4ￎqDY%Lxￒﾓ4ﾎWrￂ6￈￿￧﾿ￔ^'OￕfﾌRaGￋ=ￎ<ﾷEﾹￖﾫ\ﾃ ,ﾳ2ﾡￓQﾄw~j￨ ￏ￹r￣ￅSiqMfￌﾈﾘﾊTqﾯ￰ￇy￞A￾ﾈXU￑ﾻ\ﾡh:ﾾ￑cYﾁﾡQﾀﾅ/NKrﾊￌﾎﾞﾝﾛￍ>@iﾤﾧSCﾍ￰ￚMￌￇ0ￚￏﾏﾀￒ0ﾡ￰ﾁrz9ﾺxﾻ2)b;A￉ﾆﾶﾧￇ)ﾫT$ﾢg￘A*ﾺB￐ﾬﾋnￍ@ￃ<ﾓRQ￳ￆ￤S|ﾟ￭ﾒf|ﾕ[ﾰ;D￘ﾌ>T￮ﾟpmzuￇﾘﾠupﾄ￨zﾄRￃKﾴﾬS6￻￸ￛYￓ﾿ﾫ￭ￕ￣ 3~ￇSPﾔￗﾹD4Vtﾍ&￣ﾓi
+.ﾣNiaZXs6￪￹-ￖ￴￐￺Txￍ`ﾫ<ￕ￐+￠ￄZx￁$Q+rVvERﾾ￁yﾬ N￐n￟K￮?>ﾰ3M_5ￜﾛGH￦V_ﾆﾄ,￲vfgi 1￾ﾨ￀ﾂﾋ!ﾈt'z 
+算法key（str）-->B6pYL07b2jSu2x0KMVyqmg==
+算法是（str）-->AES
+digest 入参（str）-->/cuphead/rexxar-core/subject/subject_collection_list-d93c0ac1bb.html
+======[B=====
+update算法传参--》/cuphead/rexxar-core/subject/subject_collection_list-d93c0ac1bb.html<----
+=========================================
+填充模式--》AES/CBC/PKCS5Padding
+=========================================
+digest结果（hex）-->5b7b22706167655f6e616d65223a22636f6d2e646f7562616e2e66726f646f2e7375626a6563742e61637469766974792e5375626a6563745461624d6f7669654c6973744163746976697479222c226475726174696f6e223a343130362c22706167655f7374617274223a313731343331323337303639332c2274797065223a317d2c7b22706167655f6e616d65223a22636f6d2e646f7562616e2e66726f646f2e61637469766974792e53706c6173684163746976697479222c226475726174696f6e223a313539362c22706167655f7374617274223a313731343331323337343831342c2274797065223a317d2c7b22706167655f6e616d65223a22636f6d2e646f7562616e2e66726f646f2e7375626a6563742e61637469766974792e5375626a6563745461624d6f7669654c6973744163746976697479222c226475726174696f6e223a34353035392c22706167655f7374617274223a313731343331323337363432352c2274797065223a317d5d
+IvParameterSpec IV（str）-->0000000000000000
+IvParameterSpec IV（hex）-->30303030303030303030303030303030
+digest结果（hex）-->1c9e1df7c38afbfbd984a5858c0bb88a
+=========================================
+digest结果（b64）-->W3sicGFnZV9uYW1lIjoiY29tLmRvdWJhbi5mcm9kby5zdWJqZWN0LmFjdGl2aXR5LlN1YmplY3RUYWJNb3ZpZUxpc3RBY3Rpdml0eSIsImR1cmF0aW9uIjo0MTA2LCJwYWdlX3N0YXJ0IjoxNzE0MzEyMzcwNjkzLCJ0eXBlIjoxfSx7InBhZ2VfbmFtZSI6ImNvbS5kb3ViYW4uZnJvZG8uYWN0aXZpdHkuU3BsYXNoQWN0aXZpdHkiLCJkdXJhdGlvbiI6MTU5NiwicGFnZV9zdGFydCI6MTcxNDMxMjM3NDgxNCwidHlwZSI6MX0seyJwYWdlX25hbWUiOiJjb20uZG91YmFuLmZyb2RvLnN1YmplY3QuYWN0aXZpdHkuU3ViamVjdFRhYk1vdmllTGlzdEFjdGl2aXR5IiwiZHVyYXRpb24iOjQ1MDU5LCJwYWdlX3N0YXJ0IjoxNzE0MzEyMzc2NDI1LCJ0eXBlIjoxfV0=
+digest结果（b64）-->HJ4d98OK+/vZhKWFjAu4ig==
+=========================================
+填充模式--》AES/CBC/PKCS7Padding
+digest结果（hex）-->1c9e1df7c38afbfbd984a5858c0bb88a
+digest结果（b64）-->HJ4d98OK+/vZhKWFjAu4ig==
+=========================================
+算法key（str）-->fb003c6dd6c300bf
+算法是（str）-->AES
+IvParameterSpec IV（str）-->
+	[
+IvParameterSpec IV（hex）-->0a010b05040f070917030106080c0d5b
+=========================================
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/cuphead/rexxar-core/subject/subject_collection_list-d93c0ac1bb.html
+======[B=====
+update算法传参--》/cuphead/rexxar-core/subject/subject_collection_list-d93c0ac1bb.html<----
+=========================================
+digest结果（hex）-->1c9e1df7c38afbfbd984a5858c0bb88a
+digest结果（b64）-->HJ4d98OK+/vZhKWFjAu4ig==
+digest结果（hex）-->1c9e1df7c38afbfbd984a5858c0bb88a
+digest结果（b64）-->HJ4d98OK+/vZhKWFjAu4ig==
+digest 入参（str）-->[{"page_name":"com.douban.frodo.subject.activity.SubjectTabMovieListActivity","duration":4106,"page_start":1714312370693,"type":1},{"page_name":"com.douban.frodo.activity.SplashActivity","duration":1596,"page_start":1714312374814,"type":1},{"page_name":"com.douban.frodo.subject.activity.SubjectTabMovieListActivity","duration":45059,"page_start":1714312376425,"type":1},{"page_name":"com.douban.frodo.activity.SplashActivity","duration":2395,"page_start":1714312421513,"type":1}]
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/cuphead/rexxar-shared/share_vendor-58a205b6c4.js
+======[B=====
+update算法传参--》/cuphead/rexxar-shared/share_vendor-58a205b6c4.js<----
+=========================================
+digest结果（hex）-->0be206d13daf65a8f8cb1980468e94e0
+digest结果（b64）-->C+IG0T2vZaj4yxmARo6U4A==
+digest 入参（str）-->{"accessCode":"","appVersion":"7.18.0","csrf":"","deviceBrand":"google:Pixel 4","deviceName":"Pixel 4","iccid":"","imei":"","imsi":"","innerIP":"192.168.137.231","networkType":"wifi","operatorCode":"unknown","osType":"Android","osVersion":"10","packageName":"com.douban.frodo","sceneCode":"FC100000085172156","sdkVersion":"2.7.1","sign":"251b9378f53534484e257695a441b901","vendorKey":""}
+digest结果（hex）-->f65c698deb02307838d94b3247b3e50b713bb03c34ce714459254c78d293348e5772c236c8ffe7bfd45e274fd566038c035215166147cb3dce3cb745b9d6ab5c83070800182cb332a1d35184777e6ae820cff972e3c55369714d66cc88988a5471aff0c779de41fe88585504d1bb5ca1683abe11d1635981a151801f852f4e4b728acc8e149e9d9bcd3e400d69a4a753438df0da4dccc730dacf8f08800bd230a1f081727a39ba78bb3229623b0241c9860bb6a708c729ab5424a267d8412aba0b42d0ac8b6ecd40c33c10935251f3c6e4537c9fed92660e7c955bb03b1344d88c3e54ee9f706d7a0e0f75c798a075700584e87a8452c34bb47fac5336fbf8db590fd3bfabedd5e320337e02c7535094d7b9443456748d2611e393690a2ea3171e4e13690e150b615a587336eaf92dd6f4d0fa5478cd6006ab3cd5d02be0c45a78c124512b725676455218bec179ac004ed06edf034bee3f3eb0334d0e5f35dc9b4748e6565f04141b86847f2cf27666beb888a65e7d6b44ee9895c85ab5a48d92bccc2b8c8f2ad8d6cf375a02fbbf64f79c8ed34a4d2d1afdb62c32786befa62edbedaf2566d6c17dfdbe98b025935969c626c949326374f40e60f9d0a54a43cad3dfdbb6719726f720ee7cf019a8c10cc65599a68716823fc882df352968c9f978fed6dae09da0c2c2a23f840333a1
+digest结果（hex）-->0be206d13daf65a8f8cb1980468e94e0
+digest结果（b64）-->C+IG0T2vZaj4yxmARo6U4A==
+digest结果（hex）-->59cf68047bc45eb7b2a4b989aa2976c09632b5265c0902a3b6fab7407185733c52d26b4a13f200600a64c10bc3f2187757cf07e15a8258410703d21b14911e9591d57448db74e91555f2d7753f5cc0bdc7d4037ba9d199e939a838fc6d1308b5a7fb605d6809699b0ee741f540adfa1198891f6bdcc9f6a73642e673d36319191c052a4b8cda392d5471f248e7e05cc645848b6798fc8b3da675b3f34d6d58cff56ee2d3b722aad6622c679ee037d744963cd97e41b384103783fc85be74444074fbe68944b38b55213ea53cd2fe45a1a962be1a297dc73140fc87fb9c0fbf3c7346f230dde6fbe410debb013d791a230c3a2c02f8816b0fbe66c92494e52648eb1fbe88e84426db0a0f5819a1f00e4850f77e0ee27a92bd96544763be29928eefe652a9b58e67b8b94f1e4ab499e9ff6e0a338d455099e31acac5a81d4d449365a29f665404f68554b2d9fa3776f99ddb5c68ed2c7a4913e465a0af2d1e8c4705c79f7df2c13aee25dd443d3682965a484c3292f521702c5f9263beafec0d6433e6e7d0a27e63d775a28dbe9526ee77
+digest结果（b64）-->9lxpjesCMHg42UsyR7PlC3E7sDw0znFEWSVMeNKTNI5XcsI2yP/nv9ReJ0/VZgOMA1IVFmFHyz3OPLdFudarXIMHCAAYLLMyodNRhHd+auggz/ly48VTaXFNZsyImIpUca/wx3neQf6IWFUE0btcoWg6vhHRY1mBoVGAH4UvTktyisyOFJ6dm80+QA1ppKdTQ43w2k3MxzDaz48IgAvSMKHwgXJ6Obp4uzIpYjsCQcmGC7anCMcpq1QkomfYQSq6C0LQrItuzUDDPBCTUlHzxuRTfJ/tkmYOfJVbsDsTRNiMPlTun3Bteg4PdceYoHVwBYToeoRSw0u0f6xTNvv421kP07+r7dXjIDN+AsdTUJTXuUQ0VnSNJhHjk2kKLqMXHk4TaQ4VC2FaWHM26vkt1vTQ+lR4zWAGqzzV0CvgxFp4wSRRK3JWdkVSGL7BeawATtBu3wNL7j8+sDNNDl813JtHSOZWXwQUG4aEfyzydma+uIimXn1rRO6YlchataSNkrzMK4yPKtjWzzdaAvu/ZPecjtNKTS0a/bYsMnhr76Yu2+2vJWbWwX39vpiwJZNZacYmyUkyY3T0DmD50KVKQ8rT39u2cZcm9yDufPAZqMEMxlWZpocWgj/Igt81KWjJ+Xj+1trgnaDCwqI/hAMzoQ==
+digest结果（b64）-->Wc9oBHvEXreypLmJqil2wJYytSZcCQKjtvq3QHGFczxS0mtKE/IAYApkwQvD8hh3V88H4VqCWEEHA9IbFJEelZHVdEjbdOkVVfLXdT9cwL3H1AN7qdGZ6TmoOPxtEwi1p/tgXWgJaZsO50H1QK36EZiJH2vcyfanNkLmc9NjGRkcBSpLjNo5LVRx8kjn4FzGRYSLZ5j8iz2mdbPzTW1Yz/Vu4tO3IqrWYixnnuA310SWPNl+QbOEEDeD/IW+dERAdPvmiUSzi1UhPqU80v5FoalivhopfccxQPyH+5wPvzxzRvIw3eb75BDeuwE9eRojDDosAviBaw++ZskklOUmSOsfvojoRCbbCg9YGaHwDkhQ934O4nqSvZZUR2O+KZKO7+ZSqbWOZ7i5Tx5KtJnp/24KM41FUJnjGsrFqB1NRJNlop9mVAT2hVSy2fo3dvmd21xo7Sx6SRPkZaCvLR6MRwXHn33ywTruJd1EPTaCllpITDKS9SFwLF+SY76v7A1kM+bn0KJ+Y9d1oo2+lSbudw==
+=========================================
+算法key（str）-->B6pYL07b2jSu2x0KMVyqmg==
+算法是（str）-->AES
+=========================================
+填充模式--》AES/CBC/PKCS5Padding
+IvParameterSpec IV（str）-->0000000000000000
+IvParameterSpec IV（hex）-->30303030303030303030303030303030
+=========================================
+digest 入参（str）-->{"action":"sdk.init","endTime":"2024￥ﾹﾴ04￦ﾜﾈ28￦ﾗﾥ 21:53:43","failRet":"null|can4gAuth:can not 4g","startTime":"2024￥ﾹﾴ04￦ﾜﾈ28￦ﾗﾥ 21:53:43","success":true,"wholeMS":"924"}
+digest结果（hex）-->8575cbeb8866c18dce2c4d50dae07f94ba42531d908b6c39de498b7830c56cd72dd6e60a64c22f48d2495552909a137417df097f430ab0f530eb6f7c7108818272cd98f85cfc68a1b2348a45da07b21dc13ee157772cbfbd991f8997b743391675cf4951a35b6a88275034359e7d9219b59d422f4562d60cfd3290cb55870ec9d1500812dd40d873f051e796789c9f0c4ef1ad317aa8d14426af1bc0d267f41c1a740505983f94d6431cdf62d5100062
+digest结果（b64）-->hXXL64hmwY3OLE1Q2uB/lLpCUx2Qi2w53kmLeDDFbNct1uYKZMIvSNJJVVKQmhN0F98Jf0MKsPUw6298cQiBgnLNmPhc/GihsjSKRdoHsh3BPuFXdyy/vZkfiZe3QzkWdc9JUaNbaognUDQ1nn2SGbWdQi9FYtYM/TKQy1WHDsnRUAgS3UDYc/BR55Z4nJ8MTvGtMXqo0UQmrxvA0mf0HBp0BQWYP5TWQxzfYtUQAGI=
+RSA-KEY密钥-->MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApNuVemkk/wu31vVS0EO21sUIb+16SDKTthNSp9OrNVWCQ2aRT56RB/hfF4IOJqAD/fAoCjITrE4Mubel9JuRwRQCrXkHdUVELYhkVap8om9yzblMF0YqYapY3+AshwRxyQ/JqWGb13I+V+mwl25/5N+jUUL3pIxFDpIdEOQewFjhZf9RiPtjK9wjVgDq+3A3T2r4pp1iW8kpZEJyEU1aXPrIo6vuSJVDULT/1UU+dKJp8cpd+K19AR13UUms+8tUbPuSpAXHdmCMmJTFQJqi9+s/cr5w0kYeUPC9RmUu1WdDU4Ul4ZtBe8JhLElfkKXpRQKa9XYf6So8f06yeG2mMQIDAQAB
+=========================================
+填充模式--》RSA/ECB/PKCS1Padding
+=========================================
+digest 入参（str）-->B6pYL07b2jSu2x0KMVyqmg==
+digest结果（hex）-->8406917b3cfdc929f488047ba7dbc2d6a75353eae1019a0af3058ab2a4cd3615b41a0491f6062c2e2af0b72f62a0276d22a7664db82ca1d954b3d47ea9acaf3b9453c5045694eeeb0c44baf4c7345421b450cf929f31ef28807eb04e463c6709ecdf90c4f3fcfdb01905a280eb7d6ae136d07ca22f5434bd9d43d78225e3b8833cda2e4f923d1485cf2caa422ddfd90311583ea26f823de0098bc2b9ace5a98e270b26bd185d71ba454ef549e18d923bdfe338831ca069963c624299413d2d3dd7280983a5d085c31c90333d28136fb0d6cdac2448574f7fd158418ab63988419967e98a7e0f5b71b51a2ab2907b01edf0728a734b0934e353d66e32672f2575
+digest结果（b64）-->hAaRezz9ySn0iAR7p9vC1qdTU+rhAZoK8wWKsqTNNhW0GgSR9gYsLirwty9ioCdtIqdmTbgsodlUs9R+qayvO5RTxQRWlO7rDES69Mc0VCG0UM+SnzHvKIB+sE5GPGcJ7N+QxPP8/bAZBaKA631q4TbQfKIvVDS9nUPXgiXjuIM82i5Pkj0Uhc8sqkIt39kDEVg+om+CPeAJi8K5rOWpjicLJr0YXXG6RU71SeGNkjvf4ziDHKBpljxiQplBPS091ygJg6XQhcMckDM9KBNvsNbNrCRIV09/0VhBirY5iEGZZ+mKfg9bcbUaKrKQewHt8HKKc0sJNONT1m4yZy8ldQ==
+=========================================
+算法key（str）-->1bdeb11e5def7014a06685f0f9e7aa63
+算法是（str）-->HmacMD5
+=========================================
+doFinal 入参（str）-->app_key25331768customer_id100000192864055formatjsonmethodalibaba.aliqin.pns.info.uploadsign_methodhmactimestamp2024-04-28 21:53:44upload_infoeyJjIjoiV2M5b0JIdkVYcmV5cExtSnFpbDJ3Sll5dFNaY0NRS2p0dnEzUUhHRmN6eFMwbXRLRS9JQVlBcGt3UXZEIDhoaDNWODhINFZxQ1dFRUhBOUliRkpFZWxaSFZkRWpiZE9rVlZmTFhkVDljd0wzSDFBTjdxZEdaNlRtbyBPUHh0RXdpMXAvdGdYV2dKYVpzTzUwSDFRSzM2RVppSkgydmN5ZmFuTmtMbWM5TmpHUmtjQlNwTGpObzUgTFZSeDhram40RnpHUllTTFo1ajhpejJtZGJQelRXMVl6L1Z1NHRPM0lxcldZaXhubnVBMzEwU1dQTmwrIFFiT0VFRGVEL0lXK2RFUkFkUHZtaVVTemkxVWhQcVU4MHY1Rm9hbGl2aG9wZmNjeFFQeUgrNXdQdnp4eiBSdkl3M2ViNzVCRGV1d0U5ZVJvakREb3NBdmlCYXcrK1pza2tsT1VtU09zZnZvam9SQ2JiQ2c5WUdhSHcgRGtoUTkzNE80bnFTdlpaVVIyTytLWktPNytaU3FiV09aN2k1VHg1S3RKbnAvMjRLTTQxRlVKbmpHc3JGIHFCMU5SSk5sb3A5bVZBVDJoVlN5MmZvM2R2bWQyMXhvN1N4NlNSUGtaYUN2TFI2TVJ3WEhuMzN5d1RydSBKZDFFUFRhQ2xscElUREtTOVNGd0xGK1NZNzZ2N0Exa00rYm4wS0orWTlkMW9vMitsU2J1ZHc9PSIsImsiOiJoQWFSZXp6OXlTbjBpQVI3cDl2QzFxZFRVK3JoQVpvSzh3V0tzcVROTmhXMEdnU1I5Z1lzTGlyd3R5OWlvQ2R0SXFkbVRiZ3NvZGxVczlSK3FheXZPNVJUeFFSV2xPN3JERVM2OU1jMFZDRzBVTStTbnpIdktJQitzRTVHUEdjSjdOK1F4UFA4L2JBWkJhS0E2MzFxNFRiUWZLSXZWRFM5blVQWGdpWGp1SU04Mmk1UGtqMFVoYzhzcWtJdDM5a0RFVmcrb20rQ1BlQUppOEs1ck9XcGppY0xKcjBZWFhHNlJVNzFTZUdOa2p2ZjR6aURIS0JwbGp4aVFwbEJQUzA5MXlnSmc2WFFoY01ja0RNOUtCTnZzTmJOckNSSVYwOS8wVmhCaXJZNWlFR1paK21LZmc5YmNiVWFLcktRZXdIdDhIS0tjMHNKTk9OVDFtNHlaeThsZFE9PSIsIm8iOiJBbmRyb2lkIiwidSI6ImhYWEw2NGhtd1kzT0xFMVEydUIvbExwQ1V4MlFpMnc1M2ttTGVEREZiTmN0MXVZS1pNSXZTTkpKVlZLUSBtaE4wRjk4SmYwTUtzUFV3NjI5OGNRaUJnbkxObVBoYy9HaWhzalNLUmRvSHNoM0JQdUZYZHl5L3Zaa2YgaVplM1F6a1dkYzlKVWFOYmFvZ25VRFExbm4yU0diV2RRaTlGWXRZTS9US1F5MVdIRHNuUlVBZ1MzVURZIGMvQlI1NVo0bko4TVR2R3RNWHFvMFVRbXJ4dkEwbWYwSEJwMEJRV1lQNVRXUXh6Zll0VVFBR0k9In0=v2.0
+doFinal结果（hex）-->f211548d0eca1351fc96bb23e4c29223
+doFinal结果（b64）-->8hFUjQ7KE1H8lrsj5MKSIw==
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Fmovie%2Frank_list&1714312424
+doFinal结果（hex）-->d74360c0bb2a872eb7113075b9c710eb5bd68367
+doFinal结果（b64）-->10NgwLsqhy63ETB1uccQ61vWg2c=
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/rank_list?udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=10NgwLsqhy63ETB1uccQ61vWg2c%3D&_ts=1714312424
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/movie/rank_list?udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=10NgwLsqhy63ETB1uccQ61vWg2c%3D&_ts=1714312424<----
+=========================================
+digest结果（hex）-->192952ef5bedd65ee2f0775ca7c5e1d8
+digest结果（b64）-->GSlS71vt1l7i8Hdcp8Xh2A==
+digest结果（hex）-->192952ef5bedd65ee2f0775ca7c5e1d8
+digest结果（b64）-->GSlS71vt1l7i8Hdcp8Xh2A==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->1fb007c4dabf74df
+======[B=====
+update算法传参--》1fb007c4dabf74df<----
+=========================================
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Fmovie%2Frank_list&1714312424
+doFinal结果（hex）-->d74360c0bb2a872eb7113075b9c710eb5bd68367
+doFinal结果（b64）-->10NgwLsqhy63ETB1uccQ61vWg2c=
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->0y10	UCN10UZheJiang10UHangZhou1-0+U
+$Alibaba (China) Technology Co., Ltd.10U*.taobao.com
+======[B=====
+update算法传参--》0y10	UCN10UZheJiang10UHangZhou1-0+U
+$Alibaba (China) Technology Co., Ltd.10U*.taobao.com<----
+=========================================
+digest结果（hex）-->13ecb9bbed5d5616f035ae45be1fbc25
+digest结果（b64）-->E+y5u+1dVhbwNa5Fvh+8JQ==
+digest结果（hex）-->13ecb9bbed5d5616f035ae45be1fbc25
+digest结果（b64）-->E+y5u+1dVhbwNa5Fvh+8JQ==
+[*]算法是--》SHA1《----
+=========================================
+digest 入参（str）-->0Y0*ﾆHￎ=*ﾆHￎ=B ￃ$"￮ﾟﾼ-ﾱBzﾚHV￁$%%￉ﾫ￼YVﾼﾻz:ﾅHgￔ=,t:Bgﾮﾔ0/ﾰ￶ﾞ￼￱ￕ￣uA￴￦ﾽ
+======[B=====
+update算法传参--》0Y0*�H�=*�H�=B<----
+=========================================
+digest结果（hex）-->28b084564ca7137fbb878677598cd9deb4e551ef
+digest结果（b64）-->KLCEVkynE3+7h4Z3WYzZ3rTlUe8=
+digest结果（hex）-->28b084564ca7137fbb878677598cd9deb4e551ef
+digest结果（b64）-->KLCEVkynE3+7h4Z3WYzZ3rTlUe8=
+[*]算法是--》SHA1《----
+=========================================
+digest 入参（str）-->0ﾂ"0	*ﾆHﾆ￷ ﾂ 0ﾂ
+ﾂ ￊ2ﾬOﾱ5%￢Cￃ(ﾘ`ﾆￕw:￩￩ﾂ￶ﾅￛgￏ>:ﾜaﾝ0tu￻c￲ﾶﾺ￷ z￼=Lￓ￸ﾏ}Y￑￩,ￛﾀo￰￝ﾗiￇﾑ8i￳￦!ﾬﾘ=ﾘﾓﾀ
+0R/ﾲ￼ﾋ￴4[yﾉ%-￾ﾝﾥﾏ@￉ﾠ﾿ﾪH￠L^C]ￎￒ2ﾣ6k￢ￍﾴ￝￧￉;ﾈ7￳J￫QQB￀m7ￂﾺﾀ￘ﾵﾜbﾦﾀ&6�Nqￆ	 5￘￪:ﾄ:ﾨﾣ￁p￷ﾞￛKﾉￕﾮNf>ￒoﾄﾅﾺ￑\Iﾾ￮mﾘﾟnﾦﾪ￼￭dT￁J`n￪Td￤ﾳￅsﾗ*&ﾹￚ^
+-)ﾝﾏ￐k'￶t￢dOﾪ8%￬ﾊ￙ￖ 
+======[B=====
+update算法传参--》0�"0	*�H��<----
+=========================================
+digest结果（hex）-->b89fc18995fe8661c5f0177207b96d84ca0101cb
+digest结果（b64）-->uJ/BiZX+hmHF8BdyB7lthMoBAcs=
+digest结果（hex）-->b89fc18995fe8661c5f0177207b96d84ca0101cb
+digest结果（b64）-->uJ/BiZX+hmHF8BdyB7lthMoBAcs=
+[*]算法是--》SHA1《----
+=========================================
+digest 入参（str）-->0Y0*ﾆHￎ=*ﾆHￎ=B ￃ$"￮ﾟﾼ-ﾱBzﾚHV￁$%%￉ﾫ￼YVﾼﾻz:ﾅHgￔ=,t:Bgﾮﾔ0/ﾰ￶ﾞ￼￱ￕ￣uA￴￦ﾽ
+======[B=====
+update算法传参--》0Y0*�H�=*�H�=B<----
+=========================================
+digest结果（hex）-->28b084564ca7137fbb878677598cd9deb4e551ef
+digest结果（b64）-->KLCEVkynE3+7h4Z3WYzZ3rTlUe8=
+digest结果（hex）-->28b084564ca7137fbb878677598cd9deb4e551ef
+digest结果（b64）-->KLCEVkynE3+7h4Z3WYzZ3rTlUe8=
+[*]算法是--》SHA1《----
+=========================================
+digest 入参（str）-->0ﾂ"0	*ﾆHﾆ￷ ﾂ 0ﾂ
+ﾂ ￊ2ﾬOﾱ5%￢Cￃ(ﾘ`ﾆￕw:￩￩ﾂ￶ﾅￛgￏ>:ﾜaﾝ0tu￻c￲ﾶﾺ￷ z￼=Lￓ￸ﾏ}Y￑￩,ￛﾀo￰￝ﾗiￇﾑ8i￳￦!ﾬﾘ=ﾘﾓﾀ
+0R/ﾲ￼ﾋ￴4[yﾉ%-￾ﾝﾥﾏ@￉ﾠ﾿ﾪH￠L^C]ￎￒ2ﾣ6k￢ￍﾴ￝￧￉;ﾈ7￳J￫QQB￀m7ￂﾺﾀ￘ﾵﾜbﾦﾀ&6�Nqￆ	 5￘￪:ﾄ:ﾨﾣ￁p￷ﾞￛKﾉￕﾮNf>ￒoﾄﾅﾺ￑\Iﾾ￮mﾘﾟnﾦﾪ￼￭dT￁J`n￪Td￤ﾳￅsﾗ*&ﾹￚ^
+-)ﾝﾏ￐k'￶t￢dOﾪ8%￬ﾊ￙ￖ 
+======[B=====
+update算法传参--》0�"0	*�H��<----
+=========================================
+digest结果（hex）-->b89fc18995fe8661c5f0177207b96d84ca0101cb
+digest结果（b64）-->uJ/BiZX+hmHF8BdyB7lthMoBAcs=
+digest结果（hex）-->b89fc18995fe8661c5f0177207b96d84ca0101cb
+digest结果（b64）-->uJ/BiZX+hmHF8BdyB7lthMoBAcs=
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/rank_list?udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=10NgwLsqhy63ETB1uccQ61vWg2c%3D&_ts=1714312424
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/movie/rank_list?udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=10NgwLsqhy63ETB1uccQ61vWg2c%3D&_ts=1714312424<----
+=========================================
+digest结果（hex）-->0677544c54e0ff46e47edfcb6fc9edd5
+digest结果（b64）-->BndUTFTg/0bkft/Lb8nt1Q==
+digest结果（hex）-->0677544c54e0ff46e47edfcb6fc9edd5
+digest结果（b64）-->BndUTFTg/0bkft/Lb8nt1Q==
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2905807236.webp
+======[B=====
+digest 入参（str）-->/view/photo/photo/public/p2904151020.webp
+======[B=====
+update算法传参--》/view/photo/photo/public/p2904151020.webp<----
+=========================================
+update算法传参--》/view/photo/photo/public/p2905807236.webp<----
+=========================================
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+digest结果（hex）-->68d70dc5138d5f9240bce9f96ad77323
+digest结果（b64）-->aNcNxRONX5JAvOn5atdzIw==
+=========================================
+digest结果（hex）-->54e764da9dbb46ed72898509e674281e
+digest结果（b64）-->VOdk2p27Ru1yiYUJ5nQoHg==
+digest 入参（str）-->/img/files/file-1543564940.png
+======[B=====
+digest结果（hex）-->68d70dc5138d5f9240bce9f96ad77323
+digest结果（b64）-->aNcNxRONX5JAvOn5atdzIw==
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Fmovie%2Fyear_ranks&1714312425
+update算法传参--》/img/files/file-1543564940.png<----
+digest结果（hex）-->54e764da9dbb46ed72898509e674281e
+digest结果（b64）-->VOdk2p27Ru1yiYUJ5nQoHg==
+doFinal结果（hex）-->4259d7e4c574e1b7f59f5abbcb0a8b638e579e95
+doFinal结果（b64）-->QlnX5MV04bf1n1q7ywqLY45XnpU=
+=========================================
+digest结果（hex）-->f662b172d51fd0ea5d91112e857b473f
+digest结果（b64）-->9mKxctUf0OpdkREuhXtHPw==
+digest结果（hex）-->f662b172d51fd0ea5d91112e857b473f
+digest结果（b64）-->9mKxctUf0OpdkREuhXtHPw==
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Fmovie%2Fcategory_ranks&1714312425
+doFinal结果（hex）-->8af46bc39479c363b8f67d981438243c655f030b
+doFinal结果（b64）-->ivRrw5R5w2O49n2YFDgkPGVfAws=
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/year_ranks?year=2023&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=QlnX5MV04bf1n1q7ywqLY45XnpU%3D&_ts=1714312425
+======[B=====
+=========================================
+update算法传参--》https://frodo.douban.com/api/v2/movie/year_ranks?year=2023&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=QlnX5MV04bf1n1q7ywqLY45XnpU%3D&_ts=1714312425<----
+=========================================
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/img/files/file-1578038285.gif
+======[B=====
+update算法传参--》/img/files/file-1578038285.gif<----
+=========================================
+digest结果（hex）-->87ee579997daa5baab75f2db2fef9b90
+digest结果（b64）-->h+5XmZfapbqrdfLbL++bkA==
+digest结果（hex）-->87ee579997daa5baab75f2db2fef9b90
+digest结果（b64）-->h+5XmZfapbqrdfLbL++bkA==
+digest结果（hex）-->2cf9ad3e948f5e7b1296f522b71f92e1
+digest结果（b64）-->LPmtPpSPXnsSlvUitx+S4Q==
+digest结果（hex）-->2cf9ad3e948f5e7b1296f522b71f92e1
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/category_ranks?category=all&start=0&count=10&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=ivRrw5R5w2O49n2YFDgkPGVfAws%3D&_ts=1714312425
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/movie/category_ranks?category=all&start=0&count=10&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=ivRrw5R5w2O49n2YFDgkPGVfAws%3D&_ts=1714312425<----
+=========================================
+digest结果（hex）-->f7fe5679dddc1a92bf91931699bf077b
+digest结果（b64）-->9/5Wed3cGpK/kZMWmb8Hew==
+digest结果（hex）-->f7fe5679dddc1a92bf91931699bf077b
+digest结果（b64）-->9/5Wed3cGpK/kZMWmb8Hew==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->1fb007c4dabf74df
+======[B=====
+update算法传参--》1fb007c4dabf74df<----
+=========================================
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest结果（b64）-->LPmtPpSPXnsSlvUitx+S4Q==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->1fb007c4dabf74df
+======[B=====
+update算法传参--》1fb007c4dabf74df<----
+=========================================
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Fmovie%2Fcategory_ranks&1714312425
+doFinal结果（hex）-->8af46bc39479c363b8f67d981438243c655f030b
+doFinal结果（b64）-->ivRrw5R5w2O49n2YFDgkPGVfAws=
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Fmovie%2Fyear_ranks&1714312425
+doFinal结果（hex）-->4259d7e4c574e1b7f59f5abbcb0a8b638e579e95
+doFinal结果（b64）-->QlnX5MV04bf1n1q7ywqLY45XnpU=
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/year_ranks?year=2023&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=QlnX5MV04bf1n1q7ywqLY45XnpU%3D&_ts=1714312425
+digest 入参（str）-->https://frodo.douban.com/api/v2/movie/category_ranks?category=all&start=0&count=10&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=ivRrw5R5w2O49n2YFDgkPGVfAws%3D&_ts=1714312425
+======[B=====
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/movie/year_ranks?year=2023&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=QlnX5MV04bf1n1q7ywqLY45XnpU%3D&_ts=1714312425<----
+update算法传参--》https://frodo.douban.com/api/v2/movie/category_ranks?category=all&start=0&count=10&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=ivRrw5R5w2O49n2YFDgkPGVfAws%3D&_ts=1714312425<----
+=========================================
+=========================================
+digest结果（hex）-->622e335db97c3ac8357d85d418078652
+digest结果（b64）-->Yi4zXbl8Osg1fYXUGAeGUg==
+digest结果（hex）-->622e335db97c3ac8357d85d418078652
+digest结果（b64）-->Yi4zXbl8Osg1fYXUGAeGUg==
+digest结果（hex）-->47c5085ce31bea879e761b3c152d4b84
+digest结果（b64）-->R8UIXOMb6oeedhs8FS1LhA==
+digest结果（hex）-->47c5085ce31bea879e761b3c152d4b84
+digest结果（b64）-->R8UIXOMb6oeedhs8FS1LhA==
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_85f05bfabe10370a/profile/chart_cover_url
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_2a4ee6ad1ae7983d/profile/chart_cover_url
+======[B=====
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_ee7868dfe0f8d09d/profile/chart_cover_url
+======[B=====
+[*]算法是--》MD5《----
+=========================================
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_7de0f7267ebe1825/profile/chart_cover_url
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_7de0f7267ebe1825/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->965ec62a0336cfec000eeb5147c64b2c
+digest结果（b64）-->ll7GKgM2z+wADutRR8ZLLA==
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_ee7868dfe0f8d09d/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->5cbcfde856fc6cce30511dff0327ebe6
+digest结果（b64）-->XLz96Fb8bM4wUR3/Ayfr5g==
+digest结果（hex）-->5cbcfde856fc6cce30511dff0327ebe6
+digest结果（b64）-->XLz96Fb8bM4wUR3/Ayfr5g==
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_2a4ee6ad1ae7983d/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->9861674ae94a13ef2f8ab95063e60474
+digest结果（b64）-->mGFnSulKE+8virlQY+YEdA==
+digest结果（hex）-->9861674ae94a13ef2f8ab95063e60474
+digest结果（b64）-->mGFnSulKE+8virlQY+YEdA==
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_85f05bfabe10370a/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->78616ecaf40c609cd8ef264bcd6e10d4
+digest结果（b64）-->eGFuyvQMYJzY7yZLzW4Q1A==
+digest结果（hex）-->965ec62a0336cfec000eeb5147c64b2c
+digest结果（b64）-->ll7GKgM2z+wADutRR8ZLLA==
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_20a909c72166be05/profile/chart_cover_url
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_20a909c72166be05/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->78616ecaf40c609cd8ef264bcd6e10d4
+digest结果（b64）-->eGFuyvQMYJzY7yZLzW4Q1A==
+digest结果（hex）-->599c8976c12ff39f72bdacaa38572285
+digest结果（b64）-->WZyJdsEv859yvayqOFcihQ==
+digest结果（hex）-->599c8976c12ff39f72bdacaa38572285
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_460cffe053e13aae/profile/chart_cover_url
+======[B=====
+digest结果（b64）-->WZyJdsEv859yvayqOFcihQ==
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_460cffe053e13aae/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->b5e70a84386acff49527c1de7e33c78e
+digest结果（b64）-->tecKhDhqz/SVJ8HefjPHjg==
+digest结果（hex）-->b5e70a84386acff49527c1de7e33c78e
+digest结果（b64）-->tecKhDhqz/SVJ8HefjPHjg==
+=========================================
+算法key（str）-->jNaMLh}d
+算法是（str）-->DES
+=========================================
+填充模式--》DES/ECB/PKCS5Padding
+=========================================
+算法key（str）-->jNaMLh}d
+算法是（str）-->DES
+=========================================
+填充模式--》DES/ECB/PKCS5Padding
+=========================================
+digest 入参（str）-->img1.doubanio.com
+digest结果（hex）-->f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e
+digest结果（b64）-->9W40c9mn8gUJpzrMuTYPev0DCG08u0Me
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->img1.doubanio.com
+digest结果（hex）-->f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e
+digest结果（b64）-->9W40c9mn8gUJpzrMuTYPev0DCG08u0Me
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1
+=========================================
+======[B=====
+=========================================
+update算法传参--》http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1<----
+digest 入参（str）-->http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1
+=========================================
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+======[B=====
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+算法key（str）-->jNaMLh}d
+算法是（str）-->DES
+update算法传参--》http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1<----
+=========================================
+=========================================
+填充模式--》DES/ECB/PKCS5Padding
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+=========================================
+digest 入参（str）-->img1.doubanio.com
+digest结果（hex）-->f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e
+digest结果（b64）-->9W40c9mn8gUJpzrMuTYPev0DCG08u0Me
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1
+======[B=====
+update算法传参--》http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1<----
+=========================================
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+=========================================
+digest 入参（str）-->http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1
+======[B=====
+[*]算法是--》MD5《----
+digest 入参（str）-->http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1
+=========================================
+======[B=====
+digest 入参（str）-->http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1
+======[B=====
+update算法传参--》http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1<----
+update算法传参--》http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1<----
+=========================================
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+update算法传参--》http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1<----
+=========================================
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+=========================================
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+=========================================
+算法key（str）-->jNaMLh}d
+算法是（str）-->DES
+=========================================
+填充模式--》DES/ECB/PKCS5Padding
+=========================================
+=========================================
+算法key（str）-->jNaMLh}d
+算法是（str）-->DES
+=========================================
+填充模式--》DES/ECB/PKCS5Padding
+算法key（str）-->jNaMLh}d
+算法是（str）-->DES
+=========================================
+digest 入参（str）-->#p￈ﾻﾕNﾵeﾎ1d|Wￒ￻;nￏﾅ%
+=========================================
+填充模式--》DES/ECB/PKCS5Padding
+=========================================
+digest结果（hex）-->312e3139342e3235322e3235332c313234
+digest 入参（str）-->#p￈ﾻﾕNﾵeﾎ1d|Wￒ￻;nￏﾅ%
+=========================================
+digest 入参（str）-->#p￈ﾻﾕNﾵeﾎ1d|Wￒ￻;nￏﾅ%
+digest结果（hex）-->312e3139342e3235322e3235332c313234
+digest结果（b64）-->MS4xOTQuMjUyLjI1MywxMjQ=
+digest结果（hex）-->312e3139342e3235322e3235332c313234
+digest结果（b64）-->MS4xOTQuMjUyLjI1MywxMjQ=
+digest结果（b64）-->MS4xOTQuMjUyLjI1MywxMjQ=
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_85f05bfabe10370a/profile/chart_cover_url?timezone=Asia%2FShanghai
+======[B=====
+[*]算法是--》MD5《----
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_85f05bfabe10370a/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+=========================================
+digest结果（hex）-->5998a1d8693f823d9205ba0258f170c6
+digest结果（b64）-->WZih2Gk/gj2SBboCWPFwxg==
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_460cffe053e13aae/profile/chart_cover_url?timezone=Asia%2FShanghai
+digest结果（hex）-->5998a1d8693f823d9205ba0258f170c6
+digest结果（b64）-->WZih2Gk/gj2SBboCWPFwxg==
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_460cffe053e13aae/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+digest结果（hex）-->bbba980837db9c4203cb0af8b0ecc579
+digest结果（b64）-->u7qYCDfbnEIDywr4sOzFeQ==
+digest结果（hex）-->bbba980837db9c4203cb0af8b0ecc579
+digest结果（b64）-->u7qYCDfbnEIDywr4sOzFeQ==
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+digest 入参（str）-->/view/photo/photo/public/p2884537592.webp
+=========================================
+======[B=====
+update算法传参--》/view/photo/photo/public/p2884537592.webp<----
+[*]算法是--》MD5《----
+=========================================
+digest结果（hex）-->bc8eb6869d8b6bd5976a19d00c68c8da
+digest结果（b64）-->vI62hp2La9WXahnQDGjI2g==
+digest 入参（str）-->/view/photo/photo/public/p2901725822.webp
+======[B=====
+update算法传参--》/view/photo/photo/public/p2901725822.webp<----
+[*]算法是--》MD5《----
+=========================================
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_ee7868dfe0f8d09d/profile/chart_cover_url?timezone=Asia%2FShanghai
+======[B=====
+=========================================
+digest结果（hex）-->029446f94de65b0dbb9c9e5812771c39
+digest结果（b64）-->ApRG+U3mWw27nJ5YEnccOQ==
+digest结果（hex）-->029446f94de65b0dbb9c9e5812771c39
+digest结果（b64）-->ApRG+U3mWw27nJ5YEnccOQ==
+[*]算法是--》MD5《----
+digest结果（hex）-->bc8eb6869d8b6bd5976a19d00c68c8da
+digest结果（b64）-->vI62hp2La9WXahnQDGjI2g==
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_ee7868dfe0f8d09d/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+=========================================
+[*]算法是--》MD5《----
+digest结果（hex）-->9881809152940d66f880e32dbbad3024
+digest结果（b64）-->mIGAkVKUDWb4gOMtu60wJA==
+digest结果（hex）-->9881809152940d66f880e32dbbad3024
+digest结果（b64）-->mIGAkVKUDWb4gOMtu60wJA==
+=========================================
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_7de0f7267ebe1825/profile/chart_cover_url?timezone=Asia%2FShanghai
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_7de0f7267ebe1825/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+digest结果（hex）-->75e2da44181692500e2313dc0fa58517
+digest结果（b64）-->deLaRBgWklAOIxPcD6WFFw==
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_20a909c72166be05/profile/chart_cover_url?timezone=Asia%2FShanghai
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_20a909c72166be05/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+digest结果（hex）-->0fe0fabe6f35311e06ec545cbf367b49
+digest结果（b64）-->D+D6vm81MR4G7FRcvzZ7SQ==
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_2a4ee6ad1ae7983d/profile/chart_cover_url?timezone=Asia%2FShanghai
+digest结果（hex）-->0fe0fabe6f35311e06ec545cbf367b49
+digest结果（b64）-->D+D6vm81MR4G7FRcvzZ7SQ==
+=========================================
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_2a4ee6ad1ae7983d/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+digest结果（hex）-->75e2da44181692500e2313dc0fa58517
+=========================================
+digest结果（b64）-->deLaRBgWklAOIxPcD6WFFw==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2362913975.webp
+digest结果（hex）-->f1844fc36aa1ac411bdbcd9b281936de
+digest结果（b64）-->8YRPw2qhrEEb282bKBk23g==
+digest结果（hex）-->f1844fc36aa1ac411bdbcd9b281936de
+digest结果（b64）-->8YRPw2qhrEEb282bKBk23g==
+======[B=====
+update算法传参--》/view/photo/photo/public/p2362913975.webp<----
+=========================================
+digest结果（hex）-->e9dd18f7cb359f64cf31fc98c4da1c7f
+digest结果（b64）-->6d0Y98s1n2TPMfyYxNocfw==
+digest结果（hex）-->e9dd18f7cb359f64cf31fc98c4da1c7f
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2567526997.webp
+======[B=====
+update算法传参--》/view/photo/photo/public/p2567526997.webp<----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2573140395.webp
+digest 入参（str）-->/img/files/file-1543903934.png
+======[B=====
+update算法传参--》/img/files/file-1543903934.png<----
+=========================================
+digest结果（hex）-->34c1b626f77b389d0982e4352d716724
+digest结果（b64）-->NMG2Jvd7OJ0JguQ1LXFnJA==
+digest结果（hex）-->34c1b626f77b389d0982e4352d716724
+digest结果（b64）-->NMG2Jvd7OJ0JguQ1LXFnJA==
+digest结果（hex）-->80ccde9cae6d9245a4818db39af7f186
+digest结果（b64）-->gMzenK5tkkWkgY2zmvfxhg==
+digest结果（hex）-->80ccde9cae6d9245a4818db39af7f186
+digest结果（b64）-->gMzenK5tkkWkgY2zmvfxhg==
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2887388708.webp
+======[B=====
+update算法传参--》/view/photo/photo/public/p2887388708.webp<----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_ae9bc54af8437a9d/profile/chart_cover_url
+======[B=====
+digest结果（b64）-->6d0Y98s1n2TPMfyYxNocfw==
+======[B=====
+update算法传参--》/view/photo/photo/public/p2573140395.webp<----
+=========================================
+digest结果（hex）-->53216fd97de08c64f13f344509c4c88c
+digest结果（b64）-->UyFv2X3gjGTxPzRFCcTIjA==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2564849769.webp
+======[B=====
+update算法传参--》/view/photo/photo/public/p2564849769.webp<----
+=========================================
+digest结果（hex）-->599b15ab9c8eb1ee31bcc447147173aa
+digest结果（b64）-->WZsVq5yOse4xvMRHFHFzqg==
+digest结果（hex）-->599b15ab9c8eb1ee31bcc447147173aa
+digest结果（b64）-->WZsVq5yOse4xvMRHFHFzqg==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_d5935076cbb62f41/profile/chart_cover_url
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_d5935076cbb62f41/profile/chart_cover_url<----
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_7478657ee54d2bf0/profile/chart_cover_url
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_7478657ee54d2bf0/profile/chart_cover_url<----
+=========================================
+=========================================
+digest结果（hex）-->53216fd97de08c64f13f344509c4c88c
+digest结果（b64）-->UyFv2X3gjGTxPzRFCcTIjA==
+digest结果（hex）-->041dd34003715605ed2a5326406d5eef
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_63ca01754da704b0/profile/chart_cover_url
+======[B=====
+=========================================
+digest结果（hex）-->1f12c57780f2c49e8b0c918e5d53c02d
+digest结果（b64）-->HxLFd4DyxJ6LDJGOXVPALQ==
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_ae9bc54af8437a9d/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->45fe335b28f72c0742d898d7f292f001
+digest结果（b64）-->Rf4zWyj3LAdC2JjX8pLwAQ==
+digest结果（hex）-->45fe335b28f72c0742d898d7f292f001
+digest结果（b64）-->Rf4zWyj3LAdC2JjX8pLwAQ==
+digest结果（hex）-->1f12c57780f2c49e8b0c918e5d53c02d
+digest结果（hex）-->a360ac6caaaabbb5c185e340a6109c83
+digest结果（b64）-->o2CsbKqqu7XBheNAphCcgw==
+digest结果（hex）-->a360ac6caaaabbb5c185e340a6109c83
+digest结果（b64）-->o2CsbKqqu7XBheNAphCcgw==
+digest结果（b64）-->HxLFd4DyxJ6LDJGOXVPALQ==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p1353751178.webp
+======[B=====
+update算法传参--》/view/photo/photo/public/p1353751178.webp<----
+digest结果（b64）-->BB3TQANxVgXtKlMmQG1e7w==
+digest结果（hex）-->041dd34003715605ed2a5326406d5eef
+=========================================
+digest结果（hex）-->3d9eb9d950f2b2ee1f8be254d24bb003
+digest结果（b64）-->PZ652VDysu4fi+JU0kuwAw==
+digest结果（hex）-->3d9eb9d950f2b2ee1f8be254d24bb003
+digest结果（b64）-->PZ652VDysu4fi+JU0kuwAw==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/img/files/file-1543904149.png
+======[B=====
+digest结果（b64）-->BB3TQANxVgXtKlMmQG1e7w==
+update算法传参--》/img/files/file-1543904149.png<----
+=========================================
+digest结果（hex）-->13d809a87540432a448a5b1d01157fc2
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_63ca01754da704b0/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->16e9a394e3869f2a4dcfe7cf35134763
+digest结果（b64）-->FumjlOOGnypNz+fPNRNHYw==
+digest结果（hex）-->16e9a394e3869f2a4dcfe7cf35134763
+digest结果（b64）-->FumjlOOGnypNz+fPNRNHYw==
+digest结果（b64）-->E9gJqHVAQypEilsdARV/wg==
+digest结果（hex）-->13d809a87540432a448a5b1d01157fc2
+digest结果（b64）-->E9gJqHVAQypEilsdARV/wg==
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_ae9bc54af8437a9d/profile/chart_cover_url?timezone=Asia%2FShanghai
+======[B=====
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_7478657ee54d2bf0/profile/chart_cover_url?timezone=Asia%2FShanghai
+======[B=====
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_63ca01754da704b0/profile/chart_cover_url?timezone=Asia%2FShanghai
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_ae9bc54af8437a9d/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_7478657ee54d2bf0/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_d5935076cbb62f41/profile/chart_cover_url?timezone=Asia%2FShanghai
+======[B=====
+======[B=====
+=========================================
+digest结果（hex）-->4f66146511dc1fed0fa6f56b547cce3e
+digest结果（b64）-->T2YUZRHcH+0PpvVrVHzOPg==
+digest结果（hex）-->4f66146511dc1fed0fa6f56b547cce3e
+digest结果（b64）-->T2YUZRHcH+0PpvVrVHzOPg==
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_d5935076cbb62f41/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+digest结果（hex）-->91fb65a5cfbceb4fb0aae11cc9a46a96
+digest结果（b64）-->kftlpc+860+wquEcyaRqlg==
+digest结果（hex）-->91fb65a5cfbceb4fb0aae11cc9a46a96
+digest结果（b64）-->kftlpc+860+wquEcyaRqlg==
+=========================================
+digest结果（hex）-->f1fe4b6ef239ea420ca8fad62f662189
+digest结果（b64）-->8f5LbvI56kIMqPrWL2YhiQ==
+digest结果（hex）-->f1fe4b6ef239ea420ca8fad62f662189
+digest结果（b64）-->8f5LbvI56kIMqPrWL2YhiQ==
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_63ca01754da704b0/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+digest结果（hex）-->3f0f11f78349b5b8dac10d7e72a864df
+digest结果（b64）-->Pw8R94NJtbjawQ1+cqhk3w==
+digest结果（hex）-->3f0f11f78349b5b8dac10d7e72a864df
+digest结果（b64）-->Pw8R94NJtbjawQ1+cqhk3w==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/cuphead/rexxar-core/subject/subject_collection_list-d93c0ac1bb.html
+======[B=====
+update算法传参--》/cuphead/rexxar-core/subject/subject_collection_list-d93c0ac1bb.html<----
+=========================================
+digest结果（hex）-->1c9e1df7c38afbfbd984a5858c0bb88a
+digest结果（b64）-->HJ4d98OK+/vZhKWFjAu4ig==
+digest结果（hex）-->1c9e1df7c38afbfbd984a5858c0bb88a
+digest结果（b64）-->HJ4d98OK+/vZhKWFjAu4ig==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/cuphead/rexxar-core/subject/subject_collection_list-d93c0ac1bb.html
+======[B=====
+update算法传参--》/cuphead/rexxar-core/subject/subject_collection_list-d93c0ac1bb.html<----
+=========================================
+digest结果（hex）-->1c9e1df7c38afbfbd984a5858c0bb88a
+digest结果（b64）-->HJ4d98OK+/vZhKWFjAu4ig==
+digest结果（hex）-->1c9e1df7c38afbfbd984a5858c0bb88a
+digest结果（b64）-->HJ4d98OK+/vZhKWFjAu4ig==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/cuphead/rexxar-shared/share_vendor-58a205b6c4.js
+======[B=====
+update算法传参--》/cuphead/rexxar-shared/share_vendor-58a205b6c4.js<----
+=========================================
+digest结果（hex）-->0be206d13daf65a8f8cb1980468e94e0
+digest结果（b64）-->C+IG0T2vZaj4yxmARo6U4A==
+digest结果（hex）-->0be206d13daf65a8f8cb1980468e94e0
+digest结果（b64）-->C+IG0T2vZaj4yxmARo6U4A==
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Ftv%2Frank_list&1714312639
+doFinal结果（hex）-->35f91873a58fce691cee84f3a427d1f01009f98a
+doFinal结果（b64）-->NfkYc6WPzmkc7oTzpCfR8BAJ+Yo=
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/tv/rank_list?udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=NfkYc6WPzmkc7oTzpCfR8BAJ%2BYo%3D&_ts=1714312639
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/tv/rank_list?udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=NfkYc6WPzmkc7oTzpCfR8BAJ%2BYo%3D&_ts=1714312639<----
+=========================================
+digest结果（hex）-->a30a7b90471bc835cc5ae48086b50e4e
+digest结果（b64）-->owp7kEcbyDXMWuSAhrUOTg==
+digest结果（hex）-->a30a7b90471bc835cc5ae48086b50e4e
+digest结果（b64）-->owp7kEcbyDXMWuSAhrUOTg==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->1fb007c4dabf74df
+======[B=====
+update算法传参--》1fb007c4dabf74df<----
+=========================================
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Ftv%2Frank_list&1714312639
+doFinal结果（hex）-->35f91873a58fce691cee84f3a427d1f01009f98a
+doFinal结果（b64）-->NfkYc6WPzmkc7oTzpCfR8BAJ+Yo=
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/tv/rank_list?udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=NfkYc6WPzmkc7oTzpCfR8BAJ%2BYo%3D&_ts=1714312639
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/tv/rank_list?udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=NfkYc6WPzmkc7oTzpCfR8BAJ%2BYo%3D&_ts=1714312639<----
+=========================================
+digest结果（hex）-->6f7ee3af011c92e9738760c4733b6669
+digest结果（b64）-->b37jrwEckulzh2DEcztmaQ==
+digest结果（hex）-->6f7ee3af011c92e9738760c4733b6669
+digest结果（b64）-->b37jrwEckulzh2DEcztmaQ==
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2901319567.webp
+digest 入参（str）-->/view/photo/photo/public/p2899888809.webp
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2904293505.webp
+======[B=====
+update算法传参--》/view/photo/photo/public/p2904293505.webp<----
+=========================================
+digest结果（hex）-->e28008e483c375be05eb1524e0deff49
+digest结果（b64）-->4oAI5IPDdb4F6xUk4N7/SQ==
+digest结果（hex）-->e28008e483c375be05eb1524e0deff49
+digest结果（b64）-->4oAI5IPDdb4F6xUk4N7/SQ==
+======[B=====
+[*]算法是--》MD5《----
+======[B=====
+update算法传参--》/view/photo/photo/public/p2901319567.webp<----
+update算法传参--》/view/photo/photo/public/p2899888809.webp<----
+=========================================
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2904606787.webp
+======[B=====
+=========================================
+digest结果（hex）-->7125609fbb133c9ba77d6085c0a0408a
+digest结果（b64）-->cSVgn7sTPJunfWCFwKBAig==
+digest结果（hex）-->bb3f0892b0fe88e81e4ed7a7dd7bd7a6
+digest结果（b64）-->uz8IkrD+iOgeTten3XvXpg==
+digest结果（hex）-->bb3f0892b0fe88e81e4ed7a7dd7bd7a6
+digest结果（hex）-->7125609fbb133c9ba77d6085c0a0408a
+digest结果（b64）-->cSVgn7sTPJunfWCFwKBAig==
+digest结果（b64）-->uz8IkrD+iOgeTten3XvXpg==
+update算法传参--》/view/photo/photo/public/p2904606787.webp<----
+=========================================
+digest结果（hex）-->97b5a64613e5411335afc148246c5444
+digest结果（b64）-->l7WmRhPlQRM1r8FIJGxURA==
+digest结果（hex）-->97b5a64613e5411335afc148246c5444
+digest结果（b64）-->l7WmRhPlQRM1r8FIJGxURA==
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Ftv%2Fyear_ranks&1714312640
+doFinal结果（hex）-->8943c1f6209dcf736f5be2584c153e8030ffe152
+doFinal结果（b64）-->iUPB9iCdz3NvW+JYTBU+gDD/4VI=
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Ftv%2Fcategory_ranks&1714312640
+doFinal结果（hex）-->f36e0fbfb02ad1f0562e424e5aa8f6c3b71c7f6a
+doFinal结果（b64）-->824Pv7Aq0fBWLkJOWqj2w7ccf2o=
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/tv/year_ranks?year=2023&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=iUPB9iCdz3NvW%2BJYTBU%2BgDD%2F4VI%3D&_ts=1714312640
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/tv/year_ranks?year=2023&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=iUPB9iCdz3NvW%2BJYTBU%2BgDD%2F4VI%3D&_ts=1714312640<----
+=========================================
+digest结果（hex）-->95f9f7ffbfc5fb0d69a24b34ee0669d3
+digest结果（b64）-->lfn3/7/F+w1poks07gZp0w==
+digest结果（hex）-->95f9f7ffbfc5fb0d69a24b34ee0669d3
+digest结果（b64）-->lfn3/7/F+w1poks07gZp0w==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->1fb007c4dabf74df
+======[B=====
+update算法传参--》1fb007c4dabf74df<----
+=========================================
+[*]算法是--》MD5《----
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+=========================================
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest 入参（str）-->/img/files/file-1578038285.gif
+======[B=====
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+update算法传参--》/img/files/file-1578038285.gif<----
+=========================================
+digest结果（hex）-->87ee579997daa5baab75f2db2fef9b90
+digest结果（b64）-->h+5XmZfapbqrdfLbL++bkA==
+digest结果（hex）-->87ee579997daa5baab75f2db2fef9b90
+digest结果（b64）-->h+5XmZfapbqrdfLbL++bkA==
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Ftv%2Fyear_ranks&1714312640
+digest 入参（str）-->https://frodo.douban.com/api/v2/tv/category_ranks?category=all&start=0&count=10&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=824Pv7Aq0fBWLkJOWqj2w7ccf2o%3D&_ts=1714312640
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/tv/category_ranks?category=all&start=0&count=10&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=824Pv7Aq0fBWLkJOWqj2w7ccf2o%3D&_ts=1714312640<----
+=========================================
+digest结果（hex）-->e50c38ce549673edcd0bd821f3f37940
+digest结果（b64）-->5Qw4zlSWc+3NC9gh8/N5QA==
+digest结果（hex）-->e50c38ce549673edcd0bd821f3f37940
+digest结果（b64）-->5Qw4zlSWc+3NC9gh8/N5QA==
+doFinal结果（hex）-->8943c1f6209dcf736f5be2584c153e8030ffe152
+[*]算法是--》MD5《----
+doFinal结果（b64）-->iUPB9iCdz3NvW+JYTBU+gDD/4VI=
+=========================================
+digest 入参（str）-->1fb007c4dabf74df
+======[B=====
+update算法传参--》1fb007c4dabf74df<----
+=========================================
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+digest结果（hex）-->de05a549b30c51a13f6bfdda87504894
+digest结果（b64）-->3gWlSbMMUaE/a/3ah1BIlA==
+=========================================
+算法key（str）-->bf7dddc7c9cfe6f7
+算法是（str）-->HmacSHA1
+=========================================
+doFinal 入参（str）-->GET&%2Fapi%2Fv2%2Ftv%2Fcategory_ranks&1714312641
+doFinal结果（hex）-->331282de3aae5677bcc49dc54aaf17c410d288ef
+doFinal结果（b64）-->MxKC3jquVne8xJ3FSq8XxBDSiO8=
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/tv/year_ranks?year=2023&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=iUPB9iCdz3NvW%2BJYTBU%2BgDD%2F4VI%3D&_ts=1714312640
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/tv/year_ranks?year=2023&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=iUPB9iCdz3NvW%2BJYTBU%2BgDD%2F4VI%3D&_ts=1714312640<----
+=========================================
+digest结果（hex）-->aa52e4ee25ab96c0460e342f5ac82b23
+digest结果（b64）-->qlLk7iWrlsBGDjQvWsgrIw==
+digest结果（hex）-->aa52e4ee25ab96c0460e342f5ac82b23
+digest结果（b64）-->qlLk7iWrlsBGDjQvWsgrIw==
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_7961699c9901eca2/profile/chart_cover_url
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_2babc7f3a8981d4c/profile/chart_cover_url
+======[B=====
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_687c520892a7867f/profile/chart_cover_url
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_7961699c9901eca2/profile/chart_cover_url<----
+======[B=====
+=========================================
+digest结果（hex）-->99485919960aea4fcb1ca816c51908da
+digest结果（b64）-->mUhZGZYK6k/LHKgWxRkI2g==
+digest结果（hex）-->99485919960aea4fcb1ca816c51908da
+digest结果（b64）-->mUhZGZYK6k/LHKgWxRkI2g==
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_687c520892a7867f/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->127c89e0e3a30099a25d19d8650fac23
+digest结果（b64）-->EnyJ4OOjAJmiXRnYZQ+sIw==
+digest结果（hex）-->127c89e0e3a30099a25d19d8650fac23
+digest结果（b64）-->EnyJ4OOjAJmiXRnYZQ+sIw==
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_2babc7f3a8981d4c/profile/chart_cover_url<----
+=========================================
+=========================================
+digest结果（hex）-->15939b5df28f6b8f21620211f428a4aa
+digest结果（b64）-->FZObXfKPa48hYgIR9Cikqg==
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_30cdc9d22505e82c/profile/chart_cover_url
+digest结果（hex）-->15939b5df28f6b8f21620211f428a4aa
+digest结果（b64）-->FZObXfKPa48hYgIR9Cikqg==
+======[B=====
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_d5dec8a82d74c31d/profile/chart_cover_url
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_30cdc9d22505e82c/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->cfb2d429b7a6a9f465e4bea0afedfb76
+digest结果（b64）-->z7LUKbemqfRl5L6gr+37dg==
+======[B=====
+digest结果（hex）-->cfb2d429b7a6a9f465e4bea0afedfb76
+digest结果（b64）-->z7LUKbemqfRl5L6gr+37dg==
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_d5dec8a82d74c31d/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->80e60678197260fbfbfcf1f50a5ca5c3
+digest结果（b64）-->gOYGeBlyYPv7/PH1Clylww==
+digest结果（hex）-->80e60678197260fbfbfcf1f50a5ca5c3
+digest结果（b64）-->gOYGeBlyYPv7/PH1Clylww==
+=========================================
+算法key（str）-->jNaMLh}d
+算法是（str）-->DES
+=========================================
+填充模式--》DES/ECB/PKCS5Padding
+=========================================
+算法key（str）-->jNaMLh}d
+算法是（str）-->DES
+=========================================
+填充模式--》DES/ECB/PKCS5Padding
+=========================================
+digest 入参（str）-->img1.doubanio.com
+=========================================
+digest结果（hex）-->f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e
+digest结果（b64）-->9W40c9mn8gUJpzrMuTYPev0DCG08u0Me
+digest 入参（str）-->img1.doubanio.com
+[*]算法是--》MD5《----
+digest结果（hex）-->f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e
+digest结果（b64）-->9W40c9mn8gUJpzrMuTYPev0DCG08u0Me
+=========================================
+digest 入参（str）-->http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1
+[*]算法是--》MD5《----
+======[B=====
+update算法传参--》http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1<----
+=========================================
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+=========================================
+digest 入参（str）-->http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1
+======[B=====
+update算法传参--》http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1<----
+=========================================
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://frodo.douban.com/api/v2/tv/category_ranks?category=all&start=0&count=10&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=MxKC3jquVne8xJ3FSq8XxBDSiO8%3D&_ts=1714312641
+======[B=====
+update算法传参--》https://frodo.douban.com/api/v2/tv/category_ranks?category=all&start=0&count=10&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288&_sig=MxKC3jquVne8xJ3FSq8XxBDSiO8%3D&_ts=1714312641<----
+=========================================
+digest结果（hex）-->289c19a33b4ac94c55288dcba73301e4
+digest结果（b64）-->KJwZoztKyUxVKI3LpzMB5A==
+digest结果（hex）-->289c19a33b4ac94c55288dcba73301e4
+digest结果（b64）-->KJwZoztKyUxVKI3LpzMB5A==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_971f2e5e9ec07c0c/profile/chart_cover_url
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_971f2e5e9ec07c0c/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->0e738103a5680916df8c9c9e5bffe85c
+digest结果（b64）-->DnOBA6VoCRbfjJyeW//oXA==
+digest结果（hex）-->0e738103a5680916df8c9c9e5bffe85c
+digest结果（b64）-->DnOBA6VoCRbfjJyeW//oXA==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1
+======[B=====
+update算法传参--》http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1<----
+=========================================
+[*]算法是--》MD5《----
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+=========================================
+digest 入参（str）-->http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1
+=========================================
+算法key（str）-->jNaMLh}d
+算法是（str）-->DES
+=========================================
+填充模式--》DES/ECB/PKCS5Padding
+======[B=====
+update算法传参--》http://119.29.29.98/d?dn=f56e3473d9a7f20509a73accb9360f7afd03086d3cbb431e&id=105&ttl=1<----
+=========================================
+digest 入参（str）-->#p￈ﾻﾕNﾵehￍￌﾒﾕ bf	ￌ￸ﾵ￴ax
+=========================================
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+digest结果（hex）-->90182faedbb65d812c1825daa64fb4df
+digest结果（b64）-->kBgvrtu2XYEsGCXapk+03w==
+digest结果（hex）-->312e3139342e3235322e3235332c3931
+digest结果（b64）-->MS4xOTQuMjUyLjI1Myw5MQ==
+=========================================
+算法key（str）-->jNaMLh}d
+算法是（str）-->DES
+=========================================
+填充模式--》DES/ECB/PKCS5Padding
+=========================================
+digest 入参（str）-->#p￈ﾻﾕNﾵehￍￌﾒﾕ bf	ￌ￸ﾵ￴ax
+digest结果（hex）-->312e3139342e3235322e3235332c3931
+digest结果（b64）-->MS4xOTQuMjUyLjI1Myw5MQ==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_687c520892a7867f/profile/chart_cover_url?timezone=Asia%2FShanghai
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_687c520892a7867f/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+digest结果（hex）-->8e6b88cc5e03472b13192177d931748d
+digest结果（b64）-->jmuIzF4DRysTGSF32TF0jQ==
+digest结果（hex）-->8e6b88cc5e03472b13192177d931748d
+digest结果（b64）-->jmuIzF4DRysTGSF32TF0jQ==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_8f006185498dd663/profile/chart_cover_url
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_8f006185498dd663/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->53146ad498e80976c491aeab98801413
+digest结果（b64）-->UxRq1JjoCXbEka6rmIAUEw==
+digest结果（hex）-->53146ad498e80976c491aeab98801413
+digest结果（b64）-->UxRq1JjoCXbEka6rmIAUEw==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_2babc7f3a8981d4c/profile/chart_cover_url?timezone=Asia%2FShanghai
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_2babc7f3a8981d4c/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+digest结果（hex）-->6d814a04320bc17403ea84df6382bcd6
+digest结果（b64）-->bYFKBDILwXQD6oTfY4K81g==
+digest结果（hex）-->6d814a04320bc17403ea84df6382bcd6
+digest结果（b64）-->bYFKBDILwXQD6oTfY4K81g==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2253291546.webp
+======[B=====
+update算法传参--》/view/photo/photo/public/p2253291546.webp<----
+=========================================
+digest结果（hex）-->ea5da0cb688c27720997f303295cab7d
+digest结果（b64）-->6l2gy2iMJ3IJl/MDKVyrfQ==
+digest结果（hex）-->ea5da0cb688c27720997f303295cab7d
+digest结果（b64）-->6l2gy2iMJ3IJl/MDKVyrfQ==
+[*]算法是--》MD5《----
+=========================================
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_7961699c9901eca2/profile/chart_cover_url?timezone=Asia%2FShanghai
+=========================================
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_7961699c9901eca2/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2518495736.webp
+======[B=====
+update算法传参--》/view/photo/photo/public/p2518495736.webp<----
+=========================================
+digest结果（hex）-->802597e99f5cc7dc09df7451de57fb40
+=========================================
+=========================================
+digest结果（hex）-->d127f77fd6ed3f65c0a5cec0253df797
+digest结果（b64）-->0Sf3f9btP2XApc7AJT33lw==
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+digest结果（b64）-->gCWX6Z9cx9wJ33RR3lf7QA==
+digest结果（hex）-->d127f77fd6ed3f65c0a5cec0253df797
+digest结果（b64）-->0Sf3f9btP2XApc7AJT33lw==
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_d5dec8a82d74c31d/profile/chart_cover_url?timezone=Asia%2FShanghai
+[*]算法是--》MD5《----
+======[B=====
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_30cdc9d22505e82c/profile/chart_cover_url?timezone=Asia%2FShanghai
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_30cdc9d22505e82c/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+digest结果（hex）-->802597e99f5cc7dc09df7451de57fb40
+digest结果（b64）-->gCWX6Z9cx9wJ33RR3lf7QA==
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_d5dec8a82d74c31d/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_971f2e5e9ec07c0c/profile/chart_cover_url?timezone=Asia%2FShanghai
+=========================================
+digest结果（hex）-->ccee11ddd176f01b1118e62f74c220de
+digest结果（b64）-->zO4R3dF28BsRGOYvdMIg3g==
+======[B=====
+digest结果（hex）-->9417eaf0b4090a2825d13f99c035b4b5
+digest结果（b64）-->lBfq8LQJCigl0T+ZwDW0tQ==
+digest 入参（str）-->/view/photo/photo/public/p2292035027.webp
+digest结果（hex）-->ccee11ddd176f01b1118e62f74c220de
+digest结果（b64）-->zO4R3dF28BsRGOYvdMIg3g==
+digest结果（hex）-->9417eaf0b4090a2825d13f99c035b4b5
+digest结果（b64）-->lBfq8LQJCigl0T+ZwDW0tQ==
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_971f2e5e9ec07c0c/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+[*]算法是--》MD5《----
+======[B=====
+update算法传参--》/view/photo/photo/public/p2292035027.webp<----
+=========================================
+digest结果（hex）-->0b2f97ccc70ae11199ec2c0e85917287
+digest结果（b64）-->Cy+XzMcK4RGZ7CwOhZFyhw==
+digest结果（hex）-->0b2f97ccc70ae11199ec2c0e85917287
+digest结果（b64）-->Cy+XzMcK4RGZ7CwOhZFyhw==
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_8f006185498dd663/profile/chart_cover_url?timezone=Asia%2FShanghai
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_8f006185498dd663/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+digest结果（hex）-->f08f5e12b808e5d427fdc060898331f5
+digest结果（b64）-->8I9eErgI5dQn/cBgiYMx9Q==
+digest结果（hex）-->f08f5e12b808e5d427fdc060898331f5
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p612565074.webp
+======[B=====
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2882800305.webp
+digest结果（hex）-->7dc67e4921122591fd841eb4c206f92c
+digest结果（b64）-->fcZ+SSESJZH9hB60wgb5LA==
+digest结果（hex）-->7dc67e4921122591fd841eb4c206f92c
+digest结果（b64）-->fcZ+SSESJZH9hB60wgb5LA==
+update算法传参--》/view/photo/photo/public/p612565074.webp<----
+=========================================
+digest结果（hex）-->b38528cf1733f3643e4764cbf60393ba
+digest结果（b64）-->s4Uozxcz82Q+R2TL9gOTug==
+digest结果（hex）-->b38528cf1733f3643e4764cbf60393ba
+digest结果（b64）-->s4Uozxcz82Q+R2TL9gOTug==
+======[B=====
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2551853481.webp
+======[B=====
+update算法传参--》/view/photo/photo/public/p2551853481.webp<----
+=========================================
+update算法传参--》/view/photo/photo/public/p2882800305.webp<----
+=========================================
+[*]算法是--》MD5《----
+[*]算法是--》MD5《----
+=========================================
+digest结果（hex）-->54db54a96705ea367da13c24816595c3
+digest结果（b64）-->VNtUqWcF6jZ9oTwkgWWVww==
+digest结果（hex）-->54db54a96705ea367da13c24816595c3
+digest结果（b64）-->VNtUqWcF6jZ9oTwkgWWVww==
+[*]算法是--》MD5《----
+digest结果（b64）-->8I9eErgI5dQn/cBgiYMx9Q==
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2901723708.webp
+======[B=====
+update算法传参--》/view/photo/photo/public/p2901723708.webp<----
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p2622337220.webp
+======[B=====
+=========================================
+digest 入参（str）-->/view/photo/photo/public/p564957081.webp
+======[B=====
+update算法传参--》/view/photo/photo/public/p564957081.webp<----
+=========================================
+digest结果（hex）-->3153971b64bd3744a161207b7d2b47cc
+digest 入参（str）-->/view/photo/photo/public/p2563462908.webp
+update算法传参--》/view/photo/photo/public/p2622337220.webp<----
+======[B=====
+update算法传参--》/view/photo/photo/public/p2563462908.webp<----
+digest结果（hex）-->b9d0b7bd37ae4bfa30d98a7d2d7be28b
+[*]算法是--》MD5《----
+=========================================
+=========================================
+digest结果（hex）-->48ec50e5326de6c0412d7ca80316b966
+digest结果（b64）-->SOxQ5TJt5sBBLXyoAxa5Zg==
+digest结果（hex）-->63218caab404c03697979c9bece6768f
+digest结果（b64）-->MVOXG2S9N0ShYSB7fStHzA==
+digest结果（hex）-->48ec50e5326de6c0412d7ca80316b966
+digest结果（b64）-->SOxQ5TJt5sBBLXyoAxa5Zg==
+=========================================
+digest结果（hex）-->3153971b64bd3744a161207b7d2b47cc
+digest结果（b64）-->MVOXG2S9N0ShYSB7fStHzA==
+=========================================
+digest结果（hex）-->f30884b0e9f702369ff12b0054ee24f0
+digest结果（b64）-->8wiEsOn3Ajaf8SsAVO4k8A==
+digest结果（b64）-->udC3vTeuS/ow2Yp9LXviiw==
+digest结果（hex）-->b9d0b7bd37ae4bfa30d98a7d2d7be28b
+digest结果（b64）-->udC3vTeuS/ow2Yp9LXviiw==
+digest结果（hex）-->f30884b0e9f702369ff12b0054ee24f0
+digest结果（b64）-->8wiEsOn3Ajaf8SsAVO4k8A==
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_c5a0525fd3ddd8ea/profile/chart_cover_url
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_c5a0525fd3ddd8ea/profile/chart_cover_url<----
+=========================================
+digest结果（hex）-->34fc8d6722e01091d435a57341ee0ef9
+digest结果（b64）-->NPyNZyLgEJHUNaVzQe4O+Q==
+digest结果（b64）-->YyGMqrQEwDaXl5yb7OZ2jw==
+digest结果（hex）-->63218caab404c03697979c9bece6768f
+digest结果（b64）-->YyGMqrQEwDaXl5yb7OZ2jw==
+digest结果（hex）-->34fc8d6722e01091d435a57341ee0ef9
+digest结果（b64）-->NPyNZyLgEJHUNaVzQe4O+Q==
+[*]算法是--》MD5《----
+=========================================
+digest 入参（str）-->https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_c5a0525fd3ddd8ea/profile/chart_cover_url?timezone=Asia%2FShanghai
+======[B=====
+update算法传参--》https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_c5a0525fd3ddd8ea/profile/chart_cover_url?timezone=Asia%2FShanghai<----
+=========================================
+digest结果（hex）-->127d34d01e139cbcf49b87ae73c4c3e4
+digest结果（b64）-->En000B4TnLz0m4euc8TD5A==
+digest结果（hex）-->127d34d01e139cbcf49b87ae73c4c3e4
+digest结果（b64）-->En000B4TnLz0m4euc8TD5A==

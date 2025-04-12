@@ -1,0 +1,12 @@
+
+
+npm config set registry https://registry.npmmirror.com
+
+npm config list
+
+安装模块
+npm install axios --save
+npm install axios -S
+
+
+

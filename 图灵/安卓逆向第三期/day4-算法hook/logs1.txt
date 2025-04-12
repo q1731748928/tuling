@@ -1,0 +1,87 @@
+ApiSignatureHelper.a is called: str=https://frodo.douban.com/api/v2/movie/rank_list?, str2=GET, str3=null
+ApiSignatureHelper.a result=Pair{EyvJ+geOeLmrd4lNpValpn+q0LM= 1714050895}
+ApiSignatureHelper.a is called: str=https://frodo.douban.com/api/v2/movie/rank_list?udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=EyvJ%2BgeOeLmrd4lNpValpn%2Bq0LM%3D&_ts=1714050895&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288, str2=GET, str3=null
+ApiSignatureHelper.a result=Pair{EyvJ+geOeLmrd4lNpValpn+q0LM= 1714050895}
+ApiSignatureHelper.a is called: str=https://frodo.douban.com/api/v2/movie/year_ranks?year=2023, str2=GET, str3=null
+ApiSignatureHelper.a result=Pair{pQGTAqemiNPORn6WYDdsD/lAbLM= 1714050897}
+ApiSignatureHelper.a is called: str=https://frodo.douban.com/api/v2/movie/category_ranks?category=all&start=0&count=10, str2=GET, str3=null
+ApiSignatureHelper.a result=Pair{080Ey7f/m3TSv6tmWWlqQ3a9bbU= 1714050897}
+ApiSignatureHelper.a is called: str=https://frodo.douban.com/api/v2/movie/year_ranks?year=2023&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=pQGTAqemiNPORn6WYDdsD%2FlAbLM%3D&_ts=1714050897&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288, str2=GET, str3=null
+ApiSignatureHelper.a result=Pair{pQGTAqemiNPORn6WYDdsD/lAbLM= 1714050897}
+ApiSignatureHelper.a is called: str=https://frodo.douban.com/api/v2/movie/category_ranks?category=all&start=0&count=10&udid=970bc487286535ebe372003e54330d152d45f66a&rom=android&apikey=0dad551ec0f84ed02907ff5c42e8ec70&s=rexxar_new&channel=Yingyongbao_Market&_sig=080Ey7f%2Fm3TSv6tmWWlqQ3a9bbU%3D&_ts=1714050897&timezone=Asia%2FShanghai&device_id=970bc487286535ebe372003e54330d152d45f66a&os_rom=android&apple=de05a549b30c51a13f6bfdda87504894&sugar=0&loc_id=108288, str2=GET, str3=null
+ApiSignatureHelper.a result=Pair{080Ey7f/m3TSv6tmWWlqQ3a9bbU= 1714050897}
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2F~me&1714051022
+HMACHash1.a result=9JSF8p3ntObnJ5gX+J6pmxBIn4w=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmine%2Finterests&1714051022
+HMACHash1.a result=YlrJKwBk3QZqppgNuDjIP/atsng=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Frecommend&1714051022
+HMACHash1.a result=BaEr9p7ZYlnQmmtzhY+cVPZ24G8=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714051022
+HMACHash1.a result=sEQW9vmstEXsKf+U1WRhDKmzF/U=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714051022
+HMACHash1.a result=sEQW9vmstEXsKf+U1WRhDKmzF/U=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714051023
+HMACHash1.a result=fiMLES0FSHXg88pNCabmpOQXMZw=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Frecommend&1714051023
+HMACHash1.a result=5NIp5CZd5vgmfmySQ8QWoLrG0Ho=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714051023
+HMACHash1.a result=fiMLES0FSHXg88pNCabmpOQXMZw=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmine%2Finterests&1714051023
+HMACHash1.a result=4v3FW8wP3ymn20cpXhU/VAaFfrg=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714051023
+HMACHash1.a result=fiMLES0FSHXg88pNCabmpOQXMZw=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714051023
+HMACHash1.a result=fiMLES0FSHXg88pNCabmpOQXMZw=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Frecommend&1714051023
+HMACHash1.a result=5NIp5CZd5vgmfmySQ8QWoLrG0Ho=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714051023
+HMACHash1.a result=fiMLES0FSHXg88pNCabmpOQXMZw=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714051023
+HMACHash1.a result=fiMLES0FSHXg88pNCabmpOQXMZw=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Frecommend&1714051023
+HMACHash1.a result=5NIp5CZd5vgmfmySQ8QWoLrG0Ho=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714051023
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714051023
+HMACHash1.a result=fiMLES0FSHXg88pNCabmpOQXMZw=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714051023
+HMACHash1.a result=fiMLES0FSHXg88pNCabmpOQXMZw=
+HMACHash1.a result=fiMLES0FSHXg88pNCabmpOQXMZw=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fad&1714051023
+HMACHash1.a result=fiMLES0FSHXg88pNCabmpOQXMZw=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Frank_list&1714051031
+HMACHash1.a result=IiDRpzX1Q0QATYvjV0jrvITJN0A=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Frank_list&1714051031
+HMACHash1.a result=IiDRpzX1Q0QATYvjV0jrvITJN0A=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fyear_ranks&1714051032
+HMACHash1.a result=wz8TltEG+c440Ah2N0v/jVxBUK8=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fcategory_ranks&1714051032
+HMACHash1.a result=3aJ7DW6yt39HMmU0LAITxP4PL4M=
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fcategory_ranks&1714051032
+HMACHash1.a is called: str=bf7dddc7c9cfe6f7
+str2=GET&%2Fapi%2Fv2%2Fmovie%2Fyear_ranks&1714051032
+HMACHash1.a result=3aJ7DW6yt39HMmU0LAITxP4PL4M=
+HMACHash1.a result=wz8TltEG+c440Ah2N0v/jVxBUK8=

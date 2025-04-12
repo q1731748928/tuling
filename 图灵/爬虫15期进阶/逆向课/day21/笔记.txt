@@ -1,0 +1,19 @@
+在线文档：https://www.yuque.com/buziran/nktf0k/tf25xq5zbkl5hpog?singleDoc# 《1. cookie对抗》
+作业：http://www.customs.gov.cn/
+
+x = arg2 = _0x23a392["hexXor"](_0x5e8b26);
+
+ck = reload(x)
+
+document.cookie = ck
+
+加速乐
+ 521        --》  JS文件
+  document.cookie = '__jsl_clearance_s=1722864223.972|-1|lB6uVFuZKQGNWbEgjuOAbjNmKJE%3D; Max-age=3600; Path=/; SameSite=None; Secure'
+
+ 521   ---》 JS文件  携带第一次的CK值 请求 才能返回JS 重新生成CK
+
+ 200   --》 正常信息
+
+
+

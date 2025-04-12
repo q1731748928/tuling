@@ -1,0 +1,28 @@
+
+https://www.kuwo.cn/rankList   请求参数
+
+https://www.fastmoss.com/shop-marketing/search  国际站 头部加密
+
+
+
+
+登陆 1
+注册 2
+列表 3
+详情 4
+
+n(2) 注册
+n(4) 详情
+
+
+流程
+    1、分析定位  关键位置
+    2、找加载器  --》 方法（模块编号）  下个断点  刷新网页  进去  扣加载器
+    3、找模块  加载器.m["序号"]   填充
+
+    [] 和 {} ？
+    数组  对象
+    索引   key
+
+打包多个webpack文件：node webpack.js -l 加载器.js -m 模块.js -o 输出文件.js
+

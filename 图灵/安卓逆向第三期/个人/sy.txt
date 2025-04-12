@@ -1,0 +1,409 @@
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 class com.shark.jizhang.j.o0 [class com.shark.jizhang.j.o0, class java.lang.Object]
+输出--》 sync_tms 1722829407
+输出--》 account_detail java.lang.Object@791d40d
+输出--》 uid cBV2FDRc4e32vtHqUF8Rcb
+输出--》 tms 1722829990010
+输出--》 sign 1f4c4a
+输出--》 category java.lang.Object@791d40d
+输出--》 adt 2024-08-05
+输出--》 is_active 1
+输出--》 account_detail java.lang.Object@791d40d
+输出--》 category java.lang.Object@791d40d
+输出--》 account_detail java.lang.Object@791d40d
+输出--》 category java.lang.Object@791d40d
+输出--》 record_id 0
+输出--》 client_id 1
+输出--》 server_id 2
+输出--》 0 7567.169999999997
+输出--》 account 3
+输出--》 year 4
+输出--》 month 5
+输出--》 day 6
+输出--》 week 7
+输出--》 date 8
+输出--》 date_s 9
+输出--》 ctime 10
+输出--》 remark 11
+输出--》 auto_tally 12
+输出--》 db_status 13
+输出--》 uid 14
+输出--》 cid 15
+输出--》 bid 16
+输出--》 asset_id 17
+输出--》 category_id 18
+输出--》 category_name 19
+输出--》 java.net.AddressCache$AddressCacheKey@9a6b57d java.net.AddressCache$AddressCacheEntry@4e1351a
+输出--》 icon_name 20
+输出--》 icon_url 21
+输出--》 category_type 22
+输出--》 category_order 23
+输出--》 category_type_main 24
+输出--》 ext_cid 25
+输出--》 id 26
+输出--》 uid 27
+输出--》 bid 28
+输出--》 client_id 29
+输出--》 server_id 30
+输出--》 2 3144.44
+输出--》 local_path 31
+输出--》 3 206.81
+输出--》 server_path 32
+输出--》 expenses 7567.17
+输出--》 income 3351.25
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 surplus -4215.92
+输出--》 res_id 33
+输出--》 sort_time 34
+输出--》 0 type=host_name (0), value=api.shayujizhang.com
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 20240731 [ExpensesIncomeTotalEveryDay{record_id=9, date=1722399346000, client_id=SxKpQAC8QFTgnELscHNbJV, sum_account=1768.5, year=2024, month=07, day=31, category_name=交通, category_type_main=expenses, category_type=0}]
+输出--》 20240730 [ExpensesIncomeTotalEveryDay{record_id=10, date=1722320219000, client_id=f9adAppheVod3QjiYaa3S6, sum_account=99.0, year=2024, month=07, day=30, category_name=学习, category_type_main=expenses, category_type=0}]
+输出--》 20240729 [ExpensesIncomeTotalEveryDay{record_id=11, date=1722250824000, client_id=by9tcGwxBxejc5KgkNBJ56, sum_account=10.0, year=2024, month=07, day=29, category_name=购物, category_type_main=expenses, category_type=0}]
+输出--》 20240728 [ExpensesIncomeTotalEveryDay{record_id=12, date=1722167120000, client_id=e5yDyArDpj4gNFkMEHUMdc, sum_account=105.0, year=2024, month=07, day=28, category_name=餐饮, category_type_main=expenses, category_type=0}]
+输出--》 20240727 [ExpensesIncomeTotalEveryDay{record_id=13, date=1722078504000, client_id=hQ7c5wxvaURZMdeXUpZShS, sum_account=1.33, year=2024, month=07, day=27, category_name=日用, category_type_main=expenses, category_type=0}]
+输出--》 20240725 [ExpensesIncomeTotalEveryDay{record_id=14, date=1721871303000, client_id=YKcsxpYEMcqPVgmgovmcGP, sum_account=1646.53, year=2024, month=07, day=25, category_name=娱乐, category_type_main=expenses, category_type=0}]
+输出--》 20240722 [ExpensesIncomeTotalEveryDay{record_id=15, date=1721609942000, client_id=8Cg6mbrqheuN95v339ubCD, sum_account=94.0, year=2024, month=07, day=22, category_name=购物, category_type_main=expenses, category_type=0}]
+输出--》 20240721 [ExpensesIncomeTotalEveryDay{record_id=21, date=1721512392000, client_id=mx9f4DaEr8Cpqq5hwhyR5E, sum_account=138.7, year=2024, month=07, day=21, category_name=交通, category_type_main=expenses, category_type=0}]
+输出--》 20240720 [ExpensesIncomeTotalEveryDay{record_id=27, date=1721450297000, client_id=qoE2VET2y2RVkSt5Yd7ghL, sum_account=855.44, year=2024, month=07, day=20, category_name=交通, category_type_main=expenses, category_type=0}]
+输出--》 20240719 [ExpensesIncomeTotalEveryDay{record_id=28, date=1721460070000, client_id=Jf5JcB3DbaMjtdDGuPypvD, sum_account=13.0, year=2024, month=07, day=19, category_name=餐饮, category_type_main=expenses, category_type=0}]
+输出--》 20240718 [ExpensesIncomeTotalEveryDay{record_id=32, date=1721274796000, client_id=d9hTXn7Ho5RHdSnUyTWCxE, sum_account=87.6, year=2024, month=07, day=18, category_name=交通, category_type_main=expenses, category_type=0}]
+输出--》 20240717 [ExpensesIncomeTotalEveryDay{record_id=38, date=1721179699000, client_id=jDHahNSjmaLV2PuoL2J6bk, sum_account=263.13, year=2024, month=07, day=17, category_name=日用, category_type_main=expenses, category_type=0}]
+输出--》 20240716 [ExpensesIncomeTotalEveryDay{record_id=39, date=1721140565000, client_id=TFjrp6xYSxBPuB8AZjzxLQ, sum_account=17.0, year=2024, month=07, day=16, category_name=餐饮, category_type_main=expenses, category_type=0}]
+输出--》 20240715 [ExpensesIncomeTotalEveryDay{record_id=40, date=1721018963000, client_id=3xWixgZErdYF6Y8YYk3wLc, sum_account=31.0, year=2024, month=07, day=15, category_name=餐饮, category_type_main=expenses, category_type=0}]
+输出--》 20240714 [ExpensesIncomeTotalEveryDay{record_id=41, date=1720926259000, client_id=G9adPYywYT5aZGceRCcr6K, sum_account=2.0, year=2024, month=07, day=14, category_name=废品, category_type_main=income, category_type=3}]
+输出--》 20240713 [ExpensesIncomeTotalEveryDay{record_id=43, date=1720867935000, client_id=f6Cdzu9YGu4k7zVNyzSQND, sum_account=273.88, year=2024, month=07, day=13, category_name=日用, category_type_main=expenses, category_type=0}]
+输出--》 20240712 [ExpensesIncomeTotalEveryDay{record_id=45, date=1720779079000, client_id=RzBFs64vamNa7oLgwPQN7Y, sum_account=10.0, year=2024, month=07, day=12, category_name=小财, category_type_main=income, category_type=3}]
+输出--》 20240711 [ExpensesIncomeTotalEveryDay{record_id=49, date=1720672347000, client_id=KGiH3qcadp8oZbcTfpxLHM, sum_account=29.9, year=2024, month=07, day=11, category_name=餐饮, category_type_main=expenses, category_type=0}]
+输出--》 20240710 [ExpensesIncomeTotalEveryDay{record_id=51, date=1720604688000, client_id=xyAjYjfTiKZxEAPmb6UH2P, sum_account=3144.44, year=2024, month=07, day=10, category_name=工资, category_type_main=income, category_type=2}]
+输出--》 20240709 [ExpensesIncomeTotalEveryDay{record_id=54, date=1720503224000, client_id=kUKbuhVY7BdJ7dcGvE49S3, sum_account=274.34000000000003, year=2024, month=07, day=09, category_name=日用, category_type_main=expenses, category_type=0}]
+输出--》 20240708 [ExpensesIncomeTotalEveryDay{record_id=61, date=1720401454000, client_id=8ryVTcTuPzcVftmWFPVi8R, sum_account=172.4, year=2024, month=07, day=08, category_name=交通, category_type_main=expenses, category_type=0}]
+输出--》 20240707 [ExpensesIncomeTotalEveryDay{record_id=68, date=1720311077000, client_id=3fyMvDshtvcB9LmGWh3ijA, sum_account=1199.5, year=2024, month=07, day=07, category_name=交通, category_type_main=expenses, category_type=0}]
+输出--》 20240705 [ExpensesIncomeTotalEveryDay{record_id=72, date=1720135915000, client_id=p9Xc3sAZxaMEPWwadWgFtY, sum_account=15.0, year=2024, month=07, day=05, category_name=小财, category_type_main=income, category_type=3}]
+输出--》 20240704 [ExpensesIncomeTotalEveryDay{record_id=76, date=1720058066000, client_id=J3dmBjmbsAiLe2d5emfQua, sum_account=88.5, year=2024, month=07, day=04, category_name=交通, category_type_main=expenses, category_type=0}]
+输出--》 20240703 [ExpensesIncomeTotalEveryDay{record_id=78, date=1719971617000, client_id=KqKacCLGnmzWYsbvxpyDWX, sum_account=26.4, year=2024, month=07, day=03, category_name=交通, category_type_main=expenses, category_type=0}]
+输出--》 20240702 [ExpensesIncomeTotalEveryDay{record_id=83, date=1719885006000, client_id=9HUmosx8FFBYhyYdMYjHzD, sum_account=29.439999999999998, year=2024, month=07, day=02, category_name=交通, category_type_main=expenses, category_type=0}]
+输出--》 20240701 [ExpensesIncomeTotalEveryDay{record_id=86, date=1719798431000, client_id=exq9hPqC7NzWV28ypsb7yE, sum_account=28.799999999999997, year=2024, month=07, day=01, category_name=交通, category_type_main=expenses, category_type=0}]
+输出--》 20240731 [AccountCategoryDetail{account_detail=AccountDetail{record_id=7, client_id=uv6oibWDpzQm7yassy4JG3, server_id=EYSRWJLvYm5mTHV58GXPS6, account=1690.0, year=2024, month=07, day=31, week=2024-31周, date=1722411680000, date_s=1722411680, ctime=1722829673262, remark=房租, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e112, bid=1, asset_id=0}, category=Category{category_id=e112, category_name=住房, icon_name=e_house, icon_url=null, category_type=0, category_order=13, category_type_main=expenses, ext_cid=13}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240730 [AccountCategoryDetail{account_detail=AccountDetail{record_id=10, client_id=f9adAppheVod3QjiYaa3S6, server_id=TZjmunbqLgM46MFHkkg7ri, account=99.0, year=2024, month=07, day=30, week=2024-31周, date=1722320219000, date_s=1722320219, ctime=1722829673263, remark=阿里云服务器, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e123, bid=1, asset_id=0}, category=Category{category_id=e123, category_name=学习, icon_name=e_study, icon_url=null, category_type=0, category_order=24, category_type_main=expenses, ext_cid=24}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240729 [AccountCategoryDetail{account_detail=AccountDetail{record_id=11, client_id=by9tcGwxBxejc5KgkNBJ56, server_id=3jrLYEXdrxkrsTYmHHXWEX, account=10.0, year=2024, month=07, day=29, week=2024-31周, date=1722250824000, date_s=1722250824, ctime=1722829673264, remark=快代理, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e101, bid=1, asset_id=0}, category=Category{category_id=e101, category_name=购物, icon_name=e_shopping, icon_url=null, category_type=0, category_order=1, category_type_main=expenses, ext_cid=2}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240728 [AccountCategoryDetail{account_detail=AccountDetail{record_id=12, client_id=e5yDyArDpj4gNFkMEHUMdc, server_id=NC46X34FB5yQFWfxT2HksR, account=105.0, year=2024, month=07, day=28, week=2024-30周, date=1722167120000, date_s=1722167120, ctime=1722829673264, remark=晚餐, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e100, bid=1, asset_id=0}, category=Category{category_id=e100, category_name=餐饮, icon_name=e_catering, icon_url=null, category_type=0, category_order=0, category_type_main=expenses, ext_cid=1}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240727 [AccountCategoryDetail{account_detail=AccountDetail{record_id=13, client_id=hQ7c5wxvaURZMdeXUpZShS, server_id=r93DeXvqTNrazQVtBvBiWU, account=1.33, year=2024, month=07, day=27, week=2024-30周, date=1722078504000, date_s=1722078504, ctime=1722829673265, remark=电动车充电, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e102, bid=1, asset_id=0}, category=Category{category_id=e102, category_name=日用, icon_name=e_commodity, icon_url=null, category_type=0, category_order=2, category_type_main=expenses, ext_cid=3}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240725 [AccountCategoryDetail{account_detail=AccountDetail{record_id=14, client_id=YKcsxpYEMcqPVgmgovmcGP, server_id=fC2rbhjV6r8VfZnX6e4crn, account=1646.53, year=2024, month=07, day=25, week=2024-30周, date=1721871303000, date_s=1721871303, ctime=1722829673265, remark=当贝x3Pro月付, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e108, bid=1, asset_id=0}, category=Category{category_id=e108, category_name=娱乐, icon_name=e_entertainmente, icon_url=null, category_type=0, category_order=9, category_type_main=expenses, ext_cid=9}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240722 [AccountCategoryDetail{account_detail=AccountDetail{record_id=15, client_id=8Cg6mbrqheuN95v339ubCD, server_id=QTpBkXtke3m9phj3zqmeKd, account=94.0, year=2024, month=07, day=22, week=2024-30周, date=1721609942000, date_s=1721609942, ctime=1722829673266, remark=叮咚买菜, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e101, bid=1, asset_id=0}, category=Category{category_id=e101, category_name=购物, icon_name=e_shopping, icon_url=null, category_type=0, category_order=1, category_type_main=expenses, ext_cid=2}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240721 [AccountCategoryDetail{account_detail=AccountDetail{record_id=16, client_id=JJ5EUsubiLyW5KgWbCzf4Y, server_id=rowZUa9Ew37LjB8WdU8FX9, account=3.5, year=2024, month=07, day=21, week=2024-29周, date=1721520518000, date_s=1721520518, ctime=1722829673266, remark=地铁, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e103, bid=1, asset_id=0}, category=Category{category_id=e103, category_name=交通, icon_name=e_traffic, icon_url=null, category_type=0, category_order=3, category_type_main=expenses, ext_cid=4}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240720 [AccountCategoryDetail{account_detail=AccountDetail{record_id=20, client_id=KPzBfqMtKj4Rpq6r6JWqG9, server_id=PU54dfcMmKkvipPeTGkcyV, account=30.0, year=2024, month=07, day=20, week=2024-29周, date=1721512498000, date_s=1721512498, ctime=1722829673268, remark=送王丽雯礼物-邓紫棋周边饰配, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e116, bid=1, asset_id=0}, category=Category{category_id=e116, category_name=社交, icon_name=e_social, icon_url=null, category_type=0, category_order=17, category_type_main=expenses, ext_cid=17}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240719 [AccountCategoryDetail{account_detail=AccountDetail{record_id=28, client_id=Jf5JcB3DbaMjtdDGuPypvD, server_id=eMJWtxSFhxS4yPXmvZhnWW, account=13.0, year=2024, month=07, day=19, week=2024-29周, date=1721460070000, date_s=1721460070, ctime=1722829673273, remark=晚餐, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e100, bid=1, asset_id=0}, category=Category{category_id=e100, category_name=餐饮, icon_name=e_catering, icon_url=null, category_type=0, category_order=0, category_type_main=expenses, ext_cid=1}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240718 [AccountCategoryDetail{account_detail=AccountDetail{record_id=29, client_id=wF29GDbMUFeadJh2sjsqbf, server_id=cwJx7e87r6s9oUULVdjLgL, account=22.0, year=2024, month=07, day=18, week=2024-29周, date=1721299470000, date_s=1721299470, ctime=1722829673273, remark=晚餐, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e100, bid=1, asset_id=0}, category=Category{category_id=e100, category_name=餐饮, icon_name=e_catering, icon_url=null, category_type=0, category_order=0, category_type_main=expenses, ext_cid=1}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240717 [AccountCategoryDetail{account_detail=AccountDetail{record_id=34, client_id=Rd7aVMkRzVmDCnrivP8y9F, server_id=En2b2G7PVMm4CioU6vrZN5, account=4.2, year=2024, month=07, day=17, week=2024-29周, date=1721224866000, date_s=1721224866, ctime=1722829673275, remark=地铁, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e103, bid=1, asset_id=0}, category=Category{category_id=e103, category_name=交通, icon_name=e_traffic, icon_url=null, category_type=0, category_order=3, category_type_main=expenses, ext_cid=4}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240716 [AccountCategoryDetail{account_detail=AccountDetail{record_id=39, client_id=TFjrp6xYSxBPuB8AZjzxLQ, server_id=fKoQ9deSgo9sK7Q4rMJfTQ, account=17.0, year=2024, month=07, day=16, week=2024-29周, date=1721140565000, date_s=1721140565, ctime=1722829673278, remark=夜宵, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e100, bid=1, asset_id=0}, category=Category{category_id=e100, category_name=餐饮, icon_name=e_catering, icon_url=null, category_type=0, category_order=0, category_type_main=expenses, ext_cid=1}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240715 [AccountCategoryDetail{account_detail=AccountDetail{record_id=40, client_id=3xWixgZErdYF6Y8YYk3wLc, server_id=SKrUPqUKoRtNmcwgKC4ycD, account=31.0, year=2024, month=07, day=15, week=2024-29周, date=1721018963000, date_s=1721018963, ctime=1722829673278, remark=午餐, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e100, bid=1, asset_id=0}, category=Category{category_id=e100, category_name=餐饮, icon_name=e_catering, icon_url=null, category_type=0, category_order=0, category_type_main=expenses, ext_cid=1}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240714 [AccountCategoryDetail{account_detail=AccountDetail{record_id=41, client_id=G9adPYywYT5aZGceRCcr6K, server_id=tkqKG8JEM9Z7zrJrpb7dF3, account=2.0, year=2024, month=07, day=14, week=2024-28周, date=1720926259000, date_s=1720926259, ctime=1722829673279, remark=废品, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=i98007, bid=1, asset_id=0}, category=Category{category_id=i98007, category_name=废品, icon_name=cc_entertainmente_game, icon_url=null, category_type=3, category_order=10, category_type_main=income, ext_cid=89085906}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240713 [AccountCategoryDetail{account_detail=AccountDetail{record_id=42, client_id=o5vmzuJqd8mxnQfgpi4g6e, server_id=RujeAtvhERDkumSceHNkKB, account=272.55, year=2024, month=07, day=13, week=2024-28周, date=1720873856000, date_s=1720873856, ctime=1722829673279, remark=fjb, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e100, bid=1, asset_id=0}, category=Category{category_id=e100, category_name=餐饮, icon_name=e_catering, icon_url=null, category_type=0, category_order=0, category_type_main=expenses, ext_cid=1}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240712 [AccountCategoryDetail{account_detail=AccountDetail{record_id=44, client_id=YTgx2ubDJt4QDGtTLNdj5G, server_id=YSYbL7rJCyvwbZaBspTskV, account=104.0, year=2024, month=07, day=12, week=2024-28周, date=1720791292000, date_s=1720791292, ctime=1722829673281, remark=邓紫棋演唱会酒店住宿, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e108, bid=1, asset_id=0}, category=Category{category_id=e108, category_name=娱乐, icon_name=e_entertainmente, icon_url=null, category_type=0, category_order=9, category_type_main=expenses, ext_cid=9}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240711 [AccountCategoryDetail{account_detail=AccountDetail{record_id=49, client_id=KGiH3qcadp8oZbcTfpxLHM, server_id=uEDxcdgx6hczY7byRWLTm5, account=29.9, year=2024, month=07, day=11, week=2024-28周, date=1720672347000, date_s=1720672347, ctime=1722829673283, remark=抖音卫生间清洁剂, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e100, bid=1, asset_id=0}, category=Category{category_id=e100, category_name=餐饮, icon_name=e_catering, icon_url=null, category_type=0, category_order=0, category_type_main=expenses, ext_cid=1}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240710 [AccountCategoryDetail{account_detail=AccountDetail{record_id=51, client_id=xyAjYjfTiKZxEAPmb6UH2P, server_id=dZa7avYPuNpAxTnhbLzNhM, account=3144.44, year=2024, month=07, day=10, week=2024-28周, date=1720604688000, date_s=1720604688, ctime=1722829673284, remark=6.7月薪资, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=i100, bid=1, asset_id=0}, category=Category{category_id=i100, category_name=工资, icon_name=i_wage, icon_url=null, category_type=2, category_order=0, category_type_main=income, ext_cid=34}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240709 [AccountCategoryDetail{account_detail=AccountDetail{record_id=52, client_id=MaAzybk9g877FBk4PDfJtR, server_id=DRy4gqYjvZfi3dCBHJLKQc, account=21.0, year=2024, month=07, day=09, week=2024-28周, date=1720519258000, date_s=1720519258, ctime=1722829673285, remark=百度网盘, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e123, bid=1, asset_id=0}, category=Category{category_id=e123, category_name=学习, icon_name=e_study, icon_url=null, category_type=0, category_order=24, category_type_main=expenses, ext_cid=24}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240708 [AccountCategoryDetail{account_detail=AccountDetail{record_id=55, client_id=fXHpsr5BPYxVgGUB8VEY9Q, server_id=Q4t5Bj9vWXTDYM4phtNsu9, account=3.5, year=2024, month=07, day=08, week=2024-28周, date=1720439776000, date_s=1720439776, ctime=1722829673286, remark=地铁, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e103, bid=1, asset_id=0}, category=Category{category_id=e103, category_name=交通, icon_name=e_traffic, icon_url=null, category_type=0, category_order=3, category_type_main=expenses, ext_cid=4}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240707 [AccountCategoryDetail{account_detail=AccountDetail{record_id=63, client_id=SRLuq54h5HL3CgraYjToK9, server_id=EEBgP7TNzNr3tjfzVZNvnL, account=120.0, year=2024, month=07, day=07, week=2024-27周, date=1720350234000, date_s=1720350234, ctime=1722829673290, remark=汽车票, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e103, bid=1, asset_id=0}, category=Category{category_id=e103, category_name=交通, icon_name=e_traffic, icon_url=null, category_type=0, category_order=3, category_type_main=expenses, ext_cid=4}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240705 [AccountCategoryDetail{account_detail=AccountDetail{record_id=69, client_id=9epNmR6iRq6BYxqy7jHKHh, server_id=eocBRiMofSHwShTgAVQdYj, account=1.28, year=2024, month=07, day=05, week=2024-27周, date=1720167705000, date_s=1720167705, ctime=1722829673294, remark=电动车充电, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e102, bid=1, asset_id=0}, category=Category{category_id=e102, category_name=日用, icon_name=e_commodity, icon_url=null, category_type=0, category_order=2, category_type_main=expenses, ext_cid=3}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240704 [AccountCategoryDetail{account_detail=AccountDetail{record_id=73, client_id=T4XKYTFbbXLcqG5mbde4VL, server_id=n3bAotaqgLZyq2NpZTPHUm, account=4.5, year=2024, month=07, day=04, week=2024-27周, date=1720081117000, date_s=1720081117, ctime=1722829673296, remark=地铁, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e103, bid=1, asset_id=0}, category=Category{category_id=e103, category_name=交通, icon_name=e_traffic, icon_url=null, category_type=0, category_order=3, category_type_main=expenses, ext_cid=4}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240703 [AccountCategoryDetail{account_detail=AccountDetail{record_id=60, client_id=cbV6w3Hh2G4X26txK5xL3G, server_id=HYgxBiUxKpxqH74mcXqRDP, account=5.0, year=2024, month=07, day=03, week=2024-27周, date=1720406609000, date_s=1720406609, ctime=1722829673289, remark=银行卡开卡, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e102, bid=1, asset_id=0}, category=Category{category_id=e102, category_name=日用, icon_name=e_commodity, icon_url=null, category_type=0, category_order=2, category_type_main=expenses, ext_cid=3}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240702 [AccountCategoryDetail{account_detail=AccountDetail{record_id=79, client_id=hjhKLT8zpHTTgFASh4LDpm, server_id=UaStXp3rW8FDbobo2HnWyC, account=5.4, year=2024, month=07, day=02, week=2024-27周, date=1719925023000, date_s=1719925023, ctime=1722829673298, remark=地铁, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e103, bid=1, asset_id=0}, category=Category{category_id=e103, category_name=交通, icon_name=e_traffic, icon_url=null, category_type=0, category_order=3, category_type_main=expenses, ext_cid=4}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 20240701 [AccountCategoryDetail{account_detail=AccountDetail{record_id=81, client_id=GdyMZQNQdwzWQWedJnEAqd, server_id=7SjwQPk7B9JF3LW3B5twSB, account=18.0, year=2024, month=07, day=01, week=2024-27周, date=1719924319000, date_s=1719924319, ctime=1722829673299, remark=晚餐, auto_tally=0, db_status=3, uid=cBV2FDRc4e32vtHqUF8Rcb, cid=e100, bid=1, asset_id=0}, category=Category{category_id=e100, category_name=餐饮, icon_name=e_catering, icon_url=null, category_type=0, category_order=0, category_type_main=expenses, ext_cid=1}, remarkImage=RemarkImage(id=0, uid=null, bid=1, clientId=null, serverId=null, localPath=null, serverPath=null, resId=0, sortTime=0)}]
+输出--》 res:/2131231268_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_710625298 com.facebook.imagepipeline.b.i$a@d414a3b
+输出--》 res:/2131231269_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_739254449 com.facebook.imagepipeline.b.i$a@e0cc558
+输出--》 id 29
+输出--》 uri_source res:/2131231254
+输出--》 id 30
+输出--》 Pair{res:/2131231254_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_-291394987 FULL_FETCH} com.facebook.imagepipeline.producers.i0$b@9a106b1
+输出--》 id 29
+输出--》 uri_source res:/2131231255
+输出--》 uri_source res:/2131231254
+输出--》 started_as_prefetch false
+输出--》 Pair{res:/2131231254 FULL_FETCH} com.facebook.imagepipeline.producers.i0$b@2f04f17
+输出--》 id 29
+输出--》 uri_source res:/2131231254
+输出--》 started_as_prefetch false
+输出--》 origin local
+输出--》 res:/2131231230_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_2114048343 com.facebook.imagepipeline.b.i$a@b34df04
+输出--》 origin_sub fetch
+输出--》 Pair{res:/2131231255_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_-262765836 FULL_FETCH} com.facebook.imagepipeline.producers.i0$b@580dae9
+输出--》 origin local
+输出--》 res:/2131231231_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_2142677494 com.facebook.imagepipeline.b.i$a@3c6636e
+输出--》 id 30
+输出--》 origin_sub default
+输出--》 id 31
+输出--》 uri_source res:/2131231226
+输出--》 uri_source res:/2131231255
+输出--》 id 32
+输出--》 started_as_prefetch false
+输出--》 res:/2131231254 com.facebook.imagepipeline.b.i$a@2d80a0f
+输出--》 uri_source res:/2131231227
+输出--》 Pair{res:/2131231255 FULL_FETCH} com.facebook.imagepipeline.producers.i0$b@fa70a9c
+输出--》 id 30
+输出--》 uri_source res:/2131231255
+输出--》 started_as_prefetch false
+输出--》 multiplex_enc_cnt 1
+输出--》 image_format PNG
+输出--》 origin local
+输出--》 origin_sub fetch
+输出--》 encoded_width 180
+输出--》 encoded_height 180
+输出--》 res:/2131231455_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_-1072112462 com.facebook.imagepipeline.b.i$a@4cd5b5d
+输出--》 origin local
+输出--》 res:/2131231456_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_-1043483311 com.facebook.imagepipeline.b.i$a@4346cd2
+输出--》 origin_sub default
+输出--》 encoded_size 1662
+输出--》 bitmap_config ARGB_8888
+输出--》 encoded_size 1662
+输出--》 encoded_width 180
+输出--》 encoded_height 180
+输出--》 uri_source res:/2131231254
+输出--》 Pair{res:/2131231226_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_1398319568 FULL_FETCH} com.facebook.imagepipeline.producers.i0$b@8c8841e
+输出--》 res:/2131231255 com.facebook.imagepipeline.b.i$a@2895059
+输出--》 multiplex_enc_cnt 1
+输出--》 id 33
+输出--》 uri_source res:/2131231226
+输出--》 id 34
+输出--》 uri_source res:/2131231227
+输出--》 id 31
+输出--》 uri_source res:/2131231226
+输出--》 started_as_prefetch false
+输出--》 image_format PNG
+输出--》 image_format PNG
+输出--》 bitmap_config ARGB_8888
+输出--》 encoded_width 180
+输出--》 encoded_height 180
+输出--》 Pair{res:/2131231226 FULL_FETCH} com.facebook.imagepipeline.producers.i0$b@89324f7
+输出--》 id 31
+输出--》 encoded_size 3536
+输出--》 bitmap_config ARGB_8888
+输出--》 res:/2131231254_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_-291394987 com.facebook.imagepipeline.b.i$a@ec0d5cd
+输出--》 uri_source res:/2131231226
+输出--》 started_as_prefetch false
+输出--》 encoded_size 3536
+输出--》 encoded_width 180
+输出--》 encoded_height 180
+输出--》 uri_source res:/2131231255
+输出--》 image_format PNG
+输出--》 bitmap_config ARGB_8888
+输出--》 origin local
+输出--》 origin_sub fetch
+输出--》 multiplex_bmp_cnt 1
+输出--》 origin local
+输出--》 res:/2131231255_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_-262765836 com.facebook.imagepipeline.b.i$a@776ddd0
+输出--》 origin_sub default
+输出--》 res:/2131231254 com.facebook.imagepipeline.b.i$a@2d80a0f
+输出--》 res:/2131231226 com.facebook.imagepipeline.b.i$a@9fa280b
+输出--》 multiplex_enc_cnt 1
+输出--》 image_format PNG
+输出--》 encoded_width 180
+输出--》 encoded_height 180
+输出--》 encoded_size 2704
+输出--》 bitmap_config ARGB_8888
+输出--》 encoded_size 2704
+输出--》 encoded_width 180
+输出--》 Pair{res:/2131231227_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_1426948719 FULL_FETCH} com.facebook.imagepipeline.producers.i0$b@374e2d5
+输出--》 encoded_height 180
+输出--》 id 32
+输出--》 multiplex_bmp_cnt 1
+输出--》 uri_source res:/2131231226
+输出--》 uri_source res:/2131231227
+输出--》 started_as_prefetch false
+输出--》 image_format PNG
+输出--》 res:/2131231255 com.facebook.imagepipeline.b.i$a@2895059
+输出--》 Pair{res:/2131231227 FULL_FETCH} com.facebook.imagepipeline.producers.i0$b@b9faaea
+输出--》 id 32
+输出--》 uri_source res:/2131231227
+输出--》 started_as_prefetch false
+输出--》 origin local
+输出--》 origin_sub fetch
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 origin local
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 bitmap_config ARGB_8888
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 res:/2131231226_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_1398319568 com.facebook.imagepipeline.b.i$a@299e024
+输出--》 multiplex_bmp_cnt 2
+输出--》 multiplex_bmp_cnt 2
+输出--》 res:/2131231226 com.facebook.imagepipeline.b.i$a@9fa280b
+输出--》 origin_sub default
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 res:/2131231227 com.facebook.imagepipeline.b.i$a@da7978d
+输出--》 null:LEFT java.lang.Object@791d40d
+输出--》 multiplex_enc_cnt 1
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 image_format PNG
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 null:RIGHT java.lang.Object@791d40d
+输出--》 encoded_width 180
+输出--》 null:TOP java.lang.Object@791d40d
+输出--》 null:BOTTOM java.lang.Object@791d40d
+输出--》 encoded_height 180
+输出--》 encoded_size 5472
+输出--》 bitmap_config ARGB_8888
+输出--》 encoded_size 5472
+输出--》 encoded_width 180
+输出--》 encoded_height 180
+输出--》 uri_source res:/2131231227
+输出--》 image_format PNG
+输出--》 bitmap_config ARGB_8888
+输出--》 res:/2131231227_null_-1 defer:true_ImageDecodeOptions{b{minDecodeIntervalMs=100, maxDimensionPx=2147483647, decodePreviewFrame=false, useLastFrameForPreview=false, decodeAllFrames=false, forceStaticImage=false, bitmapConfigName=ARGB_8888, customImageDecoder=null, bitmapTransformation=null, colorSpace=null}}_null_null_1426948719 com.facebook.imagepipeline.b.i$a@fe65b8e
+输出--》 multiplex_bmp_cnt 2
+输出--》 multiplex_bmp_cnt 2
+输出--》 res:/2131231227 com.facebook.imagepipeline.b.i$a@da7978d
+输出--》 Route{api.shayujizhang.com/240.0.0.28:443} java.lang.Object@791d40d
+输出--》 account_detail java.lang.Object@791d40d
+输出--》 category java.lang.Object@791d40d
+输出--》 account_detail java.lang.Object@791d40d
+输出--》 category java.lang.Object@791d40d
+输出--》 select * from account_category_detail where client_id in (select client_id from account_category_detail where server_id is not null and client_id is not null and db_status = 3 and date >= ?1 and uid = ?2 and bid = ?3 GROUP BY client_id HAVING COUNT(*) > 1) order by date desc android.database.sqlite.SQLiteConnection$PreparedStatement@10d0ed8
+输出--》 select * from account_detail_delete where uid = ?1 and bid = ?2 and server_id is not null android.database.sqlite.SQLiteConnection$PreparedStatement@255231
+输出--》 select * from account_category_detail where (db_status in (0, 1, 2) or server_id is null) and uid = ?1 and bid = ?2 android.database.sqlite.SQLiteConnection$PreparedStatement@1d51d16
+输出--》 uid cBV2FDRc4e32vtHqUF8Rcb
+输出--》 tms 1722829990232
+输出--》 sign 702dc6
+输出--》 0 type=host_name (0), value=api.shayujizhang.com
+输出--》 config_key 0
+输出--》 config_value 1
+输出--》 account_detail java.lang.Object@791d40d
+输出--》 Route{api.shayujizhang.com/240.0.0.28:443} java.lang.Object@791d40d
+输出--》 category java.lang.Object@791d40d
+输出--》 sort_sync_timecBV2FDRc4e32vtHqUF8Rcb 2024-08-05 10:34:17
+输出--》 delete_add_sync_timecBV2FDRc4e32vtHqUF8Rcb 2024-08-05 10:34:17
+输出--》 need_sync false
+输出--》 category_sort_sync_time com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@84997ab
+输出--》 delete_add_category_sync_time com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@ccdde08
+输出--》 E void
+输出--》 E class com.shark.jizhang.net.resp.NetRespCategorySync$DataBean$SyncDataBean
+输出--》 book_id com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@cecf7c6
+输出--》 E void
+输出--》 E class com.shark.jizhang.net.resp.NetRespCategorySync$DataBean$SyncDataBean$ShowBean
+输出--》 cid com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@c32bedd
+输出--》 iconName com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@3b0ca52
+输出--》 type com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@d575123
+输出--》 typeID com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@cf86620
+输出--》 typeName com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@1a16bd9
+输出--》 delete com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@36d399e
+输出--》 show com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@b43dc7f
+输出--》 expenditure com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@24dc44c
+输出--》 delete com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@def51aa
+输出--》 show com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1@d43c19b

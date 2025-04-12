@@ -1,0 +1,46 @@
+
+
+瑞数特征
+    进去之后会有debugger  2个
+    第一次访问 202
+    第二次访问 200
+        ck
+            FSSBBIl1UgzbN7N80S
+            FSSBBIl1UgzbN7N80T
+       值的前缀数字开头、称为4代
+
+    瑞数6
+    http://www.sgcc.com.cn/html/sgcc/col2022121225/column_2022121225_9.shtml
+        第一次 412
+        第二次 200
+            CK
+                AV7KYchI7HHaS
+                AV7KYchI7HHaT
+                前缀6开头  称为6代
+
+    瑞数5
+        第一次
+        第二次
+        CK
+            AV7KYchI7HHaS                   lqWVdQzgOVyaO
+            AV7KYchI7HHaT                   lqWVdQzgOVyaP
+            前缀5开头  称为5代
+    http://www.customs.gov.cn/
+    https://splcgk.court.gov.cn/gzfwww//ktgg
+
+
+    _$$E = _$jh.call(_$$M, _$_f);  入口
+
+
+作业
+    https://splcgk.court.gov.cn/gzfwww//ktgg
+    http://www.customs.gov.cn/
+
+课件
+
+https://www.yuque.com/buziran/nktf0k/kdps18r7g7v5cgz6?singleDoc# 《2. cookie对抗》
+
+启动你的 node.js 进程
+node --inspect-brk rs6.js
+
+chrome://inspect/#devices

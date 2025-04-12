@@ -1,0 +1,79 @@
+------------startFlag:85979265,objectHash:1630391514,thread(id:2029,name:HttpClient_128111966),timestamp:1737560359838---------------
+url:http://mlvbdc.live.tlivesource.com/liteav
+public java.net.URL(String)
+	at java.net.URL.<init>(Native Method)
+	at com.tencent.liteav.base.http.HttpClientAndroid.createConnection(SourceFile:12)
+	at com.tencent.liteav.base.http.HttpClientAndroid.internalRequest(SourceFile:139)
+	at com.tencent.liteav.base.http.HttpClientAndroid.doRequest(SourceFile:5)
+	at com.tencent.liteav.base.http.HttpClientAndroid.lambda$send$0(Unknown Source:0)
+	at com.tencent.liteav.base.http.a.run(Unknown Source:4)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+------------endFlag:85979265,usedtime:2---------------
+
+------------startFlag:64901009,objectHash:1630391514,thread(id:2029,name:HttpClient_128111966),timestamp:1737560359841---------------
+url:http://mlvbdc.live.tlivesource.com/liteav
+public java.net.URL(String)
+	at java.net.URL.<init>(Native Method)
+	at com.android.okhttp.HttpUrl.url(HttpUrl.java:329)
+	at com.android.okhttp.Request.url(Request.java:58)
+	at com.android.okhttp.Request$Builder.build(Native Method)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.newHttpEngine(HttpURLConnectionImpl.java:381)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.initHttpEngine(HttpURLConnectionImpl.java:336)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:128)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getOutputStream(HttpURLConnectionImpl.java:262)
+	at com.tencent.liteav.base.http.HttpClientAndroid.internalRequest(SourceFile:159)
+	at com.tencent.liteav.base.http.HttpClientAndroid.doRequest(SourceFile:5)
+	at com.tencent.liteav.base.http.HttpClientAndroid.lambda$send$0(Unknown Source:0)
+	at com.tencent.liteav.base.http.a.run(Unknown Source:4)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+------------endFlag:64901009,usedtime:1---------------
+
+------------startFlag:41305668,objectHash:30328090,thread(id:2029,name:HttpClient_128111966),timestamp:1737560359843---------------
+url:http://mlvbdc.live.tlivesource.com/liteav
+com.android.okhttp.Request.Builder.build()
+	at com.android.okhttp.Request$Builder.build(Native Method)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.newHttpEngine(HttpURLConnectionImpl.java:381)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.initHttpEngine(HttpURLConnectionImpl.java:336)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:128)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getOutputStream(HttpURLConnectionImpl.java:262)
+	at com.tencent.liteav.base.http.HttpClientAndroid.internalRequest(SourceFile:159)
+	at com.tencent.liteav.base.http.HttpClientAndroid.doRequest(SourceFile:5)
+	at com.tencent.liteav.base.http.HttpClientAndroid.lambda$send$0(Unknown Source:0)
+	at com.tencent.liteav.base.http.a.run(Unknown Source:4)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+------------endFlag:41305668,usedtime:0---------------
+
+------------startFlag:03759673,objectHash:1369856268,thread(id:2029,name:HttpClient_128111966),timestamp:1737560359844---------------
+url:http://mlvbdc.live.tlivesource.com/
+public java.net.URI(String)
+	at java.net.URI.<init>(Native Method)
+	at com.android.okhttp.HttpUrl.uri(HttpUrl.java:350)
+	at com.android.okhttp.internal.http.RouteSelector.resetNextProxy(RouteSelector.java:123)
+	at com.android.okhttp.internal.http.RouteSelector.<init>(RouteSelector.java:63)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:172)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:97)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:289)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:232)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:465)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:131)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getOutputStream(HttpURLConnectionImpl.java:262)
+	at com.tencent.liteav.base.http.HttpClientAndroid.internalRequest(SourceFile:159)
+	at com.tencent.liteav.base.http.HttpClientAndroid.doRequest(SourceFile:5)
+	at com.tencent.liteav.base.http.HttpClientAndroid.lambda$send$0(Unknown Source:0)
+	at com.tencent.liteav.base.http.a.run(Unknown Source:4)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+------------endFlag:03759673,usedtime:1---------------
+

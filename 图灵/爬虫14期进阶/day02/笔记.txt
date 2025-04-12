@@ -1,0 +1,31 @@
+
+
+node    补环境
+解释器
+
+
+网站
+JavaScript
+
+
+dom断点
+    用户事件触发下断点
+xhr断点
+    断点的位置  是发送ajax的位置
+    网址
+    xhr 发送请求  https://oauth.d.cn/auth/login?display=web&name=1641324821%40qq.com&pwd=758cb608c53e406effdaeb67f5054a8b5c1ef045478f015e34ab247052671b59d2c52c7608830b83f3d254782c207bb34bf54873ff50a639e006faeeba87fd9ce660473d9f6aed2afcb09c035a2adecaeeb94f3fc40544a71cbf2bfe2093a4bbe495f08c8d6d397c64c19c5faef258046de23cf75c5c0ae1f76c371ec7486507&to=https%3A%2F%2Fwww.d.cn%2F&reqId=2ug9mnaph83bum3qat0z0zdlshqp6cph&geetest_challenge=cc18eb7c0f5c50e6e85346b839d645e4&geetest_validate=dae6689fc6454124106752252d60442c&geetest_seccode=dae6689fc6454124106752252d60442c%7Cjordan
+    display=web&name=1641324821%40qq.com&pwd=758cb
+    xhr断点  最好通过接口的资源地址  拦截
+    断点的位置   在send的位置
+
+
+
+
+"https://oauth.d.cn/auth/login?display=web&name=1641324821%40qq.com&pwd=7084314a781cf53ba8ca63c96d5f4710c79012fcfd2caddd7366f0425c08063275ad45ba0658dbd8c1e7337d2dc03591ef2b38c41d8c6f4c52867134e1d91717b18e7603801082ee55fdc7bf3d87411a517a19def458843d2b880c798271a622b041a7ed45477d448986e9841616b76c1c7462e68a1ebdb56aa2eb453c5fc731&to=https%3A%2F%2Fwww.d.cn%2F&reqId=fsvvrao4m3n01t46i1y0m3zmdyutx6kz&geetest_challenge=6309db39edc825834796d2c475342c13&geetest_validate=069c89a2e969286f1b9f3be7c54da83b&geetest_seccode=069c89a2e969286f1b9f3be7c54da83b%7Cjordan"
+
+网站加载时间轴
+加载html -- 加载css 加载js -  初始化js  -- 等待用户操作页面(用户触发某个事件)  -- 执行js --
+发送给服务器(xhr/ajax) -- 接受数据 -- 对比数据 -- 刷新登录之后的页面
+
+
+

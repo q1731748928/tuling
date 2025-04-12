@@ -1,0 +1,20 @@
+
+https://careers.pinduoduo.com/jobs
+
+https://pifa.pinduoduo.com/
+
+
+1、
+异步栈 调试分析
+RPC进行挂载 结合GPT操作
+
+
+2、 为什么需要补环境
+
+
+3、插装调试 日志点 或者 条件点 去分析
+
+vpm   s.apply(a,b)
+
+
+

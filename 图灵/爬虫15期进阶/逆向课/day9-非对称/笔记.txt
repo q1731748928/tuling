@@ -1,0 +1,46 @@
+
+
+https://music.163.com/ 对称
+
+https://sf.copm.com.cn/web/sassLogin/login.html      练习
+https://passport.suning.com/ids/login
+https://www.birdreport.cn/home/search/report.html
+
+
+
+
+
+1024位
+    1、通过密文确定加密位数
+        密钥MIG 开头  定位密钥所在位置
+
+
+
+
+sha512 标准算法
+pubCode 后台返回
+RSA算法 key
+ encrypt.encrypt(pubCode + sha512(password));
+
+
+
+npm install jsencrypt --save
+
+
+
+502 -->  服务器挂了
+
+
+作业
+https://36kr.com/
+https://sf.copm.com.cn/web/sassLogin/login.html
+
+
+发小红书 或者 抖音都可以
+
+下节课课前抽奖
+
+写完之后艾特 图灵python 就行
+
+
+

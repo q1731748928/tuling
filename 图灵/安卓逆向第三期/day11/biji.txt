@@ -1,0 +1,14 @@
+
+https://repo.anaconda.com/archive/
+
+迅雷
+
+创建环境
+    conda create --name myxialuo  python=3.7
+查询
+conda env list
+切换
+conda activate  myxialuo
+
+
+

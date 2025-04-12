@@ -1,0 +1,39 @@
+
+
+特征md5
+    1、加密完之后不能解密
+    2、加密之后的值是32位16进制展示
+  使用场景：表单 请求头
+
+
+
+c([d, h, u, e, l, p["type" + e]].sort().join(""))
+
+p = {
+    "type1": 2,
+    "type2": 2,
+    "type3": 2,
+    "type4": 1,
+    "jury": 1
+}
+
+
+[
+    1719237218317,      d
+    "mmvXFWvtwl8FAT4s", h
+    "$d6eb7ff91ee257475%",  u
+    4,      e
+    10,     l
+    1      p["type4"]
+]
+
+
+1  [d, h, u, e, l, p["type" + e]]  生成明文
+2  [d, h, u, e, l, p["type" + e]].sort()  排序
+3  [d, h, u, e, l, p["type" + e]].sort().join("")  拼接
+4  c([d, h, u, e, l, p["type" + e]].sort().join(""))  加密
+
+
+
+
+

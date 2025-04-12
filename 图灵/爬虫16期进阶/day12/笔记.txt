@@ -1,0 +1,20 @@
+
+
+对比区别
+驱动安装
+Selenium   需要安装驱动     靠驱动 打开浏览器
+Drission   不需要安装驱动   局限于   chrome    edg    就是使用的浏览器  
+
+程序关闭
+Selenium   程序结束  会自动关系
+
+Drission   不会关闭
+
+
+
+
+
+
+
+
+

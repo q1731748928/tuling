@@ -1,0 +1,281 @@
+MessageDigest.update('[B') is called!
+java.lang.Throwable
+	at java.security.MessageDigest.update(Native Method)
+	at ih.a.a(MD5Util.java:2)
+	at com.shizhuang.duapp.du_login.component.login.NativePhoneLoginComponent$a.a(NativePhoneLoginComponent.kt:6)
+	at com.shizhuang.duapp.du_login.component.login.AbstractNativePhoneComponent.r(NativePhoneLoginComponent.kt:1)
+	at com.shizhuang.duapp.du_login.component.login.AbstractNativePhoneComponent.l(NativePhoneLoginComponent.kt:7)
+	at com.shizhuang.duapp.du_login.component.login.NativePhoneLoginComponent.l(NativePhoneLoginComponent.kt:2)
+	at com.shizhuang.duapp.du_login.component.login.LoginButtonComponent$onCreate$1.invoke(LoginButtonComponent.kt:7)
+	at com.shizhuang.duapp.du_login.component.login.LoginButtonComponent$onCreate$1.invoke(LoginButtonComponent.kt:1)
+	at com.shizhuang.duapp.common.extension.ViewExtensionKt$clickThrottle$1.onClick(ViewExtension.kt:4)
+	at android.view.View.performClick(View.java:7259)
+	at android.view.View.performClickInternal(View.java:7236)
+	at android.view.View.access$3600(View.java:801)
+	at android.view.View$PerformClick.run(View.java:27892)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+MD5 update data Utf8: 123123123du
+MD5 update data Hex: 3132333132333132336475
+MD5 update data Base64: MTIzMTIzMTIzZHU=
+=======================================================
+MessageDigest.digest() is called!
+java.lang.Throwable
+	at java.security.MessageDigest.digest(Native Method)
+	at ih.a.a(MD5Util.java:3)
+	at com.shizhuang.duapp.du_login.component.login.NativePhoneLoginComponent$a.a(NativePhoneLoginComponent.kt:6)
+	at com.shizhuang.duapp.du_login.component.login.AbstractNativePhoneComponent.r(NativePhoneLoginComponent.kt:1)
+	at com.shizhuang.duapp.du_login.component.login.AbstractNativePhoneComponent.l(NativePhoneLoginComponent.kt:7)
+	at com.shizhuang.duapp.du_login.component.login.NativePhoneLoginComponent.l(NativePhoneLoginComponent.kt:2)
+	at com.shizhuang.duapp.du_login.component.login.LoginButtonComponent$onCreate$1.invoke(LoginButtonComponent.kt:7)
+	at com.shizhuang.duapp.du_login.component.login.LoginButtonComponent$onCreate$1.invoke(LoginButtonComponent.kt:1)
+	at com.shizhuang.duapp.common.extension.ViewExtensionKt$clickThrottle$1.onClick(ViewExtension.kt:4)
+	at android.view.View.performClick(View.java:7259)
+	at android.view.View.performClickInternal(View.java:7236)
+	at android.view.View.access$3600(View.java:801)
+	at android.view.View$PerformClick.run(View.java:27892)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+MD5 digest result Hex: 99329fb06add999bb15ca67728b835a8
+MD5 digest result Base64: mTKfsGrdmZuxXKZ3KLg1qA==
+=======================================================
+Cipher.init('int', 'java.security.Key') is called!
+AES/ECB/NoPadding init Key Utf8: mobile0123456789
+AES/ECB/NoPadding init Key Hex: 6d6f62696c6530313233343536373839
+AES/ECB/NoPadding init Key Base64: bW9iaWxlMDEyMzQ1Njc4OQ==
+=======================================================
+Cipher.init('int', 'java.security.Key', 'java.security.SecureRandom') is called!
+Cipher.doFinal('[B') is called!
+java.lang.Throwable
+	at javax.crypto.Cipher.doFinal(Native Method)
+	at jg.h.b(EncryptMobileUtil.java:7)
+	at jg.h.c(EncryptMobileUtil.java:2)
+	at com.shizhuang.duapp.du_login.utils.b.mobileLogin(LoginFacade.java:2)
+	at com.shizhuang.duapp.du_login.component.login.NativePhoneLoginComponent$a.a(NativePhoneLoginComponent.kt:8)
+	at com.shizhuang.duapp.du_login.component.login.AbstractNativePhoneComponent.r(NativePhoneLoginComponent.kt:1)
+	at com.shizhuang.duapp.du_login.component.login.AbstractNativePhoneComponent.l(NativePhoneLoginComponent.kt:7)
+	at com.shizhuang.duapp.du_login.component.login.NativePhoneLoginComponent.l(NativePhoneLoginComponent.kt:2)
+	at com.shizhuang.duapp.du_login.component.login.LoginButtonComponent$onCreate$1.invoke(LoginButtonComponent.kt:7)
+	at com.shizhuang.duapp.du_login.component.login.LoginButtonComponent$onCreate$1.invoke(LoginButtonComponent.kt:1)
+	at com.shizhuang.duapp.common.extension.ViewExtensionKt$clickThrottle$1.onClick(ViewExtension.kt:4)
+	at android.view.View.performClick(View.java:7259)
+	at android.view.View.performClickInternal(View.java:7236)
+	at android.view.View.access$3600(View.java:801)
+	at android.view.View$PerformClick.run(View.java:27892)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+AES/ECB/NoPadding doFinal data Utf8: 13535353535
+AES/ECB/NoPadding doFinal data Hex: 31333533353335333533350505050505
+AES/ECB/NoPadding doFinal data Base64: MTM1MzUzNTM1MzUFBQUFBQ==
+AES/ECB/NoPadding doFinal result Hex: 83c7358c94e3a24e11f0fde1cbf5d559
+AES/ECB/NoPadding doFinal result Base64: g8c1jJTjok4R8P3hy/XVWQ==
+=======================================================
+MessageDigest.update('[B') is called!
+java.lang.Throwable
+	at java.security.MessageDigest.update(Native Method)
+	at je.k0.f(RequestUtils.java:2)
+	at je.k0.b(RequestUtils.java:13)
+	at lte.NCall.IL(Native Method)
+	at com.shizhuang.duapp.common.helper.net.interceptor.HttpRequestInterceptor.intercept(Unknown Source:18)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:10)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:1)
+	at eb.b.intercept(MergeHostAfterInterceptor.java:11)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:10)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:1)
+	at eb.d.intercept(MergeHostInterceptor.java:8)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:10)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:1)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:13)
+	at okhttp3.RealCall.execute(RealCall.java:8)
+	at retrofit2.OkHttpCall.execute(OkHttpCall.java:18)
+	at retrofit2.adapter.rxjava2.CallExecuteObservable.subscribeActual(CallExecuteObservable.java:5)
+	at gh1.e.subscribe(Observable.java:7)
+	at retrofit2.adapter.rxjava2.BodyObservable.subscribeActual(BodyObservable.java:1)
+	at gh1.e.subscribe(Observable.java:7)
+	at th1.j1.subscribeActual(ObservableMap.java:1)
+	at gh1.e.subscribe(Observable.java:7)
+	at io.reactivex.internal.operators.observable.ObservableRetryWhen$RepeatWhenObserver.subscribeNext(ObservableRetryWhen.java:5)
+	at io.reactivex.internal.operators.observable.ObservableRetryWhen.subscribeActual(ObservableRetryWhen.java:7)
+	at gh1.e.subscribe(Observable.java:7)
+	at io.reactivex.internal.operators.observable.ObservableRetryBiPredicate$RetryBiObserver.subscribeNext(ObservableRetryBiPredicate.java:3)
+	at io.reactivex.internal.operators.observable.ObservableRetryBiPredicate.subscribeActual(ObservableRetryBiPredicate.java:4)
+	at gh1.e.subscribe(Observable.java:7)
+	at io.reactivex.internal.operators.observable.ObservableSubscribeOn$a.run(ObservableSubscribeOn.java:1)
+	at io.reactivex.internal.schedulers.ScheduledDirectTask.call(ScheduledDirectTask.java:3)
+	at io.reactivex.internal.schedulers.ScheduledDirectTask.call(ScheduledDirectTask.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+MD5 update data Utf8: dWWoXlbR3K87j2N27Dkv4uOPUnOsh0xrJ5t+atsiQXC+/dIN8Kof9Gm2x1kil7S/Uym9LsxuBzPSIffGW1pVot7XOVFkoRw+8ANTUD6rx0LSuql0dYoLwasFiHS0dOnaXyDFBzX9RZYpbbLz5WYR0TQAVwiszJEEHLw6KRlQKCrnsg8oHLJlFA7Jgpacpv6e6z2GTVMSnuj7550nEnf1LLxgl4SSIzuYlmMKGv5rMRh3JyzigmojnS2EwFB5GxugzYxZN0aSgZSFmG2Nlmw9PQ==
+MD5 update data Hex: 6457576f586c6252334b38376a324e3237446b7634754f50556e4f73683078724a35742b617473695158432b2f64494e384b6f6639476d3278316b696c37532f55796d394c737875427a505349666647573170566f7437584f56466b6f52772b38414e545544367278304c5375716c3064596f4c7761734669485330644f6e6158794446427a5839525a597062624c7a3557595230545141567769737a4a4545484c77364b526c514b43726e7367386f484c4a6c4641374a6770616370763665367a324754564d536e756a373535306e456e66314c4c78676c345353497a75596c6d4d4b477635724d5268334a797a69676d6f6a6e53324577464235477875677a59785a4e306153675a53466d47324e6c6d773950513d3d
+MD5 update data Base64: ZFdXb1hsYlIzSzg3ajJOMjdEa3Y0dU9QVW5Pc2gweHJKNXQrYXRzaVFYQysvZElOOEtvZjlHbTJ4MWtpbDdTL1V5bTlMc3h1QnpQU0lmZkdXMXBWb3Q3WE9WRmtvUncrOEFOVFVENnJ4MExTdXFsMGRZb0x3YXNGaUhTMGRPbmFYeURGQnpYOVJaWXBiYkx6NVdZUjBUUUFWd2lzekpFRUhMdzZLUmxRS0NybnNnOG9ITEpsRkE3SmdwYWNwdjZlNnoyR1RWTVNudWo3NTUwbkVuZjFMTHhnbDRTU0l6dVlsbU1LR3Y1ck1SaDNKeXppZ21vam5TMkV3RkI1R3h1Z3pZeFpOMGFTZ1pTRm1HMk5sbXc5UFE9PQ==
+=======================================================
+MessageDigest.digest() is called!
+java.lang.Throwable
+	at java.security.MessageDigest.digest(Native Method)
+	at je.k0.f(RequestUtils.java:3)
+	at je.k0.b(RequestUtils.java:13)
+	at lte.NCall.IL(Native Method)
+	at com.shizhuang.duapp.common.helper.net.interceptor.HttpRequestInterceptor.intercept(Unknown Source:18)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:10)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:1)
+	at eb.b.intercept(MergeHostAfterInterceptor.java:11)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:10)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:1)
+	at eb.d.intercept(MergeHostInterceptor.java:8)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:10)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:1)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:13)
+	at okhttp3.RealCall.execute(RealCall.java:8)
+	at retrofit2.OkHttpCall.execute(OkHttpCall.java:18)
+	at retrofit2.adapter.rxjava2.CallExecuteObservable.subscribeActual(CallExecuteObservable.java:5)
+	at gh1.e.subscribe(Observable.java:7)
+	at retrofit2.adapter.rxjava2.BodyObservable.subscribeActual(BodyObservable.java:1)
+	at gh1.e.subscribe(Observable.java:7)
+	at th1.j1.subscribeActual(ObservableMap.java:1)
+	at gh1.e.subscribe(Observable.java:7)
+	at io.reactivex.internal.operators.observable.ObservableRetryWhen$RepeatWhenObserver.subscribeNext(ObservableRetryWhen.java:5)
+	at io.reactivex.internal.operators.observable.ObservableRetryWhen.subscribeActual(ObservableRetryWhen.java:7)
+	at gh1.e.subscribe(Observable.java:7)
+	at io.reactivex.internal.operators.observable.ObservableRetryBiPredicate$RetryBiObserver.subscribeNext(ObservableRetryBiPredicate.java:3)
+	at io.reactivex.internal.operators.observable.ObservableRetryBiPredicate.subscribeActual(ObservableRetryBiPredicate.java:4)
+	at gh1.e.subscribe(Observable.java:7)
+	at io.reactivex.internal.operators.observable.ObservableSubscribeOn$a.run(ObservableSubscribeOn.java:1)
+	at io.reactivex.internal.schedulers.ScheduledDirectTask.call(ScheduledDirectTask.java:3)
+	at io.reactivex.internal.schedulers.ScheduledDirectTask.call(ScheduledDirectTask.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+MD5 digest result Hex: bc52c874470b9f7bd8e76bb9e707df8d
+MD5 digest result Base64: vFLIdEcLn3vY52u55wffjQ==
+=======================================================
+Cipher.init('int', 'java.security.Key', 'java.security.SecureRandom') is called!
+Cipher.doFinal('[B') is called!
+java.lang.Throwable
+	at javax.crypto.Cipher.doFinal(Native Method)
+	at je.b.a(AesUtilsForApiEncode.java:16)
+	at lte.NCall.IL(Native Method)
+	at com.shizhuang.duapp.common.helper.net.interceptor.HttpRequestInterceptor.intercept(Unknown Source:18)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:10)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:1)
+	at eb.b.intercept(MergeHostAfterInterceptor.java:11)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:10)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:1)
+	at eb.d.intercept(MergeHostInterceptor.java:8)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:10)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:1)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:13)
+	at okhttp3.RealCall.execute(RealCall.java:8)
+	at retrofit2.OkHttpCall.execute(OkHttpCall.java:18)
+	at retrofit2.adapter.rxjava2.CallExecuteObservable.subscribeActual(CallExecuteObservable.java:5)
+	at gh1.e.subscribe(Observable.java:7)
+	at retrofit2.adapter.rxjava2.BodyObservable.subscribeActual(BodyObservable.java:1)
+	at gh1.e.subscribe(Observable.java:7)
+	at th1.j1.subscribeActual(ObservableMap.java:1)
+	at gh1.e.subscribe(Observable.java:7)
+	at io.reactivex.internal.operators.observable.ObservableRetryWhen$RepeatWhenObserver.subscribeNext(ObservableRetryWhen.java:5)
+	at io.reactivex.internal.operators.observable.ObservableRetryWhen.subscribeActual(ObservableRetryWhen.java:7)
+	at gh1.e.subscribe(Observable.java:7)
+	at io.reactivex.internal.operators.observable.ObservableRetryBiPredicate$RetryBiObserver.subscribeNext(ObservableRetryBiPredicate.java:3)
+	at io.reactivex.internal.operators.observable.ObservableRetryBiPredicate.subscribeActual(ObservableRetryBiPredicate.java:4)
+	at gh1.e.subscribe(Observable.java:7)
+	at io.reactivex.internal.operators.observable.ObservableSubscribeOn$a.run(ObservableSubscribeOn.java:1)
+	at io.reactivex.internal.schedulers.ScheduledDirectTask.call(ScheduledDirectTask.java:3)
+	at io.reactivex.internal.schedulers.ScheduledDirectTask.call(ScheduledDirectTask.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+AES/ECB/PKCS5Padding doFinal data Utf8: 04fb352acbdec4a3
+AES/ECB/PKCS5Padding doFinal data Hex: 30346662333532616362646563346133
+AES/ECB/PKCS5Padding doFinal data Base64: MDRmYjM1MmFjYmRlYzRhMw==
+AES/ECB/PKCS5Padding doFinal result Hex: be9be66f0d9c035a450d03ca23b87e93bdfe24914a4eef24d4d5c25559243bdd
+AES/ECB/PKCS5Padding doFinal result Base64: vpvmbw2cA1pFDQPKI7h+k73+JJFKTu8k1NXCVVkkO90=
+=======================================================
+MessageDigest.digest('[B') is called!
+java.lang.Throwable
+	at java.security.MessageDigest.digest(Native Method)
+	at dr.d.c(Utils.java:2)
+	at xq.f.a(RequestOperation.java:15)
+	at xq.f.f(RequestOperation.java:3)
+	at er.d.b(DefaultLogClient.java:1)
+	at er.e.asyncPostCachedLog2(LogClientProxy.java:4)
+	at fr.a.run(CacheLogUploadTask.java:21)
+	at fr.b.handleMessage(CollectDispatcher.java:16)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+MD5 digest data Utf8: x��WI��Z�+VV�E%e_�i��X�����E��u|���!S�lO,� ��z�Ă���_pl'�n�Ab�&�=��>×���:	��&�u�^���9#jߎ~�I��/�W<!;�WI��]Ʌ�h�'qBC���r�Ì(�	8��fi�本je	e$I�Q��:���Jr�8�k��fɚ�q8�
+MD5 digest data Hex: 789cb557498fe35a15fe2b5656af4525655fcf69b1c8589da492cae0aa0c1845d7f6757c13fbdae52153ab176c104f2cd82010120bb6ac7a89c4827fd3fde05f706c279d6ea94162c126f63df7cc3ec397f795f53a09b3d826eb75a55ea9dcc1390d236adf8e7eb849f2d32fde573c1c07213bc10d0f57498aed5dc985a368bd277142430604b9a6d47206dbc38c111f28c10938aeda66691897e69cac6a6509652449aa51ece43a899d964a729538a26bb09266c99ac47118030338d700963d4d7337ec30a8251e3d7b19669b9a938110fce64628ab85514a037a26b5c7fcd80a598ac1547c157f41a0ce217b0ab1671975f2a824d71265846dcb21b684c53cb20b77e798c6f89a92280eb7e06819c3a17aa0ce86a47013e1d40392790f8e9bf77b217f89ccfb2c21f1da86a0cbd7041e0c822cdcbac5bc4e4f11016946d24318efbecd2a883bf9a5aca870e185495aa6a8e6904356833494ec039267452012d1b1a408ae6e4144bcee2858c24440b6406cace561f9382d83b1a38c323784c324c33e280a3883d81e0bf31c92e48eeb319b9b0d3541e6cbe2a041f1ed0455903505898807656c532ab332ea3b0670c0714e1c6e14ee3991e704a18ef8ba88b8d6cce0108ff2c45b741d844ee693320ea0c438b0f2085511898a84342da791d78c24e93b821dc8c3a52a0a2b75aea8b29ac09b8c46fb639d135419ce08a9355d37991d863b4a8c7047589d33d9815819ae73c3f04c7d1f9bf7c0cafdf04859767ccb35981387d4e104fe2d37a647e27312d7cc6d98f793096ad410cf4b3c08f0f25beeb07fc335a2c82773620d680a8a44b5262adc0f8377c6f0f18ef3e98e700fc4de856fb897f2d399f712186b7971184001a870a8892ad26b82a6803f16f50937c32e8ee95599795f1472ee2444f8032edd7b2bf06f4ce664117c3a378c833a77b9301930f72021a514b05cfaaece156d67322f0b48eb4acb19f697ece5ef45af7cc99393951d61c498a6f5321d3f936ef4660c56ebdc260c373e31595e0dd0a04194a7bf28082469bca89a2cc98d520abcf0c1217d82827881e711418a4e880cf589455e7534d7b63072b12e6045d1255de679acda16afb912f049ba62b210e75a4cf60cad536d6c084bafa17e2f418b6a234bbdea25a026c131893972ea7bd6834d9f687ff67cee0923dad76b408c968b097dda76c4a1f12c8db6bdc393d1497ac18b64b77acad0b0f9d179283fb51bf27076a078313af7b6211db6a7c1723b14864177bb0ca6fef23cf586a75ed2632361497b4a6fdbe05741ef3c32fade12f577abf9905f1a43fad8ea0bcedcdffd771d2fe7d5a2df5fe5f6b7bdf3d0e81d46db251a5298318b916fef64cf9a3f43208ffe3e7219c5be6f5361397ae6e5a9315a8e66a023f0cf53f1c5b745888d4d4fcefc45aff9a7b5250f0eee360bec9337775f1603db7d7c4e3cfb65874029d3960fa9e0efc40943fe6ad57d37acc6d3e77684b7afebd129799059974ebdb11ea5d9aadd5e49b1a1450ffdd6e0e4beac33fd191f0eb3d6ea6c0d94b5ba6f36887458557575b7797ae92ef0c109dead5463b09a577b8da1e737c7e3d7e15ed766ae188f2291d777d58edf1d55b5b5600c8e87853cd85bcfe95375be993487d6e4b87c87d8407855797bdeedf03b61779ca0ce42dd0e06bedd7c7c7a49542be329ee337fd44ff4f1bcdf98fa4cf1a42e53b5686b6ddbebc16078208ffb9046d9d85d4fe7b113250fbdb4bd8e436dbd64e360e54ab3c6ebd3030ac27377331968fe62bb490da1ab08ad89d8f2ad577d1ee2ce797c4a4e9e121bd9eb6cc184098c9e641a865090d04a24c88a274dc671783c15efb3419dd39f22d675ced9c0382d06d36c174b8760b09aa624795d9cc5dea931230f3b9d74ed69f338da75f081cd8cb8674c542b79cdc4e4d45cd21769188f312687d973eb789c4c3badf1eb48692154743b6c86b2436038c43053619bc0b1d9d19b1d45e9f26dbdc58b724392f9362fb61a486c6a6a47179bed6e0749ba2035a44ea78ba4b6d4965b4896651d4970d9067551026d0dadbc83277f879d03ca0f36b45f403ac76ee7b93d1dd3f1e2497212e8f8625c2751c812729bd76d9c923a6778d91d27c0b8c3a7621c7002aa23a9ce6bdcc3d0308bd50c6d5d356001c25883f14a6d9c16a3739b84ec2dccb33821e9cf9f8d6e55bbb13f12b6493d70319ff7330f3be10126044c2e9b547b6d7019135b40aea62892ec62a21151d66da42b3671055926a2c9a2909e43564d0b913c698e6523459524c59234d9b661fab8593ec3ab163d57f344d73995877108a30816733efdbe1e7c02528a6c55fdaf3d2bd227dcf1777ce13a2bb77d9ddb111255b14ff7a4c85d01120a14829028205e5194af004a987c85af905e2eee001f5dd8903bef9c1335495078fe021b0060c0e62cf57d072495e80d70155c4340373b57b811139fe0245fce02ffd5876d864e0e30de9b9520d99895ba59f9fce36f3ffff9ef9f7ef7b7cfbff9c3a78fbffee92fbffad7effff4cf8f1fcdca9d79b1017c60e3c3cd082cfe02155e966d01479274fd2d8804ea1509d52b07ead29b3cc305c270fdfc795729e15719eb054a94b0e1e6ad4d238f400b01c628bcce933d02e9c24b3bcc581a9f5ae0155c6a0a906e4bb1602fd818b41fdd9404cb9691ad41a1a8bca5bbaae56844552c4b272aec3457730a81082709f8ef1412ba2e221db098821d47d775cb12641b2baa8a344b1365ac951297dd5e485cd77b7ef165cf1637dfaedae21e3aa7b88a0ea5c02d40206aa2ad8ab266eb121131928820b8bceb10c1b65cd981865f0b85ccbe602e814125ff5c499efaffe7f8ca21731cda00ffff6399520baf7d5ac05d7825418cefb0baaf7e79d7f6554981b702472745ed7e17ca5f73c6ab92a67fdd5779d19499ce9b30ceebd24b53187de67d01dfbf20ecff11d5e7d57c29d44ffff8e34f3ffef566d4ca4114d04b1475c5cdd73f4eb5a2e3fcb01c816527a425a6be816e4d976f0d72fde750085a45f882a0c22cf8f0cb0fff064e548acb
+MD5 digest data Base64: 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
+MessageDigest.update('[B') is called!
+java.lang.Throwable
+	at java.security.MessageDigest.update(Native Method)
+	at java.security.MessageDigest.digest(MessageDigest.java:447)
+	at java.security.MessageDigest.digest(Native Method)
+	at dr.d.c(Utils.java:2)
+	at xq.f.a(RequestOperation.java:15)
+	at xq.f.f(RequestOperation.java:3)
+	at er.d.b(DefaultLogClient.java:1)
+	at er.e.asyncPostCachedLog2(LogClientProxy.java:4)
+	at fr.a.run(CacheLogUploadTask.java:21)
+	at fr.b.handleMessage(CollectDispatcher.java:16)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+MD5 update data Utf8: x��WI��Z�+VV�E%e_�i��X�����E��u|���!S�lO,� ��z�Ă���_pl'�n�Ab�&�=��>×���:	��&�u�^���9#jߎ~�I��/�W<!;�WI��]Ʌ�h�'qBC���r�Ì(�	8��fi�本je	e$I�Q��:���Jr�8�k��fɚ�q8�
+MD5 update data Hex: 789cb557498fe35a15fe2b5656af4525655fcf69b1c8589da492cae0aa0c1845d7f6757c13fbdae52153ab176c104f2cd82010120bb6ac7a89c4827fd3fde05f706c279d6ea94162c126f63df7cc3ec397f795f53a09b3d826eb75a55ea9dcc1390d236adf8e7eb849f2d32fde573c1c07213bc10d0f57498aed5dc985a368bd277142430604b9a6d47206dbc38c111f28c10938aeda66691897e69cac6a6509652449aa51ece43a899d964a729538a26bb09266c99ac47118030338d700963d4d7337ec30a8251e3d7b19669b9a938110fce64628ab85514a037a26b5c7fcd80a598ac1547c157f41a0ce217b0ab1671975f2a824d71265846dcb21b684c53cb20b77e798c6f89a92280eb7e06819c3a17aa0ce86a47013e1d40392790f8e9bf77b217f89ccfb2c21f1da86a0cbd7041e0c822cdcbac5bc4e4f11016946d24318efbecd2a883bf9a5aca870e185495aa6a8e6904356833494ec039267452012d1b1a408ae6e4144bcee2858c24440b6406cace561f9382d83b1a38c323784c324c33e280a3883d81e0bf31c92e48eeb319b9b0d3541e6cbe2a041f1ed0455903505898807656c532ab332ea3b0670c0714e1c6e14ee3991e704a18ef8ba88b8d6cce0108ff2c45b741d844ee693320ea0c438b0f2085511898a84342da791d78c24e93b821dc8c3a52a0a2b75aea8b29ac09b8c46fb639d135419ce08a9355d37991d863b4a8c7047589d33d9815819ae73c3f04c7d1f9bf7c0cafdf04859767ccb35981387d4e104fe2d37a647e27312d7cc6d98f793096ad410cf4b3c08f0f25beeb07fc335a2c82773620d680a8a44b5262adc0f8377c6f0f18ef3e98e700fc4de856fb897f2d399f712186b7971184001a870a8892ad26b82a6803f16f50937c32e8ee95599795f1472ee2444f8032edd7b2bf06f4ce664117c3a378c833a77b9301930f72021a514b05cfaaece156d67322f0b48eb4acb19f697ece5ef45af7cc99393951d61c498a6f5321d3f936ef4660c56ebdc260c373e31595e0dd0a04194a7bf28082469bca89a2cc98d520abcf0c1217d82827881e711418a4e880cf589455e7534d7b63072b12e6045d1255de679acda16afb912f049ba62b210e75a4cf60cad536d6c084bafa17e2f418b6a234bbdea25a026c131893972ea7bd6834d9f687ff67cee0923dad76b408c968b097dda76c4a1f12c8db6bdc393d1497ac18b64b77acad0b0f9d179283fb51bf27076a078313af7b6211db6a7c1723b14864177bb0ca6fef23cf586a75ed2632361497b4a6fdbe05741ef3c32fade12f577abf9905f1a43fad8ea0bcedcdffd771d2fe7d5a2df5fe5f6b7bdf3d0e81d46db251a5298318b916fef64cf9a3f43208ffe3e7219c5be6f5361397ae6e5a9315a8e66a023f0cf53f1c5b745888d4d4fcefc45aff9a7b5250f0eee360bec9337775f1603db7d7c4e3cfb65874029d3960fa9e0efc40943fe6ad57d37acc6d3e77684b7afebd129799059974ebdb11ea5d9aadd5e49b1a1450ffdd6e0e4beac33fd191f0eb3d6ea6c0d94b5ba6f36887458557575b7797ae92ef0c109dead5463b09a577b8da1e737c7e3d7e15ed766ae188f2291d777d58edf1d55b5b5600c8e87853cd85bcfe95375be993487d6e4b87c87d8407855797bdeedf03b61779ca0ce42dd0e06bedd7c7c7a49542be329ee337fd44ff4f1bcdf98fa4cf1a42e53b5686b6ddbebc16078208ffb9046d9d85d4fe7b113250fbdb4bd8e436dbd64e360e54ab3c6ebd3030ac27377331968fe62bb490da1ab08ad89d8f2ad577d1ee2ce797c4a4e9e121bd9eb6cc184098c9e641a865090d04a24c88a274dc671783c15efb3419dd39f22d675ced9c0382d06d36c174b8760b09aa624795d9cc5dea931230f3b9d74ed69f338da75f081cd8cb8674c542b79cdc4e4d45cd21769188f312687d973eb789c4c3badf1eb48692154743b6c86b2436038c43053619bc0b1d9d19b1d45e9f26dbdc58b724392f9362fb61a486c6a6a47179bed6e0749ba2035a44ea78ba4b6d4965b4896651d4970d9067551026d0dadbc83277f879d03ca0f36b45f403ac76ee7b93d1dd3f1e2497212e8f8625c2751c812729bd76d9c923a6778d91d27c0b8c3a7621c7002aa23a9ce6bdcc3d0308bd50c6d5d356001c25883f14a6d9c16a3739b84ec2dccb33821e9cf9f8d6e55bbb13f12b6493d70319ff7330f3be10126044c2e9b547b6d7019135b40aea62892ec62a21151d66da42b3671055926a2c9a2909e43564d0b913c698e6523459524c59234d9b661fab8593ec3ab163d57f344d73995877108a30816733efdbe1e7c02528a6c55fdaf3d2bd227dcf1777ce13a2bb77d9ddb111255b14ff7a4c85d01120a14829028205e5194af004a987c85af905e2eee001f5dd8903bef9c1335495078fe021b0060c0e62cf57d072495e80d70155c4340373b57b811139fe0245fce02ffd5876d864e0e30de9b9520d99895ba59f9fce36f3ffff9ef9f7ef7b7cfbff9c3a78fbffee92fbffad7effff4cf8f1fcdca9d79b1017c60e3c3cd082cfe02155e966d01479274fd2d8804ea1509d52b07ead29b3cc305c270fdfc795729e15719eb054a94b0e1e6ad4d238f400b01c628bcce933d02e9c24b3bcc581a9f5ae0155c6a0a906e4bb1602fd818b41fdd9404cb9691ad41a1a8bca5bbaae56844552c4b272aec3457730a81082709f8ef1412ba2e221db098821d47d775cb12641b2baa8a344b1365ac951297dd5e485cd77b7ef165cf1637dfaedae21e3aa7b88a0ea5c02d40206aa2ad8ab266eb121131928820b8bceb10c1b65cd981865f0b85ccbe602e814125ff5c499efaffe7f8ca21731cda00ffff6399520baf7d5ac05d7825418cefb0baaf7e79d7f6554981b702472745ed7e17ca5f73c6ab92a67fdd5779d19499ce9b30ceebd24b53187de67d01dfbf20ecff11d5e7d57c29d44ffff8e34f3ffef566d4ca4114d04b1475c5cdd73f4eb5a2e3fcb01c816527a425a6be816e4d976f0d72fde750085a45f882a0c22cf8f0cb0fff064e548acb
+MD5 update data Base64: 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
+=======================================================
+MessageDigest.digest() is called!
+java.lang.Throwable
+	at java.security.MessageDigest.digest(Native Method)
+	at java.security.MessageDigest.digest(MessageDigest.java:448)
+	at java.security.MessageDigest.digest(Native Method)
+	at dr.d.c(Utils.java:2)
+	at xq.f.a(RequestOperation.java:15)
+	at xq.f.f(RequestOperation.java:3)
+	at er.d.b(DefaultLogClient.java:1)
+	at er.e.asyncPostCachedLog2(LogClientProxy.java:4)
+	at fr.a.run(CacheLogUploadTask.java:21)
+	at fr.b.handleMessage(CollectDispatcher.java:16)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+MD5 digest result Hex: 4d081246c9a0e3ac555577b3a4c2df9c
+MD5 digest result Base64: TQgSRsmg46xVVXezpMLfnA==
+=======================================================
+MD5 digest result Hex: 4d081246c9a0e3ac555577b3a4c2df9c
+MD5 digest result Base64: TQgSRsmg46xVVXezpMLfnA==
+=======================================================
+Mac.init('java.security.Key') is called!
+HmacSHA1 init Key Utf8: vSdIHfiOfF9tsP1kksXOK2S9caHLnH
+HmacSHA1 init Key Hex: 765364494866694f664639747350316b6b73584f4b3253396361484c6e48
+HmacSHA1 init Key Base64: dlNkSUhmaU9mRjl0c1Axa2tzWE9LMlM5Y2FITG5I
+=======================================================

@@ -1,0 +1,43 @@
+变量
+常量
+
+英文单词声明的一些 特殊符号
+    变量可以临时保存我们设置的一些具体的值
+
+
+标识符
+    变量
+    函数
+    类
+
+关键字
+    def
+    True
+    if
+    while
+
+        不可以
+
+运算符的相关操作
+
+   循环语句
+    for
+    while
+
+   判断语句
+    if
+    elif
+    else
+
+   内置类型
+    int
+    float
+    str
+    bool
+    bytes
+
+    list
+    tuple
+    set
+    dict
+

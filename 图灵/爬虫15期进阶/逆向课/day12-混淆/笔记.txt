@@ -1,0 +1,41 @@
+压缩
+https://yjypin.com/formatjs/
+
+混淆
+https://www.mangacopy.com/comic/wangzhetianxia/chapter/b120a100-c88b-11e8-8883-024352452ce0
+
+
+https://ctbpsp.com/
+
+
+https://www.geetest.com/show
+
+
+function aa(){
+    console.log("hello")
+}
+aa()
+
+
+
+data = {
+    "policyType": 6,
+    "province": "",
+    "city": "",
+    "downtown": "",
+    "garden": "",
+    "centralId": "",
+    "sort": 0,
+    "homePageFlag": 1,
+    "pageNum": 1,
+    "pageSize": 7
+}
+
+data  = c['encode'](r['data'])['finish']()["slice"]()
+
+
+
+重写 open 瑞树 加后缀 params
+
+重写 send  加后缀params
+

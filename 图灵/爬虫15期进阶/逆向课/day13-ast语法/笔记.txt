@@ -1,0 +1,43 @@
+
+
+ 'ZSvXK': function(J2, J3, J4) {
+            return J2(J3, J4);
+        },
+
+ Jk = Ja[Fh(bc.F)](Jw, Jk, JQ);
+
+ value = Jw(Jk,JQ)
+
+ast 《--- 蔡老板
+
+JP['type__1017'] = Ju,
+
+type__1017 分析的参数key值
+
+Ju 就是需要的结果
+
+
+
+解混淆
+fV(Pn.Bk)
+
+
+
+ ZSvXK =  function(J2, J3) {
+            return J2 + J3
+        },
+
+var aa = ZSvXK("he","llo")
+
+
+var aa = "hello"  ast能干的事情
+
+var bb = "debu" + ZSvXK("gg" , "er")
+
+var bb =  "debugger"
+
+
+
+
+
+

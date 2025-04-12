@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="js/jquery-1.12.4-min.js"></script>
+</head>
+<body>
+<script>
+    // XMLHttpRequests  封装的这个库来实现的  ajax
+    // 发送ajax版本不同  请求成功回调的关键字不一样  done/then  faile
+
+
+
+    $.ajax({
+    // 1.url 请求地址
+    url:'https://image.baidu.com/search/acjson?tn=resultjson_com&logid=9427531757301067696&ipn=rj&ct=201326592&is=&fp=result&fr=ala&word=%E5%9B%BE%E7%89%87&queryWord=%E5%9B%BE%E7%89%87&cl=2&lm=-1&ie=utf-8&oe=utf-8&adpicid=&st=&z=&ic=&hd=&latest=&copyright=&s=&se=&tab=&width=&height=&face=&istype=&qc=&nc=&expermode=&nojc=&isAsync=&pn=120&rn=30&gsm=78&1685437399327=',
+    // 2.type 请求方式，默认是'GET'，常用的还有'POST'
+    type:'GET',
+    // 3.dataType 设置返回的数据格式，常用的是'json'格式
+    dataType:'JSON',
+    // 4.data 设置发送给服务器的数据, 没有参数不需要设置
+
+    // 5.success 设置请求成功后的回调函数  响应的数据加密  解密操作
+    success:function (response) {
+        console.log(response);
+    },
+    // 6.error 设置请求失败后的回调函数
+    error:function () {
+        alert("请求失败,请稍后再试!");
+    },
+    // 7.async 设置是否异步，默认值是'true'，表示异步，一般不用写
+    async:true
+});
+</script>
+</body>
+</html>

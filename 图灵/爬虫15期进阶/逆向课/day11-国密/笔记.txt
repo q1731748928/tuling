@@ -1,0 +1,30 @@
+
+{
+  sm2: {
+    generateKeyPairHex: [Function: generateKeyPairHex],
+    compressPublicKeyHex: [Function: compressPublicKeyHex],
+    comparePublicKeyHex: [Function: comparePublicKeyHex],
+    doEncrypt: [Function: doEncrypt],
+    doDecrypt: [Function: doDecrypt],
+    doSignature: [Function: doSignature],
+    doVerifySignature: [Function: doVerifySignature],
+    getPublicKeyFromPrivateKey: [Function: getPublicKeyFromPrivateKey],
+    getPoint: [Function: getPoint],
+    verifyPublicKey: [Function: verifyPublicKey]
+  },
+  sm3: [Function (anonymous)],
+  sm4: { encrypt: [Function: encrypt], decrypt: [Function: decrypt] }
+}
+
+
+
+encData
+
+
+
+
+signData
+    1、先分析
+
+    sm2算法
+

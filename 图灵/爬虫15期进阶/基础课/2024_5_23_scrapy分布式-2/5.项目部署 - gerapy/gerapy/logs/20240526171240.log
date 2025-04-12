@@ -1,0 +1,642 @@
+INFO - 2024-05-26 17:12:43,901 - process: 16192 - scheduler.py - gerapy.server.core.scheduler - 105 - scheduler - successfully synced task with jobs with force
+INFO - 2024-05-26 17:18:54,608 - process: 16192 - build.py - gerapy.server.core.build - 24 - build - successfully build project fm to egg file C:\Users\hj\Desktop\爬虫15期\turing_exec\爬虫15期\2024_5_23_scrapy分布式-2\5.项目部署 - gerapy\gerapy\projects\fm\fm-1.0-py3.10.egg
+ERROR - 2024-05-26 17:23:37,019 - process: 16192 - utils.py - gerapy.server.core.utils - 564 - utils - HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=dangdang_book (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B026E0>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1276, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1322, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1271, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1031, in _send_output
+    self.send(msg)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 969, in send
+    self.connect()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x000001FED0B026E0>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=dangdang_book (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B026E0>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\utils.py", line 562, in wrapper
+    result = func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\views.py", line 690, in job_list
+    result = scrapyd.list_jobs(project_name)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\wrapper.py", line 139, in list_jobs
+    jobs = self.client.get(url, params=params, timeout=self.timeout)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\client.py", line 37, in request
+    response = super(Client, self).request(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 553, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=dangdang_book (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B026E0>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+ERROR - 2024-05-26 17:23:37,020 - process: 16192 - utils.py - gerapy.server.core.utils - 564 - utils - HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=douban (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0C86740>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1276, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1322, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1271, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1031, in _send_output
+    self.send(msg)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 969, in send
+    self.connect()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x000001FED0C86740>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=douban (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0C86740>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\utils.py", line 562, in wrapper
+    result = func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\views.py", line 690, in job_list
+    result = scrapyd.list_jobs(project_name)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\wrapper.py", line 139, in list_jobs
+    jobs = self.client.get(url, params=params, timeout=self.timeout)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\client.py", line 37, in request
+    response = super(Client, self).request(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 553, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=douban (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0C86740>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+ERROR - 2024-05-26 17:23:37,020 - process: 16192 - utils.py - gerapy.server.core.utils - 564 - utils - HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=fm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FECDA37520>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1276, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1322, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1271, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1031, in _send_output
+    self.send(msg)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 969, in send
+    self.connect()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x000001FECDA37520>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=fm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FECDA37520>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\utils.py", line 562, in wrapper
+    result = func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\views.py", line 690, in job_list
+    result = scrapyd.list_jobs(project_name)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\wrapper.py", line 139, in list_jobs
+    jobs = self.client.get(url, params=params, timeout=self.timeout)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\client.py", line 37, in request
+    response = super(Client, self).request(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 553, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=fm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FECDA37520>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+ERROR - 2024-05-26 17:23:37,020 - process: 16192 - utils.py - gerapy.server.core.utils - 564 - utils - HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=netease (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B01660>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1276, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1322, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1271, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1031, in _send_output
+    self.send(msg)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 969, in send
+    self.connect()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x000001FED0B01660>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=netease (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B01660>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\utils.py", line 562, in wrapper
+    result = func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\views.py", line 690, in job_list
+    result = scrapyd.list_jobs(project_name)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\wrapper.py", line 139, in list_jobs
+    jobs = self.client.get(url, params=params, timeout=self.timeout)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\client.py", line 37, in request
+    response = super(Client, self).request(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 553, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=netease (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B01660>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+ERROR - 2024-05-26 17:24:37,002 - process: 16192 - utils.py - gerapy.server.core.utils - 564 - utils - HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=douban (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B325C0>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1276, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1322, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1271, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1031, in _send_output
+    self.send(msg)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 969, in send
+    self.connect()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x000001FED0B325C0>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=douban (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B325C0>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\utils.py", line 562, in wrapper
+    result = func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\views.py", line 690, in job_list
+    result = scrapyd.list_jobs(project_name)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\wrapper.py", line 139, in list_jobs
+    jobs = self.client.get(url, params=params, timeout=self.timeout)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\client.py", line 37, in request
+    response = super(Client, self).request(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 553, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=douban (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B325C0>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+ERROR - 2024-05-26 17:24:37,021 - process: 16192 - utils.py - gerapy.server.core.utils - 564 - utils - HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=netease (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B32FE0>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1276, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1322, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1271, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1031, in _send_output
+    self.send(msg)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 969, in send
+    self.connect()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x000001FED0B32FE0>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=netease (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B32FE0>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\utils.py", line 562, in wrapper
+    result = func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\views.py", line 690, in job_list
+    result = scrapyd.list_jobs(project_name)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\wrapper.py", line 139, in list_jobs
+    jobs = self.client.get(url, params=params, timeout=self.timeout)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\client.py", line 37, in request
+    response = super(Client, self).request(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 553, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=netease (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B32FE0>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+ERROR - 2024-05-26 17:24:37,034 - process: 16192 - utils.py - gerapy.server.core.utils - 564 - utils - HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=fm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B44B50>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1276, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1322, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1271, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1031, in _send_output
+    self.send(msg)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 969, in send
+    self.connect()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x000001FED0B44B50>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=fm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B44B50>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\utils.py", line 562, in wrapper
+    result = func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\views.py", line 690, in job_list
+    result = scrapyd.list_jobs(project_name)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\wrapper.py", line 139, in list_jobs
+    jobs = self.client.get(url, params=params, timeout=self.timeout)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\client.py", line 37, in request
+    response = super(Client, self).request(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 553, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=fm (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B44B50>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+ERROR - 2024-05-26 17:24:37,034 - process: 16192 - utils.py - gerapy.server.core.utils - 564 - utils - HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=dangdang_book (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B44580>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+    raise err
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1276, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1322, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1271, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 1031, in _send_output
+    self.send(msg)
+  File "E:\Programs\Python\Python310\lib\http\client.py", line 969, in send
+    self.connect()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x000001FED0B44580>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "E:\Programs\Python\Python310\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=dangdang_book (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B44580>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\utils.py", line 562, in wrapper
+    result = func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\gerapy\server\core\views.py", line 690, in job_list
+    result = scrapyd.list_jobs(project_name)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\wrapper.py", line 139, in list_jobs
+    jobs = self.client.get(url, params=params, timeout=self.timeout)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\scrapyd_api\client.py", line 37, in request
+    response = super(Client, self).request(*args, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Programs\Python\Python310\lib\site-packages\requests\adapters.py", line 553, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='192.168.1.106', port=6800): Max retries exceeded with url: /listjobs.json?project=dangdang_book (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FED0B44580>, 'Connection to 192.168.1.106 timed out. (connect timeout=None)'))
