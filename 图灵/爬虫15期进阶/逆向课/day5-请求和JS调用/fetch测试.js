@@ -1,4 +1,5 @@
-let fetch = require("node-fetch");
+// let fetch = require("node-fetch");
+import fetch from "node-fetch";
 
 console.log(fetch)
 
